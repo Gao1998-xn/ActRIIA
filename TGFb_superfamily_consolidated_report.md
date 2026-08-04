@@ -577,436 +577,436 @@ BMP10 是 TGF-β 超家族成员，在**心脏发育**中具有不可替代的�
 ## 完整参考文献列表
 
 ## References
-<a id="ref-1"></a>1. Yun‐Sil Lee, Se-Jin Lee (2015). Roles of GASP-1 and GDF-11 in Dental and Craniofacial Development. *Journal of oral medicine and pain*. doi:10.14476/jomp.2015.40.3.110
+<a id="ref-1"></a>1. Yun‐Sil Lee, Se-Jin Lee (2015). Roles of GASP-1 and GDF-11 in Dental and Craniofacial Development. *Journal of oral medicine and pain*. [DOI:10.14476/jomp.2015.40.3.110](https://doi.org/10.14476/jomp.2015.40.3.110)
 
-<a id="ref-2"></a>2. R. Essalmani, A. Zaid, J. Marcinkiewicz, et al. (2008). In vivo functions of the proprotein convertase PC5/6 during mouse development: Gdf11 is a likely substrate. *Proceedings of the National Academy of Sciences*. doi:10.1073/pnas.0709428105
+<a id="ref-2"></a>2. R. Essalmani, A. Zaid, J. Marcinkiewicz, et al. (2008). In vivo functions of the proprotein convertase PC5/6 during mouse development: Gdf11 is a likely substrate. *Proceedings of the National Academy of Sciences*. [DOI:10.1073/pnas.0709428105](https://doi.org/10.1073/pnas.0709428105)
 
-<a id="ref-3"></a>3. Olov Andersson, Eva Reissmann, C. Ibáñez (2006). Growth differentiation factor 11 signals through the transforming growth factor‐β receptor ALK5 to regionalize the anterior–posterior axis. *EMBO reports*. doi:10.1038/sj.embor.7400752
+<a id="ref-3"></a>3. Olov Andersson, Eva Reissmann, C. Ibáñez (2006). Growth differentiation factor 11 signals through the transforming growth factor‐β receptor ALK5 to regionalize the anterior–posterior axis. *EMBO reports*. [DOI:10.1038/sj.embor.7400752](https://doi.org/10.1038/sj.embor.7400752)
 
-<a id="ref-4"></a>4. T. Cox, A. Lidral, J. Mccoy, et al. (2019). Mutations in GDF11 and the extracellular antagonist, Follistatin, as a likely cause of Mendelian forms of orofacial clefting in humans. *Human Mutation*. doi:10.1002/humu.23793
+<a id="ref-4"></a>4. T. Cox, A. Lidral, J. Mccoy, et al. (2019). Mutations in GDF11 and the extracellular antagonist, Follistatin, as a likely cause of Mendelian forms of orofacial clefting in humans. *Human Mutation*. [DOI:10.1002/humu.23793](https://doi.org/10.1002/humu.23793)
 
-<a id="ref-5"></a>5. John Lian, R. Walker, Andrea D’Amico, et al. (2022). Functional substitutions of amino acids that differ between GDF11 and GDF8 impact skeletal development and skeletal muscle. *Life Science Alliance*. doi:10.26508/lsa.202201662
+<a id="ref-5"></a>5. John Lian, R. Walker, Andrea D’Amico, et al. (2022). Functional substitutions of amino acids that differ between GDF11 and GDF8 impact skeletal development and skeletal muscle. *Life Science Alliance*. [DOI:10.26508/lsa.202201662](https://doi.org/10.26508/lsa.202201662)
 
-<a id="ref-6"></a>6. Joonho Suh, Na-Kyung Kim, Seung-Hoon Lee, et al. (2020). GDF11 promotes osteogenesis as opposed to MSTN, and follistatin, a MSTN/GDF11 inhibitor, increases muscle mass but weakens bone. *Proceedings of the National Academy of Sciences of the United States of America*. doi:10.1073/pnas.1916034117
+<a id="ref-6"></a>6. Joonho Suh, Na-Kyung Kim, Seung-Hoon Lee, et al. (2020). GDF11 promotes osteogenesis as opposed to MSTN, and follistatin, a MSTN/GDF11 inhibitor, increases muscle mass but weakens bone. *Proceedings of the National Academy of Sciences of the United States of America*. [DOI:10.1073/pnas.1916034117](https://doi.org/1916034117)
 
-<a id="ref-7"></a>7. Ashwin Bhaskar, Sophie Astrof (2024). Identification of novel genes regulating the development of the palate. *bioRxiv*. doi:10.1101/2024.02.09.579685
+<a id="ref-7"></a>7. Ashwin Bhaskar, Sophie Astrof (2024). Identification of novel genes regulating the development of the palate. *bioRxiv*. [DOI:10.1101/2024.02.09.579685](https://doi.org/10.1101/2024.02.09.579685)
 
-<a id="ref-8"></a>8. A. Mcpherron, A. Lawler, Se-Jin Lee (1999). Regulation of anterior/posterior patterning of the axial skeleton by growth/differentiation factor 11. *Nature Genetics*. doi:10.1038/10320
+<a id="ref-8"></a>8. A. Mcpherron, A. Lawler, Se-Jin Lee (1999). Regulation of anterior/posterior patterning of the axial skeleton by growth/differentiation factor 11. *Nature Genetics*. [DOI:10.1038/10320](https://doi.org/10.1038/10320)
 
-<a id="ref-9"></a>9. Thomas A. Ravenscroft, Jennifer B. Phillips, Elizabeth Fieg, et al. (2021). Heterozygous loss-of-function variants significantly expand the phenotypes associated with loss of GDF11 | Genetics in Medicine | Springer Nature Link. *Genetics in Medicine*. doi:10.1038/s41436-021-01216-8
+<a id="ref-9"></a>9. Thomas A. Ravenscroft, Jennifer B. Phillips, Elizabeth Fieg, et al. (2021). Heterozygous loss-of-function variants significantly expand the phenotypes associated with loss of GDF11 | Genetics in Medicine | Springer Nature Link. *Genetics in Medicine*. [DOI:10.1038/s41436-021-01216-8](https://doi.org/10.1038/s41436-021-01216-8)
 
-<a id="ref-10"></a>10. Alexandra C. McPherron, Thanh V. Huynh, Se-Jin Lee (2009). Redundancy of myostatin and growth/differentiation factor 11 function. *BMC Developmental Biology*. doi:10.1186/1471-213x-9-24
+<a id="ref-10"></a>10. Alexandra C. McPherron, Thanh V. Huynh, Se-Jin Lee (2009). Redundancy of myostatin and growth/differentiation factor 11 function. *BMC Developmental Biology*. [DOI:10.1186/1471-213x-9-24](https://doi.org/10.1186/1471-213x-9-24)
 
-<a id="ref-11"></a>11. Derek Tai, Navneet Sandhu, A. Dermarderosian, et al. (2025). Meta-analysis of the cardiovascular adverse effects of bispecific antibodies in malignant hematology therapies.. *Journal of Clinical Oncology*. doi:10.1200/jco.2025.43.16_suppl.e14503
+<a id="ref-11"></a>11. Derek Tai, Navneet Sandhu, A. Dermarderosian, et al. (2025). Meta-analysis of the cardiovascular adverse effects of bispecific antibodies in malignant hematology therapies.. *Journal of Clinical Oncology*. [DOI:10.1200/jco.2025.43.16_suppl.e14503](https://doi.org/10.1200/jco.2025.43.16_suppl.e14503)
 
-<a id="ref-12"></a>12. H. Ramteke, Aman Narula, Sravani Bhavanam, et al. (2025). Cardiovascular adverse events associated with bispecific antibodies in Relapsed/Refractory hematologic malignancies: A comprehensive systematic review and meta-analysis. *Blood*. doi:10.1182/blood-2025-8091
+<a id="ref-12"></a>12. H. Ramteke, Aman Narula, Sravani Bhavanam, et al. (2025). Cardiovascular adverse events associated with bispecific antibodies in Relapsed/Refractory hematologic malignancies: A comprehensive systematic review and meta-analysis. *Blood*. [DOI:10.1182/blood-2025-8091](https://doi.org/10.1182/blood-2025-8091)
 
-<a id="ref-13"></a>13. M. Hanna, U. Badrising, O. Benveniste, et al. (2019). Safety and efficacy of intravenous bimagrumab in inclusion body myositis (RESILIENT): a randomised, double-blind, placebo-controlled phase 2b trial.. *The Lancet. Neurology*. doi:10.1016/s1474-4422(19)30200-5
+<a id="ref-13"></a>13. M. Hanna, U. Badrising, O. Benveniste, et al. (2019). Safety and efficacy of intravenous bimagrumab in inclusion body myositis (RESILIENT): a randomised, double-blind, placebo-controlled phase 2b trial.. *The Lancet. Neurology*. [DOI:10.1016/s1474-4422(19)30200-5](https://doi.org/10.1016/s1474-4422(19)30200-5)
 
-<a id="ref-14"></a>14. Shaowei Zhuang, Bitao Wang, Enmin Wu, et al. (2025). Adverse cardiac events associated with antibody drug conjugates in cancer patients: a retrospective analysis on the FAERS database and randomized controlled trials.. *Cardiovascular research*. doi:10.1093/cvr/cvaf095
+<a id="ref-14"></a>14. Shaowei Zhuang, Bitao Wang, Enmin Wu, et al. (2025). Adverse cardiac events associated with antibody drug conjugates in cancer patients: a retrospective analysis on the FAERS database and randomized controlled trials.. *Cardiovascular research*. [DOI:10.1093/cvr/cvaf095](https://doi.org/10.1093/cvr/cvaf095)
 
-<a id="ref-15"></a>15. S. Heymsfield, L. Aronne, Penelope Montgomery, et al. (2026). Bimagrumab plus semaglutide alone or in combination for the treatment of obesity: a randomized phase 2 trial. *Nature Medicine*. doi:10.1038/s41591-026-04204-0
+<a id="ref-15"></a>15. S. Heymsfield, L. Aronne, Penelope Montgomery, et al. (2026). Bimagrumab plus semaglutide alone or in combination for the treatment of obesity: a randomized phase 2 trial. *Nature Medicine*. [DOI:10.1038/s41591-026-04204-0](https://doi.org/10.1038/s41591-026-04204-0)
 
-<a id="ref-16"></a>16. Rooks D, Petricoul O, Praestgaard J, et al. (2020). Safety and pharmacokinetics of bimagrumab in healthy older and obese adults with body composition changes in the older cohort - PMC. *Journal of cachexia, sarcopenia and muscle*. doi:10.1002/jcsm.12639
+<a id="ref-16"></a>16. Rooks D, Petricoul O, Praestgaard J, et al. (2020). Safety and pharmacokinetics of bimagrumab in healthy older and obese adults with body composition changes in the older cohort - PMC. *Journal of cachexia, sarcopenia and muscle*. [DOI:10.1002/jcsm.12639](https://doi.org/10.1002/jcsm.12639)
 
-<a id="ref-17"></a>17. Steven B. Heymsfield, Laura A. Coleman, Ram R. Miller, Daniel Rooks, Didier Laurent, Olivier Pétricoul, et al. (2021). Effect of Bimagrumab vs Placebo on Body Fat Mass Among Adults With Type 2 Diabetes and Obesity. *JAMA Network Open*. doi:10.1001/jamanetworkopen.2020.33457
+<a id="ref-17"></a>17. Steven B. Heymsfield, Laura A. Coleman, Ram R. Miller, Daniel Rooks, Didier Laurent, Olivier Pétricoul, et al. (2021). Effect of Bimagrumab vs Placebo on Body Fat Mass Among Adults With Type 2 Diabetes and Obesity. *JAMA Network Open*. [DOI:10.1001/jamanetworkopen.2020.33457](https://doi.org/10.1001/jamanetworkopen.2020.33457)
 
-<a id="ref-18"></a>18. Sivakumar K, Cochrane TI, Sloth B, et al. (2020). Long-term safety and tolerability of bimagrumab (BYM338) in sporadic inclusion body myositis. *Neurology*. doi:10.1212/WNL.0000000000010417
+<a id="ref-18"></a>18. Sivakumar K, Cochrane TI, Sloth B, et al. (2020). Long-term safety and tolerability of bimagrumab (BYM338) in sporadic inclusion body myositis. *Neurology*. [DOI:10.1212/WNL.0000000000010417](https://doi.org/10.1212/WNL.0000000000010417)
 
-<a id="ref-19"></a>19. R. Bellinge, D. Liberles, S. Iaschi, et al. (2005). Myostatin and its implications on animal breeding: a review.. *Animal genetics*. doi:10.1111/j.1365-2052.2004.01229.x
+<a id="ref-19"></a>19. R. Bellinge, D. Liberles, S. Iaschi, et al. (2005). Myostatin and its implications on animal breeding: a review.. *Animal genetics*. [DOI:10.1111/j.1365-2052.2004.01229.x](https://doi.org/10.1111/j.1365-2052.2004.01229.x)
 
-<a id="ref-20"></a>20. Ye Cheng, S. Rachagani, J. Dekkers, et al. (2011). Mapping genetic loci that interact with myostatin to affect growth traits. *Heredity*. doi:10.1038/hdy.2011.45
+<a id="ref-20"></a>20. Ye Cheng, S. Rachagani, J. Dekkers, et al. (2011). Mapping genetic loci that interact with myostatin to affect growth traits. *Heredity*. [DOI:10.1038/hdy.2011.45](https://doi.org/10.1038/hdy.2011.45)
 
-<a id="ref-21"></a>21. Stefan Girgenrath, Kening Song, Lisa-Anne Whittemore (2004). Loss of myostatin expression alters fiber-type distribution and expression of myosin heavy chain isoforms in slow- and fast-type skeletal muscle. *Muscle & Nerve*. doi:10.1002/mus.20175
+<a id="ref-21"></a>21. Stefan Girgenrath, Kening Song, Lisa-Anne Whittemore (2004). Loss of myostatin expression alters fiber-type distribution and expression of myosin heavy chain isoforms in slow- and fast-type skeletal muscle. *Muscle & Nerve*. [DOI:10.1002/mus.20175](https://doi.org/10.1002/mus.20175)
 
-<a id="ref-22"></a>22. Alexander L.J. (2010). Mutations in the  Myostatin  gene leading to hypermuscularity in mammals: indications for a similar mechanism in fish?. *Animal Genetics*. doi:10.1111/j.1365-2052.2010.02144.x
+<a id="ref-22"></a>22. Alexander L.J. (2010). Mutations in the  Myostatin  gene leading to hypermuscularity in mammals: indications for a similar mechanism in fish?. *Animal Genetics*. [DOI:10.1111/j.1365-2052.2010.02144.x](https://doi.org/10.1111/j.1365-2052.2010.02144.x)
 
-<a id="ref-23"></a>23. Degens H, Patel K, Matsakas A (2025). Myostatin Knockout Mice Have Larger Muscle Fibers With Normal Function and Morphology - PMC. *Muscle & nerve*. doi:10.1002/mus.28389
+<a id="ref-23"></a>23. Degens H, Patel K, Matsakas A (2025). Myostatin Knockout Mice Have Larger Muscle Fibers With Normal Function and Morphology - PMC. *Muscle & nerve*. [DOI:10.1002/mus.28389](https://doi.org/10.1002/mus.28389)
 
-<a id="ref-24"></a>24. Tingqing Guo, William Jou, Tatyana Chanturiya, et al. (2009). Myostatin Inhibition in Muscle, but Not Adipose Tissue, Decreases Fat Mass and Improves Insulin Sensitivity | PLOS One. *PLoS ONE*. doi:10.1371/journal.pone.0004937
+<a id="ref-24"></a>24. Tingqing Guo, William Jou, Tatyana Chanturiya, et al. (2009). Myostatin Inhibition in Muscle, but Not Adipose Tissue, Decreases Fat Mass and Improves Insulin Sensitivity | PLOS One. *PLoS ONE*. [DOI:10.1371/journal.pone.0004937](https://doi.org/10.1371/journal.pone.0004937)
 
-<a id="ref-25"></a>25. Kirkwood E. Personius, Aditi Jayaram, David Krull, Roger H. Brown, Tianshun Xu, Bajin Han, et al. (2010). Grip force, EDL contractile properties, and voluntary wheel running after postdevelopmental myostatin depletion in mice. *Journal of Applied Physiology*. doi:10.1152/japplphysiol.00300.2010
+<a id="ref-25"></a>25. Kirkwood E. Personius, Aditi Jayaram, David Krull, Roger H. Brown, Tianshun Xu, Bajin Han, et al. (2010). Grip force, EDL contractile properties, and voluntary wheel running after postdevelopmental myostatin depletion in mice. *Journal of Applied Physiology*. [DOI:10.1152/japplphysiol.00300.2010](https://doi.org/10.1152/japplphysiol.00300.2010)
 
-<a id="ref-26"></a>26. Hanying Chen, S. Shi, Lourdes Acosta, et al. (2004). BMP10 is essential for maintaining cardiac growth during murine cardiogenesis. *Development*. doi:10.1242/dev.01094
+<a id="ref-26"></a>26. Hanying Chen, S. Shi, Lourdes Acosta, et al. (2004). BMP10 is essential for maintaining cardiac growth during murine cardiogenesis. *Development*. [DOI:10.1242/dev.01094](https://doi.org/10.1242/dev.01094)
 
-<a id="ref-27"></a>27. Jianhe Huang, J. Elicker, Nina M. Bowens, et al. (2012). Myocardin regulates BMP10 expression and is required for heart development.. *The Journal of clinical investigation*. doi:10.1172/jci63635
+<a id="ref-27"></a>27. Jianhe Huang, J. Elicker, Nina M. Bowens, et al. (2012). Myocardin regulates BMP10 expression and is required for heart development.. *The Journal of clinical investigation*. [DOI:10.1172/jci63635](https://doi.org/10.1172/jci63635)
 
-<a id="ref-28"></a>28. M. Pashmforoush, Jonathan T. Lu, Hanying Chen, et al. (2004). Nkx2-5 pathways and congenital heart disease; loss of ventricular myocyte lineage specification leads to progressive cardiomyopathy and complete heart block.. *Cell*. doi:10.1016/s0092-8674(04)00405-2
+<a id="ref-28"></a>28. M. Pashmforoush, Jonathan T. Lu, Hanying Chen, et al. (2004). Nkx2-5 pathways and congenital heart disease; loss of ventricular myocyte lineage specification leads to progressive cardiomyopathy and complete heart block.. *Cell*. [DOI:10.1016/s0092-8674(04)00405-2](https://doi.org/10.1016/s0092-8674(04)00405-2)
 
-<a id="ref-29"></a>29. Frédéric Morvan, J. Rondeau, C. Zou, et al. (2017). Blockade of activin type II receptors with a dual anti-ActRIIA/IIB antibody is critical to promote maximal skeletal muscle hypertrophy. *Proceedings of the National Academy of Sciences of the United States of America*. doi:10.1073/pnas.1707925114
+<a id="ref-29"></a>29. Frédéric Morvan, J. Rondeau, C. Zou, et al. (2017). Blockade of activin type II receptors with a dual anti-ActRIIA/IIB antibody is critical to promote maximal skeletal muscle hypertrophy. *Proceedings of the National Academy of Sciences of the United States of America*. [DOI:10.1073/pnas.1707925114](https://doi.org/10.1073/pnas.1707925114)
 
-<a id="ref-30"></a>30. Michelle Pirruccello-Straub, J. Jackson, Stefan Wawersik, et al. (2018). Blocking extracellular activation of myostatin as a strategy for treating muscle wasting. *Scientific Reports*. doi:10.1038/s41598-018-20524-9
+<a id="ref-30"></a>30. Michelle Pirruccello-Straub, J. Jackson, Stefan Wawersik, et al. (2018). Blocking extracellular activation of myostatin as a strategy for treating muscle wasting. *Scientific Reports*. [DOI:10.1038/s41598-018-20524-9](https://doi.org/10.1038/s41598-018-20524-9)
 
-<a id="ref-31"></a>31. D. Sako, A. Grinberg, June Liu, et al. (2010). Characterization of the Ligand Binding Functionality of the Extracellular Domain of Activin Receptor Type IIB. *The Journal of Biological Chemistry*. doi:10.1074/jbc.m110.114959
+<a id="ref-31"></a>31. D. Sako, A. Grinberg, June Liu, et al. (2010). Characterization of the Ligand Binding Functionality of the Extracellular Domain of Activin Receptor Type IIB. *The Journal of Biological Chemistry*. [DOI:10.1074/jbc.m110.114959](https://doi.org/10.1074/jbc.m110.114959)
 
-<a id="ref-32"></a>32. Kotaro Sakamoto, Yoko Kanematsu-Yamaki, Y. Kamada, et al. (2017). Identification of ligand-selective peptidic ActRIIB-antagonists using phage display technology. *Biochemistry and Biophysics Reports*. doi:10.1016/j.bbrep.2017.06.001
+<a id="ref-32"></a>32. Kotaro Sakamoto, Yoko Kanematsu-Yamaki, Y. Kamada, et al. (2017). Identification of ligand-selective peptidic ActRIIB-antagonists using phage display technology. *Biochemistry and Biophysics Reports*. [DOI:10.1016/j.bbrep.2017.06.001](https://doi.org/10.1016/j.bbrep.2017.06.001)
 
-<a id="ref-33"></a>33. Hyeon-Jeong Lee, Jiin Hwang, Yoondam Seo, et al. (2024). Simultaneous detection of myostatin-targeting monoclonal antibodies in dried blood spots and plasma using liquid chromatography-tandem mass spectrometry with field asymmetric ion mobility spectrometry.. *Journal of pharmaceutical and biomedical analysis*. doi:10.1016/j.jpba.2024.116518
+<a id="ref-33"></a>33. Hyeon-Jeong Lee, Jiin Hwang, Yoondam Seo, et al. (2024). Simultaneous detection of myostatin-targeting monoclonal antibodies in dried blood spots and plasma using liquid chromatography-tandem mass spectrometry.. *Journal of pharmaceutical and biomedical analysis*. [DOI:10.1016/j.jpba.2024.116518](https://doi.org/10.1016/j.jpba.2024.116518)
 
-<a id="ref-34"></a>34. Michael St. Andre, Mark Johnson, Prashant N. Bansal, et al. (2017). A mouse anti-myostatin antibody increases muscle mass and improves muscle strength and contractility in the mdx mouse model of Duchenne muscular dystrophy and its humanized equivalent, domagrozumab (PF-06252616), increases muscle volume in cynomolgus monkeys | Skeletal Muscle | Springer Nature Link. *Skeletal Muscle*. doi:10.1186/s13395-017-0141-y
+<a id="ref-34"></a>34. Michael St. Andre, Mark Johnson, Prashant N. Bansal, et al. (2017). A mouse anti-myostatin antibody increases muscle mass and improves muscle strength and contractility in the mdx mouse model of Duchenne muscular dystrophy and its humanized equivalent, domagrozumab (PF-06252616), increases muscle volume in cynomolgus monkeys | Skeletal Muscle | Springer Nature Link. *Skeletal Muscle*. [DOI:10.1186/s13395-017-0141-y](https://doi.org/10.1186/s13395-017-0141-y)
 
-<a id="ref-35"></a>35. McNally EM (2016). Questions and answers about myostatin, GDF11, and the aging heart - PMC. *Circulation research*. doi:10.1161/CIRCRESAHA.115.307861
+<a id="ref-35"></a>35. McNally EM (2016). Questions and answers about myostatin, GDF11, and the aging heart - PMC. *Circulation research*. [DOI:10.1161/CIRCRESAHA.115.307861](https://doi.org/10.1161/CIRCRESAHA.115.307861)
 
-<a id="ref-36"></a>36. Walker RG, Poggioli T, Katsimpardi L, et al. (2016). Biochemistry and Biology of GDF11 and Myostatin: similarities, differences and questions for future investigation - PMC. *Circulation research*. doi:10.1161/CIRCRESAHA.116.308391
+<a id="ref-36"></a>36. Walker RG, Poggioli T, Katsimpardi L, et al. (2016). Biochemistry and Biology of GDF11 and Myostatin: similarities, differences and questions for future investigation - PMC. *Circulation research*. [DOI:10.1161/CIRCRESAHA.116.308391](https://doi.org/10.1161/CIRCRESAHA.116.308391)
 
-<a id="ref-37"></a>37. Esther Latres, Jeffrey Pangilinan, Lawrence Miloscio, et al. (2015). Myostatin blockade with a fully human monoclonal antibody induces muscle hypertrophy and reverses muscle atrophy in young and aged mice | Skeletal Muscle | Springer Nature Link. *Skeletal Muscle*. doi:10.1186/s13395-015-0060-8
+<a id="ref-37"></a>37. Esther Latres, Jeffrey Pangilinan, Lawrence Miloscio, et al. (2015). Myostatin blockade with a fully human monoclonal antibody induces muscle hypertrophy and reverses muscle atrophy in young and aged | Skeletal Muscle | Springer Nature Link. *Skeletal Muscle*. [DOI:10.1186/s13395-015-0060-8](https://doi.org/10.1186/s13395-015-0060-8)
 
-<a id="ref-38"></a>38. Abigail E Starcher, Kristen Peissig, James B. Stanton, Gary A. Churchill, Dunpeng Cai, Joshua T. Maxwell, et al. (2021). A systems approach using Diversity Outbred mice distinguishes the cardiovascular effects and genetics of circulating GDF11 from those of its homolog, myostatin. *G3 Genes|Genomes|Genetics*. doi:10.1093/g3journal/jkab293
+<a id="ref-38"></a>38. Abigail E Starcher, Kristen Peissig, James B. Stanton, Gary A. Churchill, Dunpeng Cai, Joshua T. Maxwell, et al. (2021). A systems approach using Diversity Outbred mice distinguishes the cardiovascular effects and genetics of circulating GDF11 from those of its homolog, myostatin. *G3 Genes|Genomes|Genetics*. [DOI:10.1093/g3journal/jkab293](https://doi.org/10.1093/g3journal/jkab293)
 
-<a id="ref-39"></a>39. Catherine L Omosule, Dominique Joseph, Brooke Weiler, et al. (2022). Combinatorial Inhibition of Myostatin and Activin A Improves Femoral Bone Properties in the G610C Mouse Model of Osteogenesis Imperfecta. *Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research*. doi:10.1002/jbmr.4529
+<a id="ref-39"></a>39. Catherine L Omosule, Dominique Joseph, Brooke Weiler, et al. (2022). Combinatorial Inhibition of Myostatin and Activin A Improves Femoral Bone Properties in the G610C Mouse Model of Osteogenesis Imperfecta. *Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research*. [DOI:10.1002/jbmr.4529](https://doi.org/10.1002/jbmr.4529)
 
-<a id="ref-40"></a>40. R. Lim, Sambridhi Adhikari, S. Gurusinghe, et al. (2015). Inhibition of activin A signalling in a mouse model of pre-eclampsia.. *Placenta*. doi:10.1016/j.placenta.2015.06.004
+<a id="ref-40"></a>40. R. Lim, Sambridhi Adhikari, S. Gurusinghe, et al. (2015). Inhibition of activin A signalling in a mouse model of pre-eclampsia.. *Placenta*. [DOI:10.1016/j.placenta.2015.06.004](https://doi.org/10.1016/j.placenta.2015.06.004)
 
-<a id="ref-41"></a>41. Xiaohui Bian, Z. Snow, Caroline J. Zinn, et al. (2025). Activin A Antagonism with Follistatin Reduces Kidney Fibrosis, Injury, and Cellular Senescence-Associated Inflammation in Murine Diabetic Kidney Disease. *Kidney360*. doi:10.34067/kid.0000000776
+<a id="ref-41"></a>41. Xiaohui Bian, Z. Snow, Caroline J. Zinn, et al. (2025). Activin A Antagonism with Follistatin Reduces Kidney Fibrosis, Injury, and Cellular Senescence-Associated Inflammation in Murine Diabetic Kidney Disease. *Kidney360*. [DOI:10.34067/kid.0000000776](https://doi.org/10.34067/kid.0000000776)
 
-<a id="ref-42"></a>42. J. Schoelermann, G. Schang, Mathilde Poujol de Molliens, et al. (2023). HS135, a novel activin and GDF trap, is highly efficacious in preclinical models of pulmonary hypertension and obesity-associated heart failure with preserved ejection fraction. *European Heart Journal*. doi:10.1093/eurheartj/ehad655.3249
+<a id="ref-42"></a>42. J. Schoelermann, G. Schang, Mathilde Poujol de Molliens, et al. (2023). HS135, a novel activin and GDF trap, is highly efficacious in preclinical models of pulmonary hypertension and obesity-associated heart failure with preserved ejection fraction. *European Heart Journal*. [DOI:10.1093/eurheartj/ehad655.3249](https://doi.org/10.1093/eurheartj/ehad655.3249)
 
-<a id="ref-43"></a>43. C. Rivier, W. Vale (1991). Effect of recombinant activin-A on gonadotropin secretion in the female rat.. *Endocrinology*. doi:10.1210/endo-129-5-2463
+<a id="ref-43"></a>43. C. Rivier, W. Vale (1991). Effect of recombinant activin-A on gonadotropin secretion in the female rat.. *Endocrinology*. [DOI:10.1210/endo-129-5-2463](https://doi.org/10.1210/endo-129-5-2463)
 
-<a id="ref-44"></a>44. Sowmya Mekala, Ravi Rai, Samantha Loretta Reed, Bill Bowen, George K. Michalopoulos, Joseph Locker, et al. (2024). Antagonizing Activin A/p15INK4b Signaling as Therapeutic Strategy for Liver Disease. *Cells*. doi:10.3390/cells13070649
+<a id="ref-44"></a>44. Sowmya Mekala, Ravi Rai, Samantha Loretta Reed, Bill Bowen, George K. Michalopoulos, Joseph Locker, et al. (2024). Antagonizing Activin A/p15INK4b Signaling as Therapeutic Strategy for Liver Disease. *Cells*. [DOI:10.3390/cells13070649](https://doi.org/10.3390/cells13070649)
 
-<a id="ref-45"></a>45. Iskenderian A, Liu N, Deng Q, et al. (2018). Myostatin and activin blockade by engineered follistatin results in hypertrophy and improves dystrophic pathology in mdx mouse more than myostatin blockade alone - PMC. *Skeletal muscle*. doi:10.1186/s13395-018-0180-z
+<a id="ref-45"></a>45. Iskenderian A, Liu N, Deng Q, et al. (2018). Myostatin and activin blockade by engineered follistatin results in hypertrophy and improves dystrophic pathology in mdx mouse more than myostatin blockade alone - PMC. *Skeletal muscle*. [DOI:10.1186/s13395-018-0180-z](https://doi.org/10.1186/s13395-018-0180-z)
 
-<a id="ref-46"></a>46. Meier D, Lodberg A, Gvozdenovic A, et al. (2021). Inhibition of the activin receptor signaling pathway: A novel intervention against osteosarcoma. *Cancer medicine*. doi:10.1002/cam4.3581
+<a id="ref-46"></a>46. Meier D, Lodberg A, Gvozdenovic A, et al. (2021). Inhibition of the activin receptor signaling pathway: A novel intervention against osteosarcoma. *Cancer medicine*. [DOI:10.1002/cam4.3581](https://doi.org/10.1002/cam4.3581)
 
-<a id="ref-47"></a>47. M. Hedger, D. M. D. Kretser (2013). The activins and their binding protein, follistatin-Diagnostic and therapeutic targets in inflammatory disease and fibrosis.. *Cytokine & growth factor reviews*. doi:10.1016/j.cytogfr.2013.03.003
+<a id="ref-47"></a>47. M. Hedger, D. M. D. Kretser (2013). The activins and their binding protein, follistatin-Diagnostic and therapeutic targets in inflammatory disease and fibrosis.. *Cytokine & growth factor reviews*. [DOI:10.1016/j.cytogfr.2013.03.003](https://doi.org/10.1016/j.cytogfr.2013.03.003)
 
-<a id="ref-48"></a>48. Aimon Miranda, Cyrille K. Cornelio, B. A. C. Tran, et al. (2025). Sotatercept: A First-In-Class Activin Signaling Inhibitor for Pulmonary Arterial Hypertension. *Journal of Pharmacy Technology*. doi:10.1177/87551225251317957
+<a id="ref-48"></a>48. Aimon Miranda, Cyrille K. Cornelio, B. A. C. Tran, et al. (2025). Sotatercept: A First-In-Class Activin Signaling Inhibitor for Pulmonary Arterial Hypertension. *Journal of Pharmacy Technology*. [DOI:10.1177/87551225251317957](https://doi.org/10.1177/87551225251317957)
 
-<a id="ref-49"></a>49. Marius M. Hoeper (2025). Sotatercept in pulmonary arterial hypertension: revolution, risk and the road ahead. *The European Respiratory Journal*. doi:10.1183/13993003.01633-2025
+<a id="ref-49"></a>49. Marius M. Hoeper (2025). Sotatercept in pulmonary arterial hypertension: revolution, risk and the road ahead. *The European Respiratory Journal*. [DOI:10.1183/13993003.01633-2025](https://doi.org/10.1183/13993003.01633-2025)
 
-<a id="ref-50"></a>50. J. Villanueva, J. Wade, A. Torres, et al. (2024). Sotatercept: The First FDA-Approved Activin A Receptor IIA Inhibitor Used in the Management of Pulmonary Arterial Hypertension. *American Journal of Cardiovascular Drugs*. doi:10.1007/s40256-024-00694-w
+<a id="ref-50"></a>50. J. Villanueva, J. Wade, A. Torres, et al. (2024). Sotatercept: The First FDA-Approved Activin A Receptor IIA Inhibitor Used in the Management of Pulmonary Arterial Hypertension. *American Journal of Cardiovascular Drugs*. [DOI:10.1007/s40256-024-00694-w](https://doi.org/10.1007/s40256-024-00694-w)
 
-<a id="ref-51"></a>51. Masashi Mukohda, T. Kodama, R. Mizuno (2024). Follistatin-mediated vascular protection via inhibition of activin A in essential and secondary hypertension. *Hypertension Research*. doi:10.1038/s41440-024-01960-9
+<a id="ref-51"></a>51. Masashi Mukohda, T. Kodama, R. Mizuno (2024). Follistatin-mediated vascular protection via inhibition of activin A in essential and secondary hypertension. *Hypertension Research*. [DOI:10.1038/s41440-024-01960-9](https://doi.org/10.1038/s41440-024-01960-9)
 
-<a id="ref-52"></a>52. Marc Humbert, Vallerie V. McLaughlin, J. Simon R. Gibbs, Mardi Gomberg‐Maitland, Marius M. Hoeper, Ioana R. Preston, et al. (2021). Sotatercept for the Treatment of Pulmonary Arterial Hypertension. *New England Journal of Medicine*. doi:10.1056/nejmoa2024277
+<a id="ref-52"></a>52. Marc Humbert, Vallerie V. McLaughlin, J. Simon R. Gibbs, Mardi Gomberg‐Maitland, Marius M. Hoeper, Ioana R. Preston, et al. (2021). Sotatercept for the Treatment of Pulmonary Arterial Hypertension. *New England Journal of Medicine*. [DOI:10.1056/nejmoa2024277](https://doi.org/10.1056/nejmoa2024277)
 
-<a id="ref-53"></a>53. Ranjan Niroshan, Ahmed Ahmed, Woods Jordana, Ramaneshwar Selvaraj, Patel Mihir, Yaman Dalati, et al. (2025). Sotatercept in the Treatment of Pulmonary Arterial Hypertension: A Comprehensive Narrative Review of Mechanism, Efficacy and Future Directions. *Journal of Pulmonology and Respiratory Research*. doi:10.29328/journal.jprr.1001068
+<a id="ref-53"></a>53. Ranjan Niroshan, Ahmed Ahmed, Woods Jordana, Ramaneshwar Selvaraj, Patel Mihir, Yaman Dalati, et al. (2025). Sotatercept in the Treatment of Pulmonary Arterial Hypertension: A Comprehensive Narrative Review of Mechanism, Efficacy and Future Directions. *Journal of Pulmonology and Respiratory Research*. [DOI:10.29328/journal.jprr.1001068](https://doi.org/10.29328/journal.jprr.1001068)
 
-<a id="ref-54"></a>54. Kaur M, Misra S (2024). Bimagrumab: an investigational human monoclonal antibody against activin type II receptors for treating obesity. *Journal of basic and clinical physiology and pharmacology*. doi:10.1515/jbcpp-2024-0065
+<a id="ref-54"></a>54. Kaur M, Misra S (2024). Bimagrumab: an investigational human monoclonal antibody against activin type II receptors for treating obesity. *Journal of basic and clinical physiology and pharmacology*. [DOI:10.1515/jbcpp-2024-0065](https://doi.org/10.1515/jbcpp-2024-0065)
 
-<a id="ref-55"></a>55. Pearsall RS, Davies MV, Cannell M, et al. (2019). Follistatin-based ligand trap ACE-083 induces localized hypertrophy of skeletal muscle with functional improvement in models of neuromuscular disease. *Scientific reports*. doi:10.1038/s41598-019-47818-w
+<a id="ref-55"></a>55. Pearsall RS, Davies MV, Cannell M, et al. (2019). Follistatin-based ligand trap ACE-083 induces localized hypertrophy of skeletal muscle with functional improvement in models of neuromuscular disease. *Scientific reports*. [DOI:10.1038/s41598-019-47818-w](https://doi.org/10.1038/s41598-019-47818-w)
 
-<a id="ref-56"></a>56. National Cancer Institute (2020). Bimagrumab. *Definitions*. doi:10.32388/b8xrqe
+<a id="ref-56"></a>56. National Cancer Institute (2020). Bimagrumab. *Definitions*. [DOI:10.32388/b8xrqe](https://doi.org/10.32388/b8xrqe)
 
-<a id="ref-57"></a>57. Frederik Duch Bromer, A. Lodberg, M. Eijken, et al. (2025). The Effect of Anti‐Activin Receptor Type IIA and Type IIB Antibody on Muscle, Bone and Blood in Healthy and Osteosarcopenic Mice. *Journal of Cachexia, Sarcopenia and Muscle*. doi:10.1002/jcsm.13718
+<a id="ref-57"></a>57. Frederik Duch Bromer, A. Lodberg, M. Eijken, et al. (2025). The Effect of Anti‐Activin Receptor Type IIA and Type IIB Antibody on Muscle, Bone and Blood in Healthy and Osteosarcopenic Mice. *Journal of Cachexia, Sarcopenia and Muscle*. [DOI:10.1002/jcsm.13718](https://doi.org/10.1002/jcsm.13718)
 
-<a id="ref-58"></a>58. Nima Rastegar-Pouyani, Mohammad Amin Farzin, Pegah Karimi, et al. (2024). Activin A-Targeted Therapy in Cancer: An Updated Review on Challenges and Opportunities in Clinical Translation.. *Current pharmaceutical design*. doi:10.2174/0113816128320120240805104433
+<a id="ref-58"></a>58. Nima Rastegar-Pouyani, Mohammad Amin Farzin, Pegah Karimi, et al. (2024). Activin A-Targeted Therapy in Cancer: An Updated Review on Challenges and Opportunities in Clinical Translation.. *Current pharmaceutical design*. [DOI:10.2174/0113816128320120240805104433](https://doi.org/10.2174/0113816128320120240805104433)
 
-<a id="ref-59"></a>59. Alexander Ries, K. Schelch, D. Falch, et al. (2020). Activin A: an emerging target for improving cancer treatment?. *Expert Opinion on Therapeutic Targets*. doi:10.1080/14728222.2020.1799350
+<a id="ref-59"></a>59. Alexander Ries, K. Schelch, D. Falch, et al. (2020). Activin A: an emerging target for improving cancer treatment?. *Expert Opinion on Therapeutic Targets*. [DOI:10.1080/14728222.2020.1799350](https://doi.org/10.1080/14728222.2020.1799350)
 
-<a id="ref-60"></a>60. Jessica J. Tao, Nicholas A. Cangemi, V. Makker, et al. (2019). First-in-Human Phase I Study of the Activin A Inhibitor, STM 434, in Patients with Granulosa Cell Ovarian Cancer and Other Advanced Solid Tumors. *Clinical cancer research : an official journal of the American Association for Cancer Research*. doi:10.1158/1078-0432.ccr-19-1065
+<a id="ref-60"></a>60. Jessica J. Tao, Nicholas A. Cangemi, V. Makker, et al. (2019). First-in-Human Phase I Study of the Activin A Inhibitor, STM 434, in Patients with Granulosa Cell Ovarian Cancer and Other Advanced Solid Tumors. *Clinical cancer research : an official journal of the American Association for Cancer Research*. [DOI:10.1158/1078-0432.ccr-19-1065](https://doi.org/10.1158/1078-0432.ccr-19-1065)
 
-<a id="ref-61"></a>61. Ying Zheng, Andriana Lebid, Andrew Pardoll, et al. (2021). 650 Target the activin receptor 1c on CD4+ T cells to achieve anti-tumor therapeutic effects. *Journal for ImmunoTherapy of Cancer*. doi:10.1136/jitc-2021-sitc2021.650
+<a id="ref-61"></a>61. Ying Zheng, Andriana Lebid, Andrew Pardoll, et al. (2021). 650 Target the activin receptor 1c on CD4+ T cells to achieve anti-tumor therapeutic effects. *Journal for ImmunoTherapy of Cancer*. [DOI:10.1136/jitc-2021-sitc2021.650](https://doi.org/10.1136/jitc-2021-sitc2021.650)
 
-<a id="ref-62"></a>62. Andrew Chantry, Debby Heath, Aaron W. Mulivor, Scott Pearsall, Marc Baud’huin, Les Coulton, et al. (2010). Inhibiting activin-A signaling stimulates bone formation and prevents cancer-induced bone destruction in vivo. *Journal of Bone and Mineral Research*. doi:10.1002/jbmr.142
+<a id="ref-62"></a>62. Andrew Chantry, Debby Heath, Aaron W. Mulivor, Scott Pearsall, Marc Baud’huin, Les Coulton, et al. (2010). Inhibiting activin-A signaling stimulates bone formation and prevents cancer-induced bone destruction in vivo. *Journal of Bone and Mineral Research*. [DOI:10.1002/jbmr.142](https://doi.org/10.1002/jbmr.142)
 
-<a id="ref-63"></a>63. Kristine Pettersen, Sonja Andersen, Anna van der Veen, Unni Nonstad, Shinji Hatakeyama, Christian Lambert, et al. (2019). Autocrine activin A signalling in ovarian cancer cells regulates secretion of interleukin 6, autophagy, and cachexia. *Journal of Cachexia, Sarcopenia and Muscle*. doi:10.1002/jcsm.12489
+<a id="ref-63"></a>63. Kristine Pettersen, Sonja Andersen, Anna van der Veen, Unni Nonstad, Shinji Hatakeyama, Christian Lambert, et al. (2019). Autocrine activin A signalling in ovarian cancer cells regulates secretion of interleukin 6, autophagy, and cachexia. *Journal of Cachexia, Sarcopenia and Muscle*. [DOI:10.1002/jcsm.12489](https://doi.org/10.1002/jcsm.12489)
 
-<a id="ref-64"></a>64. Juha J. Hulmi, Tuuli A. Nissinen, Fabio Penna, Andrea Bonetto (2021). Targeting the Activin Receptor Signaling to Counteract the Multi-Systemic Complications of Cancer and Its Treatments. *Cells*. doi:10.3390/cells10030516
+<a id="ref-64"></a>64. Juha J. Hulmi, Tuuli A. Nissinen, Fabio Penna, Andrea Bonetto (2021). Targeting the Activin Receptor Signaling to Counteract the Multi-Systemic Complications of Cancer and Its Treatments. *Cells*. [DOI:10.3390/cells10030516](https://doi.org/10.3390/cells10030516)
 
-<a id="ref-65"></a>65. C. B. Wang, Lin Gao, Rui Xue, Jia Su, Honghui Li, Wei Yang, et al. (2026). Downregulation of Organ‐Derived Activin A Attenuates Muscle Atrophy and Intramuscular Fat Infiltration in Cancer Cachexia Mice. *Journal of Cachexia, Sarcopenia and Muscle*. doi:10.1002/jcsm.70237
+<a id="ref-65"></a>65. C. B. Wang, Lin Gao, Rui Xue, Jia Su, Honghui Li, Wei Yang, et al. (2026). Downregulation of Organ‐Derived Activin A Attenuates Muscle Atrophy and Intramuscular Fat Infiltration in Cancer Cachexia Mice. *Journal of Cachexia, Sarcopenia and Muscle*. [DOI:10.1002/jcsm.70237](https://doi.org/10.1002/jcsm.70237)
 
-<a id="ref-66"></a>66. Blum D (2019). The systemic activin response to pancreatic cancer: implications for effective cancer cachexia therapy. *Journal of Cachexia, Sarcopenia and Muscle*. doi:10.1002/jcsm.12461
+<a id="ref-66"></a>66. Blum D (2019). The systemic activin response to pancreatic cancer: implications for effective cancer cachexia therapy. *Journal of Cachexia, Sarcopenia and Muscle*. [DOI:10.1002/jcsm.12461](https://doi.org/10.1002/jcsm.12461)
 
-<a id="ref-67"></a>67. Sejal Kundra, Rupinder Kaur, Chirag Pasricha, et al. (2024). Pathological insights into activin A: Molecular underpinnings and therapeutic prospects in various diseases.. *International immunopharmacology*. doi:10.1016/j.intimp.2024.112709
+<a id="ref-67"></a>67. Sejal Kundra, Rupinder Kaur, Chirag Pasricha, et al. (2024). Pathological insights into activin A: Molecular underpinnings and therapeutic prospects in various diseases.. *International immunopharmacology*. [DOI:10.1016/j.intimp.2024.112709](https://doi.org/10.1016/j.intimp.2024.112709)
 
-<a id="ref-68"></a>68. I. Morianos, Gina Papadopoulou, M. Semitekolou, et al. (2019). Activin-A in the regulation of immunity in health and disease.. *Journal of autoimmunity*. doi:10.1016/j.jaut.2019.102314
+<a id="ref-68"></a>68. I. Morianos, Gina Papadopoulou, M. Semitekolou, et al. (2019). Activin-A in the regulation of immunity in health and disease.. *Journal of autoimmunity*. [DOI:10.1016/j.jaut.2019.102314](https://doi.org/10.1016/j.jaut.2019.102314)
 
-<a id="ref-69"></a>69. R. Wijayarathna, D. M. D. Kretser, D. Kretser (2016). Activins in reproductive biology and beyond.. *Human reproduction update*. doi:10.1093/humupd/dmv058
+<a id="ref-69"></a>69. R. Wijayarathna, D. M. D. Kretser, D. Kretser (2016). Activins in reproductive biology and beyond.. *Human reproduction update*. [DOI:10.1093/humupd/dmv058](https://doi.org/10.1093/humupd/dmv058)
 
-<a id="ref-70"></a>70. E. Bloise, P. Ciarmela, C. Dela Cruz, et al. (2019). Activin A in Mammalian Physiology.. *Physiological reviews*. doi:10.1152/physrev.00002.2018
+<a id="ref-70"></a>70. E. Bloise, P. Ciarmela, C. Dela Cruz, et al. (2019). Activin A in Mammalian Physiology.. *Physiological reviews*. [DOI:10.1152/physrev.00002.2018](https://doi.org/10.1152/physrev.00002.2018)
 
-<a id="ref-71"></a>71. Kunihiro Tsuchida, Masashi Nakatani, Keisuke Hitachi, et al. (2009). Activin signaling as an emerging target for therapeutic interventions. *Cell Communication and Signaling : CCS*. doi:10.1186/1478-811x-7-15
+<a id="ref-71"></a>71. Kunihiro Tsuchida, Masashi Nakatani, Keisuke Hitachi, et al. (2009). Activin signaling as an emerging target for therapeutic interventions. *Cell Communication and Signaling : CCS*. [DOI:10.1186/1478-811x-7-15](https://doi.org/10.1186/1478-811x-7-15)
 
-<a id="ref-72"></a>72. A. Lodberg (2021). Principles of the activin receptor signaling pathway and its inhibition.. *Cytokine & growth factor reviews*. doi:10.1016/j.cytogfr.2021.04.001
+<a id="ref-72"></a>72. A. Lodberg (2021). Principles of the activin receptor signaling pathway and its inhibition.. *Cytokine & growth factor reviews*. [DOI:10.1016/j.cytogfr.2021.04.001](https://doi.org/10.1016/j.cytogfr.2021.04.001)
 
-<a id="ref-73"></a>73. Namwanje M, Brown CW (2016). Activins and Inhibins: Roles in Development, Physiology, and Disease - PMC. *Cold Spring Harbor perspectives in biology*. doi:10.1101/cshperspect.a021881
+<a id="ref-73"></a>73. Namwanje M, Brown CW (2016). Activins and Inhibins: Roles in Development, Physiology, and Disease - PMC. *Cold Spring Harbor perspectives in biology*. [DOI:10.1101/cshperspect.a021881](https://doi.org/10.1101/cshperspect.a021881)
 
-<a id="ref-74"></a>74. Yin Xia, Alan L. Schneyer (2009). The biology of activin: recent advances in structure, regulation and function. *Journal of Endocrinology*. doi:10.1677/joe-08-0549
+<a id="ref-74"></a>74. Yin Xia, Alan L. Schneyer (2009). The biology of activin: recent advances in structure, regulation and function. *Journal of Endocrinology*. [DOI:10.1677/joe-08-0549](https://doi.org/10.1677/joe-08-0549)
 
-<a id="ref-75"></a>75. Holli A. Loomans‐Kropp, Claudia D. Andl (2014). Intertwining of Activin A and TGFβ Signaling: Dual Roles in Cancer Progression and Cancer Cell Invasion. *Cancers*. doi:10.3390/cancers7010070
+<a id="ref-75"></a>75. Holli A. Loomans‐Kropp, Claudia D. Andl (2014). Intertwining of Activin A and TGFβ Signaling: Dual Roles in Cancer Progression and Cancer Cell Invasion. *Cancers*. [DOI:10.3390/cancers7010070](https://doi.org/10.3390/cancers7010070)
 
-<a id="ref-76"></a>76. Justin L. Chen, K. Walton, S. Al-Musawi, et al. (2015). Development of novel activin-targeted therapeutics.. *Molecular therapy : the journal of the American Society of Gene Therapy*. doi:10.1038/mt.2014.221
+<a id="ref-76"></a>76. Justin L. Chen, K. Walton, S. Al-Musawi, et al. (2015). Development of novel activin-targeted therapeutics.. *Molecular therapy : the journal of the American Society of Gene Therapy*. [DOI:10.1038/mt.2014.221](https://doi.org/10.1038/mt.2014.221)
 
-<a id="ref-77"></a>77. R. Barreto, Y. Kitase, T. Matsumoto, et al. (2017). ACVR2B/Fc counteracts chemotherapy-induced loss of muscle and bone mass. *Scientific Reports*. doi:10.1038/s41598-017-15040-1
+<a id="ref-77"></a>77. R. Barreto, Y. Kitase, T. Matsumoto, et al. (2017). ACVR2B/Fc counteracts chemotherapy-induced loss of muscle and bone mass. *Scientific Reports*. [DOI:10.1038/s41598-017-15040-1](https://doi.org/10.1038/s41598-017-15040-1)
 
-<a id="ref-78"></a>78. M. Poulsen, F. Fisher, J. Lachey, et al. (2023). P64 An activin type II receptor ligand trap prevented loss of cortical bone strength and cancellous bone mass in a mouse model of severe disuse osteopenia. *Neuromuscular Disorders*. doi:10.1016/j.nmd.2023.07.045
+<a id="ref-78"></a>78. M. Poulsen, F. Fisher, J. Lachey, et al. (2023). P64 An activin type II receptor ligand trap prevented loss of cortical bone strength and cancellous bone mass in a mouse model of severe disuse osteopenia. *Neuromuscular Disorders*. [DOI:10.1016/j.nmd.2023.07.045](https://doi.org/10.1016/j.nmd.2023.07.045)
 
-<a id="ref-79"></a>79. J. Huot, F. Pin, Ashok Narasimhan, et al. (2020). ACVR2B antagonism as a countermeasure to multi‐organ perturbations in metastatic colorectal cancer cachexia. *Journal of Cachexia, Sarcopenia and Muscle*. doi:10.1002/jcsm.12642
+<a id="ref-79"></a>79. J. Huot, F. Pin, Ashok Narasimhan, et al. (2020). ACVR2B antagonism as a countermeasure to multi‐organ perturbations in metastatic colorectal cancer cachexia. *Journal of Cachexia, Sarcopenia and Muscle*. [DOI:10.1002/jcsm.12642](https://doi.org/10.1002/jcsm.12642)
 
-<a id="ref-80"></a>80. Matthew Bowser, Samuel Herberg, Phonepasong Arounleut, et al. (2013). Effects of the activin A–myostatin–follistatin system on aging bone and muscle progenitor cells. *Experimental Gerontology*. doi:10.1016/j.exger.2012.11.004
+<a id="ref-80"></a>80. Matthew Bowser, Samuel Herberg, Phonepasong Arounleut, et al. (2013). Effects of the activin A–myostatin–follistatin system on aging bone and muscle progenitor cells. *Experimental Gerontology*. [DOI:10.1016/j.exger.2012.11.004](https://doi.org/10.1016/j.exger.2012.11.004)
 
-<a id="ref-81"></a>81. Souza TA, Chen X, Guo Y, et al. (2008). Proteomic identification and functional validation of activins and bone morphogenetic protein 11 as candidate novel muscle mass regulators - PubMed. *Molecular endocrinology (Baltimore, Md.)*. doi:10.1210/me.2008-0290
+<a id="ref-81"></a>81. Souza TA, Chen X, Guo Y, et al. (2008). Proteomic identification and functional validation of activins and bone morphogenetic protein 11 as candidate novel muscle mass regulators - PubMed. *Molecular endocrinology (Baltimore, Md.)*. [DOI:10.1210/me.2008-0290](https://doi.org/10.1210/me.2008-0290)
 
-<a id="ref-82"></a>82. Estelle Lach‐Trifilieff, Giulia Minetti, Kelly-Ann Sheppard, Chikwendu Ibebunjo, Jérôme N. Feige, Steffen Hartmann, et al. (2013). An Antibody Blocking Activin Type II Receptors Induces Strong Skeletal Muscle Hypertrophy and Protects from Atrophy. *Molecular and Cellular Biology*. doi:10.1128/mcb.01307-13
+<a id="ref-82"></a>82. Estelle Lach‐Trifilieff, Giulia Minetti, Kelly-Ann Sheppard, Chikwendu Ibebunjo, Jérôme N. Feige, Steffen Hartmann, et al. (2013). An Antibody Blocking Activin Type II Receptors Induces Strong Skeletal Muscle Hypertrophy and Protects from Atrophy. *Molecular and Cellular Biology*. [DOI:10.1128/mcb.01307-13](https://doi.org/10.1128/mcb.01307-13)
 
-<a id="ref-83"></a>83. Douglas J. DiGirolamo, Vandana Singhal, Xiaoli Chang, et al. (2015). Administration of soluble activin receptor 2B increases bone and muscle mass in a mouse model of osteogenesis imperfecta | Bone Research. *Bone Research*. doi:10.1038/boneres.2014.42
+<a id="ref-83"></a>83. Douglas J. DiGirolamo, Vandana Singhal, Xiaoli Chang, et al. (2015). Administration of soluble activin receptor 2B increases bone and muscle mass in a mouse model of osteogenesis imperfecta | Bone Research. *Bone Research*. [DOI:10.1038/boneres.2014.42](https://doi.org/10.1038/boneres.2014.42)
 
-<a id="ref-84"></a>84. P. Billings, Candice Bizzaro, E. Yang, et al. (2020). Human and mouse activin genes: Divergent expression of activin A protein variants and identification of a novel heparan sulfate-binding domain in activin B. *PLoS ONE*. doi:10.1371/journal.pone.0229254
+<a id="ref-84"></a>84. P. Billings, Candice Bizzaro, E. Yang, et al. (2020). Human and mouse activin genes: Divergent expression of activin A protein variants and identification of a novel heparan sulfate-binding domain in activin B. *PLoS ONE*. [DOI:10.1371/journal.pone.0229254](https://doi.org/10.1371/journal.pone.0229254)
 
-<a id="ref-85"></a>85. S. Chapman, Teresa K. Woodruff (2001). Modulation of activin signal transduction by inhibin B and inhibin-binding protein (INhBP).. *Molecular endocrinology*. doi:10.1210/mend.15.4.0616
+<a id="ref-85"></a>85. S. Chapman, Teresa K. Woodruff (2001). Modulation of activin signal transduction by inhibin B and inhibin-binding protein (INhBP).. *Molecular endocrinology*. [DOI:10.1210/mend.15.4.0616](https://doi.org/10.1210/mend.15.4.0616)
 
-<a id="ref-86"></a>86. Yan Jin, Q. Cai, Ling Wang, et al. (2023). Paracrine activin B-NF-κB signaling shapes an inflammatory tumor microenvironment in gastric cancer via fibroblast reprogramming. *Journal of Experimental & Clinical Cancer Research : CR*. doi:10.1186/s13046-023-02861-4
+<a id="ref-86"></a>86. Yan Jin, Q. Cai, Ling Wang, et al. (2023). Paracrine activin B-NF-κB signaling shapes an inflammatory tumor microenvironment in gastric cancer via fibroblast reprogramming. *Journal of Experimental & Clinical Cancer Research : CR*. [DOI:10.1186/s13046-023-02861-4](https://doi.org/10.1186/s13046-023-02861-4)
 
-<a id="ref-87"></a>87. J. Krepinsky (2021). Activin B, a new player in kidney fibrosis?†. *The Journal of Pathology*. doi:10.1002/path.5847
+<a id="ref-87"></a>87. J. Krepinsky (2021). Activin B, a new player in kidney fibrosis?†. *The Journal of Pathology*. [DOI:10.1002/path.5847](https://doi.org/10.1002/path.5847)
 
-<a id="ref-88"></a>88. Enoch Appiah Adu-Gyamfi, Francis Tanam Djankpa, W. Nelson, et al. (2020). Activin and inhibin signaling: From regulation of physiology to involvement in the pathology of the female reproductive system.. *Cytokine*. doi:10.1016/j.cyto.2020.155105
+<a id="ref-88"></a>88. Enoch Appiah Adu-Gyamfi, Francis Tanam Djankpa, W. Nelson, et al. (2020). Activin and inhibin signaling: From regulation of physiology to involvement in the pathology of the female reproductive system.. *Cytokine*. [DOI:10.1016/j.cyto.2020.155105](https://doi.org/10.1016/j.cyto.2020.155105)
 
-<a id="ref-89"></a>89. Cheng-Yuan Zhao, Yue Zhai, Ruijing Geng, et al. (2022). Genetic analysis of activin/inhibin β subunits in zebrafish development and reproduction. *PLOS Genetics*. doi:10.1371/journal.pgen.1010523
+<a id="ref-89"></a>89. Cheng-Yuan Zhao, Yue Zhai, Ruijing Geng, et al. (2022). Genetic analysis of activin/inhibin β subunits in zebrafish development and reproduction. *PLOS Genetics*. [DOI:10.1371/journal.pgen.1010523](https://doi.org/10.1371/journal.pgen.1010523)
 
-<a id="ref-90"></a>90. Elizabeth T Evans, E. Page, A. Choi, et al. (2024). Activin levels correlate with lymphocytic infiltration in epithelial ovarian cancer. *Cancer Medicine*. doi:10.1002/cam4.7368
+<a id="ref-90"></a>90. Elizabeth T Evans, E. Page, A. Choi, et al. (2024). Activin levels correlate with lymphocytic infiltration in epithelial ovarian cancer. *Cancer Medicine*. [DOI:10.1002/cam4.7368](https://doi.org/10.1002/cam4.7368)
 
-<a id="ref-91"></a>91. Chester W. Brown, Liunan Li, Dianne E Houston-Hawkins, et al. (2003). Activins are critical modulators of growth and survival.. *Molecular endocrinology*. doi:10.1210/me.2003-0051
+<a id="ref-91"></a>91. Chester W. Brown, Liunan Li, Dianne E Houston-Hawkins, et al. (2003). Activins are critical modulators of growth and survival.. *Molecular endocrinology*. [DOI:10.1210/me.2003-0051](https://doi.org/10.1210/me.2003-0051)
 
-<a id="ref-92"></a>92. Kunihiro Tsuchida, Masashi Nakatani, Norio Yamakawa, et al. (2004). Activin isoforms signal through type I receptor serine/threonine kinase ALK7. *Molecular and Cellular Endocrinology*. doi:10.1016/j.mce.2004.03.009
+<a id="ref-92"></a>92. Kunihiro Tsuchida, Masashi Nakatani, Norio Yamakawa, et al. (2004). Activin isoforms signal through type I receptor serine/threonine kinase ALK7. *Molecular and Cellular Endocrinology*. [DOI:10.1016/j.mce.2004.03.009](https://doi.org/10.1016/j.mce.2004.03.009)
 
-<a id="ref-93"></a>93. Thompson TB, Cook RW, Chapman SC, et al. (2004). Beta A versus beta B: is it merely a matter of expression? - PubMed. *Molecular and cellular endocrinology*. doi:10.1016/j.mce.2004.02.007
+<a id="ref-93"></a>93. Thompson TB, Cook RW, Chapman SC, et al. (2004). Beta A versus beta B: is it merely a matter of expression? - PubMed. *Molecular and cellular endocrinology*. [DOI:10.1016/j.mce.2004.02.007](https://doi.org/10.1016/j.mce.2004.02.007)
 
-<a id="ref-94"></a>94. Daniel J. Bernard, Katharine B Lee, Michelle M Santos (2006). Activin B can signal through both ALK4 and ALK7 in gonadotrope cells. *Reproductive Biology and Endocrinology*. doi:10.1186/1477-7827-4-52
+<a id="ref-94"></a>94. Daniel J. Bernard, Katharine B Lee, Michelle M Santos (2006). Activin B can signal through both ALK4 and ALK7 in gonadotrope cells. *Reproductive Biology and Endocrinology*. [DOI:10.1186/1477-7827-4-52](https://doi.org/10.1186/1477-7827-4-52)
 
-<a id="ref-95"></a>95. Oddrun Elise Olsen, Hanne Hella, Samah Elsaadi, Carsten Jacobi, Erik Martı́nez-Hackert, Toril Holien (2020). Activins as Dual Specificity TGF-β Family Molecules: SMAD-Activation via Activin- and BMP-Type 1 Receptors. *Biomolecules*. doi:10.3390/biom10040519
+<a id="ref-95"></a>95. Oddrun Elise Olsen, Hanne Hella, Samah Elsaadi, Carsten Jacobi, Erik Martı́nez-Hackert, Toril Holien (2020). Activins as Dual Specificity TGF-β Family Molecules: SMAD-Activation via Activin- and BMP-Type 1 Receptors. *Biomolecules*. [DOI:10.3390/biom10040519](https://doi.org/10.3390/biom10040519)
 
-<a id="ref-96"></a>96. Haiya Wu, K. Mezghenna, Patricia Mármol, Tingqing Guo, Annalena Moliner, Shao-Nian Yang, et al. (2013). Differential regulation of mouse pancreatic islet insulin secretion and Smad proteins by activin ligands. *Diabetologia*. doi:10.1007/s00125-013-3079-6
+<a id="ref-96"></a>96. Haiya Wu, K. Mezghenna, Patricia Mármol, Tingqing Guo, Annalena Moliner, Shao-Nian Yang, et al. (2013). Differential regulation of mouse pancreatic islet insulin secretion and Smad proteins by activin ligands. *Diabetologia*. [DOI:10.1007/s00125-013-3079-6](https://doi.org/10.1007/s00125-013-3079-6)
 
-<a id="ref-97"></a>97. Naoki Kobayashi, Yukiko Okazaki, Aya Iwane, Kazuo Hara, Momoko Horikoshi, Motoharu Awazawa, et al. (2025). Activin B improves glucose metabolism via induction of Fgf21 and hepatic glucagon resistance. *Nature Communications*. doi:10.1038/s41467-025-58836-w
+<a id="ref-97"></a>97. Naoki Kobayashi, Yukiko Okazaki, Aya Iwane, Kazuo Hara, Momoko Horikoshi, Motoharu Awazawa, et al. (2025). Activin B improves glucose metabolism via induction of Fgf21 and hepatic glucagon resistance. *Nature Communications*. [DOI:10.1038/s41467-025-58836-w](https://doi.org/10.1038/s41467-025-58836-w)
 
-<a id="ref-98"></a>98. Chester W. Brown, Dianne E. Houston-Hawkins, Teresa K. Woodruff, et al. (2000). Insertion of Inhbb into the Inhba locus rescues the Inhba-null phenotype and reveals new activin functions | Nature Genetics. *Nature Genetics*. doi:10.1038/78161
+<a id="ref-98"></a>98. Chester W. Brown, Dianne E. Houston-Hawkins, Teresa K. Woodruff, et al. (2000). Insertion of Inhbb into the Inhba locus rescues the Inhba-null phenotype and reveals new activin functions | Nature Genetics. *Nature Genetics*. [DOI:10.1038/78161](https://doi.org/10.1038/78161)
 
-<a id="ref-99"></a>99. Kunihiro Tsuchida (2026). Clinical Applications of Ligand Traps Targeting Activin Type II Receptors.. *Anti-inflammatory & anti-allergy agents in medicinal chemistry*. doi:10.2174/0118715230416604251029062751
+<a id="ref-99"></a>99. Kunihiro Tsuchida (2026). Clinical Applications of Ligand Traps Targeting Activin Type II Receptors.. *Anti-inflammatory & anti-allergy agents in medicinal chemistry*. [DOI:10.2174/0118715230416604251029062751](https://doi.org/10.2174/0118715230416604251029062751)
 
-<a id="ref-100"></a>100. M. Cappellini, A. Taher (2021). The use of luspatercept for thalassemia in adults.. *Blood advances*. doi:10.1182/bloodadvances.2020002725
+<a id="ref-100"></a>100. M. Cappellini, A. Taher (2021). The use of luspatercept for thalassemia in adults.. *Blood advances*. [DOI:10.1182/bloodadvances.2020002725](https://doi.org/10.1182/bloodadvances.2020002725)
 
-<a id="ref-101"></a>101. Byung-Gyu Kim, E. Malek, Sung-Hee Choi, et al. (2021). Novel therapies emerging in oncology to target the TGF-β pathway. *Journal of Hematology & Oncology*. doi:10.1186/s13045-021-01053-x
+<a id="ref-101"></a>101. Byung-Gyu Kim, E. Malek, Sung-Hee Choi, et al. (2021). Novel therapies emerging in oncology to target the TGF-β pathway. *Journal of Hematology & Oncology*. [DOI:10.1186/s13045-021-01053-x](https://doi.org/10.1186/s13045-021-01053-x)
 
-<a id="ref-102"></a>102. I. Motta, N. Scaramellini, M. Cappellini (2017). Investigational drugs in phase I and phase II clinical trials for thalassemia. *Expert Opinion on Investigational Drugs*. doi:10.1080/13543784.2017.1335709
+<a id="ref-102"></a>102. I. Motta, N. Scaramellini, M. Cappellini (2017). Investigational drugs in phase I and phase II clinical trials for thalassemia. *Expert Opinion on Investigational Drugs*. [DOI:10.1080/13543784.2017.1335709](https://doi.org/10.1080/13543784.2017.1335709)
 
-<a id="ref-103"></a>103. R. Komrokji (2019). Activin Receptor II Ligand Traps: New Treatment Paradigm for Low-Risk MDS. *Current Hematologic Malignancy Reports*. doi:10.1007/s11899-019-00517-9
+<a id="ref-103"></a>103. R. Komrokji (2019). Activin Receptor II Ligand Traps: New Treatment Paradigm for Low-Risk MDS. *Current Hematologic Malignancy Reports*. [DOI:10.1007/s11899-019-00517-9](https://doi.org/10.1007/s11899-019-00517-9)
 
-<a id="ref-104"></a>104. A. Bankar, Vikas Gupta (2020). Investigational non-JAK inhibitors for chronic phase myelofibrosis. *Expert Opinion on Investigational Drugs*. doi:10.1080/13543784.2020.1751121
+<a id="ref-104"></a>104. A. Bankar, Vikas Gupta (2020). Investigational non-JAK inhibitors for chronic phase myelofibrosis. *Expert Opinion on Investigational Drugs*. [DOI:10.1080/13543784.2020.1751121](https://doi.org/10.1080/13543784.2020.1751121)
 
-<a id="ref-105"></a>105. Amit Verma, Rajasekhar N.V.S. Suragani, Srinivas Aluri, Nishi Shah, Tushar D. Bhagat, Mark J. Alexander, et al. (2020). Biological basis for efficacy of activin receptor ligand traps in myelodysplastic syndromes. *Journal of Clinical Investigation*. doi:10.1172/jci133678
+<a id="ref-105"></a>105. Amit Verma, Rajasekhar N.V.S. Suragani, Srinivas Aluri, Nishi Shah, Tushar D. Bhagat, Mark J. Alexander, et al. (2020). Biological basis for efficacy of activin receptor ligand traps in myelodysplastic syndromes. *Journal of Clinical Investigation*. [DOI:10.1172/jci133678](https://doi.org/10.1172/jci133678)
 
-<a id="ref-106"></a>106. Kubasch AS, Fenaux P, Platzbecker U (2021). Development of luspatercept to treat ineffective erythropoiesis. *Blood advances*. doi:10.1182/bloodadvances.2020002177
+<a id="ref-106"></a>106. Kubasch AS, Fenaux P, Platzbecker U (2021). Development of luspatercept to treat ineffective erythropoiesis. *Blood advances*. [DOI:10.1182/bloodadvances.2020002177](https://doi.org/10.1182/bloodadvances.2020002177)
 
-<a id="ref-107"></a>107. Francesca Vinchi, Uwe Platzbecker (2024). Luspatercept: A peaceful revolution in the standard of care for myelodysplastic neoplasms. *HemaSphere*. doi:10.1002/hem3.41
+<a id="ref-107"></a>107. Francesca Vinchi, Uwe Platzbecker (2024). Luspatercept: A peaceful revolution in the standard of care for myelodysplastic neoplasms. *HemaSphere*. [DOI:10.1002/hem3.41](https://doi.org/10.1002/hem3.41)
 
-<a id="ref-108"></a>108. Eleftheria Hatzimichael, Despoina Timotheatou, Epameinondas Koumpis, Leonidas Benetatos, Alexandros Makis (2022). Luspatercept: A New Tool for the Treatment of Anemia Related to β-Thalassemia, Myelodysplastic Syndromes and Primary Myelofibrosis. *Diseases*. doi:10.3390/diseases10040085
+<a id="ref-108"></a>108. Eleftheria Hatzimichael, Despoina Timotheatou, Epameinondas Koumpis, Leonidas Benetatos, Alexandros Makis (2022). Luspatercept: A New Tool for the Treatment of Anemia Related to β-Thalassemia, Myelodysplastic Syndromes and Primary Myelofibrosis. *Diseases*. [DOI:10.3390/diseases10040085](https://doi.org/10.3390/diseases10040085)
 
-<a id="ref-109"></a>109. Irene Motta, Valentina Brancaleoni, Isabella Nava, Paola Delbini, Lorena Duca (2020). ACTIVIN RECEPTOR LIGAND FOR THR TREATMENT OF BETA-THALASSEMIA: a SERENDIPITOUS DISCOVERY. *Mediterranean Journal of Hematology and Infectious Diseases*. doi:10.4084/mjhid.2020.075
+<a id="ref-109"></a>109. Irene Motta, Valentina Brancaleoni, Isabella Nava, Paola Delbini, Lorena Duca (2020). ACTIVIN RECEPTOR LIGAND FOR THR TREATMENT OF BETA-THALASSEMIA: a SERENDIPITOUS DISCOVERY. *Mediterranean Journal of Hematology and Infectious Diseases*. [DOI:10.4084/mjhid.2020.075](https://doi.org/10.4084/mjhid.2020.075)
 
-<a id="ref-110"></a>110. Yan Wang, M. Hamang, Alexander Culver, et al. (2021). Activin B promotes the initiation and progression of liver fibrosis. *Hepatology Communications*. doi:10.1002/hep4.2037
+<a id="ref-110"></a>110. Yan Wang, M. Hamang, Alexander Culver, et al. (2021). Activin B promotes the initiation and progression of liver fibrosis. *Hepatology Communications*. [DOI:10.1002/hep4.2037](https://doi.org/10.1002/hep4.2037)
 
-<a id="ref-111"></a>111. AndrÉ L Queiroz, E. Dantas, Shakti Ramsamooj, et al. (2022). Blocking ActRIIB and restoring appetite reverses cachexia and improves survival in mice with lung cancer. *Nature Communications*. doi:10.1038/s41467-022-32135-0
+<a id="ref-111"></a>111. AndrÉ L Queiroz, E. Dantas, Shakti Ramsamooj, et al. (2022). Blocking ActRIIB and restoring appetite reverses cachexia and improves survival in mice with lung cancer. *Nature Communications*. [DOI:10.1038/s41467-022-32135-0](https://doi.org/10.1038/s41467-022-32135-0)
 
-<a id="ref-112"></a>112. A. Hagg, Elizabeth O'Shea, C. Harrison, et al. (2023). Targeting activins and inhibins to treat reproductive disorders and cancer cachexia.. *The Journal of endocrinology*. doi:10.1530/joe-22-0290
+<a id="ref-112"></a>112. A. Hagg, Elizabeth O'Shea, C. Harrison, et al. (2023). Targeting activins and inhibins to treat reproductive disorders and cancer cachexia.. *The Journal of endocrinology*. [DOI:10.1530/joe-22-0290](https://doi.org/10.1530/joe-22-0290)
 
-<a id="ref-113"></a>113. Justin L. Chen, K. Walton, C. Winbanks, et al. (2014). Elevated expression of activins promotes muscle wasting and cachexia. *The FASEB Journal*. doi:10.1096/fj.13-245894
+<a id="ref-113"></a>113. Justin L. Chen, K. Walton, C. Winbanks, et al. (2014). Elevated expression of activins promotes muscle wasting and cachexia. *The FASEB Journal*. [DOI:10.1096/fj.13-245894](https://doi.org/10.1096/fj.13-245894)
 
-<a id="ref-114"></a>114. M. Hamang, B. Yaden, G. Dai (2023). Categories: Gastrointestinal Pharmacology. *Biochemical pharmacology*. doi:10.1016/j.bcp.2023.115668
+<a id="ref-114"></a>114. M. Hamang, B. Yaden, G. Dai (2023). Categories: Gastrointestinal Pharmacology. *Biochemical pharmacology*. [DOI:10.1016/j.bcp.2023.115668](https://doi.org/10.1016/j.bcp.2023.115668)
 
-<a id="ref-115"></a>115. Yan Wang (2019). ACTIVIN B PROMOTES HEPATIC FIBROGENESIS. **. doi:10.25394/pgs.8979728
+<a id="ref-115"></a>115. Yan Wang (2019). ACTIVIN B PROMOTES HEPATIC FIBROGENESIS. **. [DOI:10.25394/pgs.8979728](https://doi.org/10.25394/pgs.8979728)
 
-<a id="ref-116"></a>116. Benny Klimek ME, Aydogdu T, Link MJ, et al. (2010). Acute inhibition of myostatin-family proteins preserves skeletal muscle in mouse models of cancer cachexia. *Biochemical and biophysical research communications*. doi:10.1016/j.bbrc.2009.12.123
+<a id="ref-116"></a>116. Benny Klimek ME, Aydogdu T, Link MJ, et al. (2010). Acute inhibition of myostatin-family proteins preserves skeletal muscle in mouse models of cancer cachexia. *Biochemical and biophysical research communications*. [DOI:10.1016/j.bbrc.2009.12.123](https://doi.org/10.1016/j.bbrc.2009.12.123)
 
-<a id="ref-127"></a>127. Dinko Gonzalez Trotter, Stephen Donahue, Chris Wynne, et al. (2025). GDF8 and activin A are the key negative regulators of muscle mass in postmenopausal females: a randomized phase I trial. *Nature Communications*. doi:10.1038/s41467-025-59380-3
+<a id="ref-127"></a>127. Dinko Gonzalez Trotter, Stephen Donahue, Chris Wynne, et al. (2025). GDF8 and activin A are the key negative regulators of muscle mass in postmenopausal females: a randomized phase I trial. *Nature Communications*. [DOI:10.1038/s41467-025-59380-3](https://doi.org/10.1038/s41467-025-59380-3)
 
-<a id="ref-128"></a>128. Se-Jin Lee (2021). Targeting the myostatin signaling pathway to treat muscle loss and metabolic dysfunction.. *The Journal of clinical investigation*. doi:10.1172/jci148372
+<a id="ref-128"></a>128. Se-Jin Lee (2021). Targeting the myostatin signaling pathway to treat muscle loss and metabolic dysfunction.. *The Journal of clinical investigation*. [DOI:10.1172/jci148372](https://doi.org/10.1172/jci148372)
 
-<a id="ref-129"></a>129. Sahar Ahmad Samali, S. Hosseini, Yaser Mohammadi, et al. (2025). Myostatin inhibitors in sarcopenia treatment: A comprehensive review of mechanisms, efficacy and future directions. *Molecular Biology Reports*. doi:10.1007/s11033-025-11390-6
+<a id="ref-129"></a>129. Sahar Ahmad Samali, S. Hosseini, Yaser Mohammadi, et al. (2025). Myostatin inhibitors in sarcopenia treatment: A comprehensive review of mechanisms, efficacy and future directions. *Molecular Biology Reports*. [DOI:10.1007/s11033-025-11390-6](https://doi.org/10.1007/s11033-025-11390-6)
 
-<a id="ref-130"></a>130. Joonho Suh, Yun‐Sil Lee (2020). Myostatin Inhibitors: Panacea or Predicament for Musculoskeletal Disorders?. *Journal of Bone Metabolism*. doi:10.11005/jbm.2020.27.3.151
+<a id="ref-130"></a>130. Joonho Suh, Yun‐Sil Lee (2020). Myostatin Inhibitors: Panacea or Predicament for Musculoskeletal Disorders?. *Journal of Bone Metabolism*. [DOI:10.11005/jbm.2020.27.3.151](https://doi.org/10.11005/jbm.2020.27.3.151)
 
-<a id="ref-131"></a>131. S. Bogdanovich, T. Krag, E. Barton, et al. (2002). Functional improvement of dystrophic muscle by myostatin blockade. *Nature*. doi:10.1038/nature01154
+<a id="ref-131"></a>131. S. Bogdanovich, T. Krag, E. Barton, et al. (2002). Functional improvement of dystrophic muscle by myostatin blockade. *Nature*. [DOI:10.1038/nature01154](https://doi.org/10.1038/nature01154)
 
-<a id="ref-132"></a>132. Jan Bączek, Marta Silkiewicz, Z. Wojszel (2020). Myostatin as a Biomarker of Muscle Wasting and other Pathologies-State of the Art and Knowledge Gaps. *Nutrients*. doi:10.3390/nu12082401
+<a id="ref-132"></a>132. Jan Bączek, Marta Silkiewicz, Z. Wojszel (2020). Myostatin as a Biomarker of Muscle Wasting and other Pathologies-State of the Art and Knowledge Gaps. *Nutrients*. [DOI:10.3390/nu12082401](https://doi.org/10.3390/nu12082401)
 
-<a id="ref-133"></a>133. Dan Yang, Lin Su, Liying Zhang, Yina Li, Tingxuan Huang, Xiaoli Huang (2026). Development of pharmacological interventions for the treatment of sarcopenia. *Annals of Translational Medicine*. doi:10.21037/atm-2025-1-184
+<a id="ref-133"></a>133. Dan Yang, Lin Su, Liying Zhang, Yina Li, Tingxuan Huang, Xiaoli Huang (2026). Development of pharmacological interventions for the treatment of sarcopenia. *Annals of Translational Medicine*. [DOI:10.21037/atm-2025-1-184](https://doi.org/10.21037/atm-2025-1-184)
 
-<a id="ref-134"></a>134. Brock Wetzlich, Benard B. Nyakundi, Jinzeng Yang (2024). Therapeutic applications and challenges in myostatin inhibition for enhanced skeletal muscle mass and functions | Molecular and Cellular Biochemistry | Springer Nature Link. *Molecular and Cellular Biochemistry*. doi:10.1007/s11010-024-05120-y
+<a id="ref-134"></a>134. Brock Wetzlich, Benard B. Nyakundi, Jinzeng Yang (2024). Therapeutic applications and challenges in myostatin inhibition for enhanced skeletal muscle mass and functions | Molecular and Cellular Biochemistry | Springer Nature Link. *Molecular and Cellular Biochemistry*. [DOI:10.1007/s11010-024-05120-y](https://doi.org/10.1007/s11010-024-05120-y)
 
-<a id="ref-135"></a>135. Richard E. Pratley, Douglas Scott Denham, Rupal Trivedi, et al. (2026). Apitegromab for lean mass preservation during tirzepatide-induced weight loss: a randomized, double-blind, placebo-controlled phase 2 trial | Nature Medicine. *Nature Medicine*. doi:10.1038/s41591-026-04440-4
+<a id="ref-135"></a>135. Richard E. Pratley, Douglas Scott Denham, Rupal Trivedi, et al. (2026). Apitegromab for lean mass preservation during tirzepatide-induced weight loss: a randomized, double-blind, placebo-controlled phase 2 trial | Nature Medicine. *Nature Medicine*. [DOI:10.1038/s41591-026-04440-4](https://doi.org/10.1038/s41591-026-04440-4)
 
-<a id="ref-136"></a>136. Studenski SA (2017). Treatment of Sarcopenia with Bimagrumab: Results from a Phase II, Randomized, Controlled, Proof-of-Concept Study. *Journal of the American Geriatrics Society*. doi:10.1111/jgs.14927
+<a id="ref-136"></a>136. Studenski SA (2017). Treatment of Sarcopenia with Bimagrumab: Results from a Phase II, Randomized, Controlled, Proof-of-Concept Study. *Journal of the American Geriatrics Society*. [DOI:10.1111/jgs.14927](https://doi.org/10.1111/jgs.14927)
 
-<a id="ref-137"></a>137. B. Lee, Jongwon Jeong, In-Cheol Jung, et al. (2023). GDNF family receptor alpha‐like antagonist antibody alleviates chemotherapy‐induced cachexia in melanoma‐bearing mice. *Journal of Cachexia, Sarcopenia and Muscle*. doi:10.1002/jcsm.13219
+<a id="ref-137"></a>137. B. Lee, Jongwon Jeong, In-Cheol Jung, et al. (2023). GDNF family receptor alpha‐like antagonist antibody alleviates chemotherapy‐induced cachexia in melanoma‐bearing mice. *Journal of Cachexia, Sarcopenia and Muscle*. [DOI:10.1002/jcsm.13219](https://doi.org/10.1002/jcsm.13219)
 
-<a id="ref-138"></a>138. Heinrich E. Lob, L. Kravets, Lawrence Miloscio, et al. (2020). Anti-GDF11Treatment of β-Thalassemia Intermedia Mice Does Not Improve Erythropoiesis. *Blood*. doi:10.1182/blood-2020-140605
+<a id="ref-138"></a>138. Heinrich E. Lob, L. Kravets, Lawrence Miloscio, et al. (2020). Anti-GDF11Treatment of β-Thalassemia Intermedia Mice Does Not Improve Erythropoiesis. *Blood*. [DOI:10.1182/blood-2020-140605](https://doi.org/10.1182/blood-2020-140605)
 
-<a id="ref-139"></a>139. Weiwei Li, Wenhan Wang, Long Liu, et al. (2018). GDF11 antagonizes TNF‐α‐induced inflammation and protects against the development of inflammatory arthritis in mice. *The FASEB Journal*. doi:10.1096/fj.201801375rr
+<a id="ref-139"></a>139. Weiwei Li, Wenhan Wang, Long Liu, et al. (2018). GDF11 antagonizes TNF‐α‐induced inflammation and protects against the development of inflammatory arthritis in mice. *The FASEB Journal*. [DOI:10.1096/fj.201801375rr](https://doi.org/10.1096/fj.201801375rr)
 
-<a id="ref-140"></a>140. Yingchun Shao, Yanhong Wang, Jiazhen Xu, et al. (2023). Growth differentiation factor 11: A new hope for the treatment of cardiovascular diseases.. *Cytokine & growth factor reviews*. doi:10.1016/j.cytogfr.2023.06.007
+<a id="ref-140"></a>140. Yingchun Shao, Yanhong Wang, Jiazhen Xu, et al. (2023). Growth differentiation factor 11: A new hope for the treatment of cardiovascular diseases.. *Cytokine & growth factor reviews*. [DOI:10.1016/j.cytogfr.2023.06.007](https://doi.org/10.1016/j.cytogfr.2023.06.007)
 
-<a id="ref-141"></a>141. Pengfei Zhang, Haoxin Zhai, Shuai Zhang, et al. (2024). GDF11 protects against mitochondrial-dysfunction-dependent NLRP3 inflammasome activation to attenuate osteoarthritis. *Journal of Advanced Research*. doi:10.1016/j.jare.2024.08.001
+<a id="ref-141"></a>141. Pengfei Zhang, Haoxin Zhai, Shuai Zhang, et al. (2024). GDF11 protects against mitochondrial-dysfunction-dependent NLRP3 inflammasome activation to attenuate osteoarthritis. *Journal of Advanced Research*. [DOI:10.1016/j.jare.2024.08.001](https://doi.org/10.1016/j.jare.2024.08.001)
 
-<a id="ref-142"></a>142. Quan Jin, Chunping Qiao, Jianbin Li, et al. (2019). A GDF11/myostatin inhibitor, GDF11 propeptide-Fc, increases skeletal muscle mass and improves muscle strength in dystrophic mdx mice. *Skeletal Muscle*. doi:10.1186/s13395-019-0197-y
+<a id="ref-142"></a>142. Quan Jin, Chunping Qiao, Jianbin Li, et al. (2019). A GDF11/myostatin inhibitor, GDF11 propeptide-Fc, increases skeletal muscle mass and improves muscle strength in dystrophic mdx mice. *Skeletal Muscle*. [DOI:10.1186/s13395-019-0197-y](https://doi.org/10.1186/s13395-019-0197-y)
 
-<a id="ref-143"></a>143. Tom Hsu, Cody Moore, ALEXANDER TAGUCHI, Tam Phuong, Hongyu Zhang, Matthew Dent, et al. (2026). Preclinical development of an extended half-life anti-myostatin monoclonal antibody. *Scientific Reports*. doi:10.1038/s41598-026-59882-0
+<a id="ref-143"></a>143. Tom Hsu, Cody Moore, ALEXANDER TAGUCHI, Tam Phuong, Hongyu Zhang, Matthew Dent, et al. (2026). Preclinical development of an extended half-life anti-myostatin monoclonal antibody. *Scientific Reports*. [DOI:10.1038/s41598-026-59882-0](https://doi.org/10.1038/s41598-026-59882-0)
 
-<a id="ref-144"></a>144. Pardis Habibi, Kimia Falamarzi, Niloofar Dehdari Ebrahimi, Mohammad Zarei, Mahdi Malekpour, Negar Azarpira (2024). GDF11: An emerging therapeutic target for liver diseases and fibrosis. *Journal of Cellular and Molecular Medicine*. doi:10.1111/jcmm.18140
+<a id="ref-144"></a>144. Pardis Habibi, Kimia Falamarzi, Niloofar Dehdari Ebrahimi, Mohammad Zarei, Mahdi Malekpour, Negar Azarpira (2024). GDF11: An emerging therapeutic target for liver diseases and fibrosis. *Journal of Cellular and Molecular Medicine*. [DOI:10.1111/jcmm.18140](https://doi.org/10.1111/jcmm.18140)
 
-<a id="ref-145"></a>145. Weiqing Liu, Liyan Zhou, Chenchen Zhou, et al. (2016). GDF11 decreases bone mass by stimulating osteoclastogenesis and inhibiting osteoblast differentiation | Nature Communications. *Nature Communications*. doi:10.1038/ncomms12794
+<a id="ref-145"></a>145. Weiqing Liu, Liyan Zhou, Chenchen Zhou, et al. (2016). GDF11 decreases bone mass by stimulating osteoclastogenesis and inhibiting osteoblast differentiation | Nature Communications. *Nature Communications*. [DOI:10.1038/ncomms12794](https://doi.org/10.1038/ncomms12794)
 
-<a id="ref-146"></a>146. Hiroyasu Muramatsu, Taichi Kuramochi, Hitoshi Katada, Atsunori Ueyama, Yoshinao Ruike, Ken Ohmine, et al. (2021). Novel myostatin-specific antibody enhances muscle strength in muscle disease models. *Scientific Reports*. doi:10.1038/s41598-021-81669-8
+<a id="ref-146"></a>146. Hiroyasu Muramatsu, Taichi Kuramochi, Hitoshi Katada, Atsunori Ueyama, Yoshinao Ruike, Ken Ohmine, et al. (2021). Novel myostatin-specific antibody enhances muscle strength in muscle disease models. *Scientific Reports*. [DOI:10.1038/s41598-021-81669-8](https://doi.org/10.1038/s41598-021-81669-8)
 
-<a id="ref-147"></a>147. L. Cesanelli, P. Minderis, A. Fokin, et al. (2026). Myostatin in Obesity: A Molecular Link Between Metabolic Dysfunction and Musculotendinous Remodeling. *International Journal of Molecular Sciences*. doi:10.3390/ijms27020967
+<a id="ref-147"></a>147. L. Cesanelli, P. Minderis, A. Fokin, et al. (2026). Myostatin in Obesity: A Molecular Link Between Metabolic Dysfunction and Musculotendinous Remodeling. *International Journal of Molecular Sciences*. [DOI:10.3390/ijms27020967](https://doi.org/10.3390/ijms27020967)
 
-<a id="ref-148"></a>148. Stanislas Bataille, P. Chauveau, D. Fouque, et al. (2020). Myostatin and muscle atrophy during chronic kidney disease.. *Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association*. doi:10.1093/ndt/gfaa129
+<a id="ref-148"></a>148. Stanislas Bataille, P. Chauveau, D. Fouque, et al. (2020). Myostatin and muscle atrophy during chronic kidney disease.. *Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association*. [DOI:10.1093/ndt/gfaa129](https://doi.org/10.1093/ndt/gfaa129)
 
-<a id="ref-149"></a>149. Jason W. Mastaitis, Daniel Gomez, J. Raya, et al. (2025). GDF8 and activin A blockade protects against GLP-1–induced muscle loss while enhancing fat loss in obese male mice and non-human primates. *Nature Communications*. doi:10.1038/s41467-025-59485-9
+<a id="ref-149"></a>149. Jason W. Mastaitis, Daniel Gomez, J. Raya, et al. (2025). GDF8 and activin A blockade protects against GLP-1–induced muscle loss while enhancing fat loss in obese male mice and non-human primates. *Nature Communications*. [DOI:10.1038/s41467-025-59485-9](https://doi.org/10.1038/s41467-025-59485-9)
 
-<a id="ref-150"></a>150. Se‐Jin Lee, Shalender Bhasin, Lloyd B. Klickstein, Venkatesh Krishnan, Daniel Rooks (2023). Challenges and Future Prospects of Targeting Myostatin/Activin A Signaling to Treat Diseases of Muscle Loss and Metabolic Dysfunction. *The Journals of Gerontology: Series A*. doi:10.1093/gerona/glad033
+<a id="ref-150"></a>150. Se‐Jin Lee, Shalender Bhasin, Lloyd B. Klickstein, Venkatesh Krishnan, Daniel Rooks (2023). Challenges and Future Prospects of Targeting Myostatin/Activin A Signaling to Treat Diseases of Muscle Loss and Metabolic Dysfunction. *The Journals of Gerontology: Series A*. [DOI:10.1093/gerona/glad033](https://doi.org/10.1093/gerona/glad033)
 
-<a id="ref-151"></a>151. Catherine L Omosule, Charlotte L. Phillips (2021). Deciphering Myostatin’s Regulatory, Metabolic, and Developmental Influence in Skeletal Diseases. *Frontiers in Genetics*. doi:10.3389/fgene.2021.662908
+<a id="ref-151"></a>151. Catherine L Omosule, Charlotte L. Phillips (2021). Deciphering Myostatin’s Regulatory, Metabolic, and Developmental Influence in Skeletal Diseases. *Frontiers in Genetics*. [DOI:10.3389/fgene.2021.662908](https://doi.org/10.3389/fgene.2021.662908)
 
-<a id="ref-152"></a>152. Ming-Ming Chen, Yi-Ping Zhao, Yue Zhao, et al. (2021). Frontiers | Regulationof Myostatin on the Growth and Development of Skeletal Muscle. *Frontiers in Cell and Developmental Biology*. doi:10.3389/fcell.2021.785712
+<a id="ref-152"></a>152. Ming-Ming Chen, Yi-Ping Zhao, Yue Zhao, et al. (2021). Frontiers | Regulationof Myostatin on the Growth and Development of Skeletal Muscle. *Frontiers in Cell and Developmental Biology*. [DOI:10.3389/fcell.2021.785712](https://doi.org/10.3389/fcell.2021.785712)
 
-<a id="ref-153"></a>153. Allen DL, Hittel DS, McPherron AC (2011). Expression and Function of Myostatin in Obesity, Diabetes, and Exercise Adaptation. *Medicine and science in sports and exercise*. doi:10.1249/MSS.0b013e3182178bb4
+<a id="ref-153"></a>153. Allen DL, Hittel DS, McPherron AC (2011). Expression and Function of Myostatin in Obesity, Diabetes, and Exercise Adaptation. *Medicine and science in sports and exercise*. [DOI:10.1249/MSS.0b013e3182178bb4](https://doi.org/10.1249/MSS.0b013e3182178bb4)
 
-<a id="ref-154"></a>154. Anna Vainshtein, Marco Sandri (2020). Signaling Pathways That Control Muscle Mass. *International Journal of Molecular Sciences*. doi:10.3390/ijms21134759
+<a id="ref-154"></a>154. Anna Vainshtein, Marco Sandri (2020). Signaling Pathways That Control Muscle Mass. *International Journal of Molecular Sciences*. [DOI:10.3390/ijms21134759](https://doi.org/10.3390/ijms21134759)
 
-<a id="ref-155"></a>155. Chongguang Lei, Hewen Jiang, Xin Yang, et al. (2026). Myostatin Research: From Molecular Understanding to Clinical Translation for Musculoskeletal and Metabolic Disorders. *International Journal of Molecular Sciences*. doi:10.3390/ijms27093836
+<a id="ref-155"></a>155. Chongguang Lei, Hewen Jiang, Xin Yang, et al. (2026). Myostatin Research: From Molecular Understanding to Clinical Translation for Musculoskeletal and Metabolic Disorders. *International Journal of Molecular Sciences*. [DOI:10.3390/ijms27093836](https://doi.org/10.3390/ijms27093836)
 
-<a id="ref-156"></a>156. M. Egerman, D. Glass (2019). The role of GDF11 in aging and skeletal muscle, cardiac and bone homeostasis. *Critical Reviews in Biochemistry and Molecular Biology*. doi:10.1080/10409238.2019.1610722
+<a id="ref-156"></a>156. M. Egerman, D. Glass (2019). The role of GDF11 in aging and skeletal muscle, cardiac and bone homeostasis. *Critical Reviews in Biochemistry and Molecular Biology*. [DOI:10.1080/10409238.2019.1610722](https://doi.org/10.1080/10409238.2019.1610722)
 
-<a id="ref-157"></a>157. M. Egerman, Samuel M. Cadena, J. Gilbert, et al. (2015). GDF11 Increases with Age and Inhibits Skeletal Muscle Regeneration. *Cell metabolism*. doi:10.1016/j.cmet.2015.05.010
+<a id="ref-157"></a>157. M. Egerman, Samuel M. Cadena, J. Gilbert, et al. (2015). GDF11 Increases with Age and Inhibits Skeletal Muscle Regeneration. *Cell metabolism*. [DOI:10.1016/j.cmet.2015.05.010](https://doi.org/10.1016/j.cmet.2015.05.010)
 
-<a id="ref-158"></a>158. M. Sinha, Young C. Jang, Juhyun Oh, et al. (2014). Restoring systemic GDF11 levels reverses age-related dysfunction in mouse skeletal muscle. *Science (New York, N.Y.)*. doi:10.1126/science.1251152
+<a id="ref-158"></a>158. M. Sinha, Young C. Jang, Juhyun Oh, et al. (2014). Restoring systemic GDF11 levels reverses age-related dysfunction in mouse skeletal muscle. *Science (New York, N.Y.)*. [DOI:10.1126/science.1251152](https://doi.org/10.1126/science.1251152)
 
-<a id="ref-159"></a>159. L. Rochette, G. Dogon, E. Rigal, et al. (2022). Growth differentiation factor 11: A proangiogenic drug as a potential antiaging regulating molecule.. *Archives of cardiovascular diseases*. doi:10.1016/j.acvd.2022.09.006
+<a id="ref-159"></a>159. L. Rochette, G. Dogon, E. Rigal, et al. (2022). Growth differentiation factor 11: A proangiogenic drug as a potential antiaging regulating molecule.. *Archives of cardiovascular diseases*. [DOI:10.1016/j.acvd.2022.09.006](https://doi.org/10.1016/j.acvd.2022.09.006)
 
-<a id="ref-160"></a>160. Yu Zhou, N. Sharma, David Dukes, et al. (2017). GDF11 Treatment Attenuates the Recovery of Skeletal Muscle Function After Injury in Older Rats. *The AAPS Journal*. doi:10.1208/s12248-016-0024-x
+<a id="ref-160"></a>160. Yu Zhou, N. Sharma, David Dukes, et al. (2017). GDF11 Treatment Attenuates the Recovery of Skeletal Muscle Function After Injury in Older Rats. *The AAPS Journal*. [DOI:10.1208/s12248-016-0024-x](https://doi.org/10.1208/s12248-016-0024-x)
 
-<a id="ref-161"></a>161. Yuting Ma, Yongping Liu, Fang Han, et al. (2021). Growth differentiation factor 11: a “rejuvenation factor” involved in regulation of age-related diseases?. *Aging (Albany NY)*. doi:10.18632/aging.202881
+<a id="ref-161"></a>161. Yuting Ma, Yongping Liu, Fang Han, et al. (2021). Growth differentiation factor 11: a “rejuvenation factor” involved in regulation of age-related diseases?. *Aging (Albany NY)*. [DOI:10.18632/aging.202881](https://doi.org/10.18632/aging.202881)
 
-<a id="ref-162"></a>162. Laura Ben Driss, John Lian, Ryan G. Walker, J. A. Howard, Thomas B. Thompson, Lee L. Rubin, et al. (2023). GDF11 and aging biology - controversies resolved and pending. *The Journal of Cardiovascular Aging*. doi:10.20517/jca.23
+<a id="ref-162"></a>162. Laura Ben Driss, John Lian, Ryan G. Walker, J. A. Howard, Thomas B. Thompson, Lee L. Rubin, et al. (2023). GDF11 and aging biology - controversies resolved and pending. *The Journal of Cardiovascular Aging*. [DOI:10.20517/jca.23](https://doi.org/10.20517/jca.23)
 
-<a id="ref-163"></a>163. Francesco S. Loffredo, Matthew L. Steinhauser, Steven M. Jay, et al. (2013). Article Growth Differentiation Factor 11 Is a Circulating Factor that Reverses Age-Related Cardiac Hypertrophy. *Cell*. doi:10.1016/j.cell.2013.04.015
+<a id="ref-163"></a>163. Francesco S. Loffredo, Matthew L. Steinhauser, Steven M. Jay, et al. (2013). Article Growth Differentiation Factor 11 Is a Circulating Factor that Reverses Age-Related Cardiac Hypertrophy. *Cell*. [DOI:10.1016/j.cell.2013.04.015](https://doi.org/10.1016/j.cell.2013.04.015)
 
-<a id="ref-164"></a>164. Joonho Suh, Yun‐Sil Lee (2020). Similar sequences but dissimilar biological functions of GDF11 and myostatin. *Experimental & Molecular Medicine*. doi:10.1038/s12276-020-00516-4
+<a id="ref-164"></a>164. Joonho Suh, Yun‐Sil Lee (2020). Similar sequences but dissimilar biological functions of GDF11 and myostatin. *Experimental & Molecular Medicine*. [DOI:10.1038/s12276-020-00516-4](https://doi.org/10.1038/s12276-020-00516-4)
 
-<a id="ref-165"></a>165. Harper SC, Johnson J, Borghetti G, et al. (2018). GDF11 Decreases Pressure Overload Induced Hypertrophy, but Can Cause Severe Cachexia and Premature Death. *Circulation research*. doi:10.1161/CIRCRESAHA.118.312955
+<a id="ref-165"></a>165. Harper SC, Johnson J, Borghetti G, et al. (2018). GDF11 Decreases Pressure Overload Induced Hypertrophy, but Can Cause Severe Cachexia and Premature Death. *Circulation research*. [DOI:10.1161/CIRCRESAHA.118.312955](https://doi.org/10.1161/CIRCRESAHA.118.312955)
 
-<a id="ref-166"></a>166. Marion Scharpfenecker, M. V. Dinther, Zhen Liu, et al. (2007). BMP-9 signals via ALK1 and inhibits bFGF-induced endothelial cell proliferation and VEGF-stimulated angiogenesis. *Journal of Cell Science*. doi:10.1242/jcs.002949
+<a id="ref-166"></a>166. Marion Scharpfenecker, M. V. Dinther, Zhen Liu, et al. (2007). BMP-9 signals via ALK1 and inhibits bFGF-induced endothelial cell proliferation and VEGF-stimulated angiogenesis. *Journal of Cell Science*. [DOI:10.1242/jcs.002949](https://doi.org/10.1242/jcs.002949)
 
-<a id="ref-167"></a>167. L. David, C. Mallet, S. Mazerbourg, et al. (2007). Identification of BMP9 and BMP10 as functional activators of the orphan activin receptor-like kinase 1 (ALK1) in endothelial cells.. *Blood*. doi:10.1182/blood-2006-07-034124
+<a id="ref-167"></a>167. L. David, C. Mallet, S. Mazerbourg, et al. (2007). Identification of BMP9 and BMP10 as functional activators of the orphan activin receptor-like kinase 1 (ALK1) in endothelial cells.. *Blood*. [DOI:10.1182/blood-2006-07-034124](https://doi.org/10.1182/blood-2006-07-034124)
 
-<a id="ref-168"></a>168. A. Desroches-Castan, E. Tillet, Claire Bouvard, et al. (2021). BMP9 and BMP10: Two close vascular quiescence partners that stand out. *Developmental Dynamics*. doi:10.1002/dvdy.395
+<a id="ref-168"></a>168. A. Desroches-Castan, E. Tillet, Claire Bouvard, et al. (2021). BMP9 and BMP10: Two close vascular quiescence partners that stand out. *Developmental Dynamics*. [DOI:10.1002/dvdy.395](https://doi.org/10.1002/dvdy.395)
 
-<a id="ref-169"></a>169. S. Sangam, Y. Zhong, Peiran Yang, et al. (2025). Abstract 4373256: BMP9 drives vasoactive gene expression in endothelial cells via non-canonical ALK1-SMAD3 signaling. *Circulation*. doi:10.1161/circ.152.suppl_3.4373256
+<a id="ref-169"></a>169. S. Sangam, Y. Zhong, Peiran Yang, et al. (2025). Abstract 4373256: BMP9 drives vasoactive gene expression in endothelial cells via non-canonical ALK1-SMAD3 signaling. *Circulation*. [DOI:10.1161/circ.152.suppl_3.4373256](https://doi.org/10.1161/circ.152.suppl_3.4373256)
 
-<a id="ref-170"></a>170. Kira Young, Barbara A. Conley, D. Romero, et al. (2012). BMP9 regulates endoglin-dependent chemokine responses in endothelial cells.. *Blood*. doi:10.1182/blood-2012-07-440784
+<a id="ref-170"></a>170. Kira Young, Barbara A. Conley, D. Romero, et al. (2012). BMP9 regulates endoglin-dependent chemokine responses in endothelial cells.. *Blood*. [DOI:10.1182/blood-2012-07-440784](https://doi.org/10.1182/blood-2012-07-440784)
 
-<a id="ref-171"></a>171. Clara Andersson-Rusch, B. Liu, Ingrid Quist-Løkken, et al. (2023). High concentrations of soluble endoglin can inhibit BMP9 signaling in non-endothelial cells. *Scientific Reports*. doi:10.1038/s41598-023-33352-3
+<a id="ref-171"></a>171. Clara Andersson-Rusch, B. Liu, Ingrid Quist-Løkken, et al. (2023). High concentrations of soluble endoglin can inhibit BMP9 signaling in non-endothelial cells. *Scientific Reports*. [DOI:10.1038/s41598-023-33352-3](https://doi.org/10.1038/s41598-023-33352-3)
 
-<a id="ref-172"></a>172. Jennifer Wood, Jingxu Guo, Nicholas W. Morrell, Wei Li (2019). Advances in the molecular regulation of endothelial BMP9 signalling complexes and implications for cardiovascular disease. *Biochemical Society Transactions*. doi:10.1042/bst20180137
+<a id="ref-172"></a>172. Jennifer Wood, Jingxu Guo, Nicholas W. Morrell, Wei Li (2019). Advances in the molecular regulation of endothelial BMP9 signalling complexes and implications for cardiovascular disease. *Biochemical Society Transactions*. [DOI:10.1042/bst20180137](https://doi.org/10.1042/bst20180137)
 
-<a id="ref-173"></a>173. Ponomarev LC, Ksiazkiewicz J, Staring MW, et al. (2021). The BMP Pathway in Blood Vessel and Lymphatic Vessel Biology. *International journal of molecular sciences*. doi:10.3390/ijms22126364
+<a id="ref-173"></a>173. Ponomarev LC, Ksiazkiewicz J, Staring MW, et al. (2021). The BMP Pathway in Blood Vessel and Lymphatic Vessel Biology. *International journal of molecular sciences*. [DOI:10.3390/ijms22126364](https://doi.org/10.3390/ijms22126364)
 
-<a id="ref-174"></a>174. Molly R. Kulikauskas, X Shaka, Victoria L. Bautch (2022). The versatility and paradox of BMP signaling in endothelial cell behaviors and blood vessel function. *Cellular and Molecular Life Sciences*. doi:10.1007/s00018-021-04033-z
+<a id="ref-174"></a>174. Molly R. Kulikauskas, X Shaka, Victoria L. Bautch (2022). The versatility and paradox of BMP signaling in endothelial cell behaviors and blood vessel function. *Cellular and Molecular Life Sciences*. [DOI:10.1007/s00018-021-04033-z](https://doi.org/10.1007/s00018-021-04033-z)
 
-<a id="ref-175"></a>175. Saito T, Bokhove M, Croci R, et al. (2017). Structural Basis of the Human Endoglin-BMP9 Interaction: Insights into BMP Signaling and HHT1. *Cell reports*. doi:10.1016/j.celrep.2017.05.011
+<a id="ref-175"></a>175. Saito T, Bokhove M, Croci R, et al. (2017). Structural Basis of the Human Endoglin-BMP9 Interaction: Insights into BMP Signaling and HHT1. *Cell reports*. [DOI:10.1016/j.celrep.2017.05.011](https://doi.org/10.1016/j.celrep.2017.05.011)
 
-<a id="ref-176"></a>176. R. Madonna, S. Ghelardoni (2025). Sotatercept in pulmonary hypertension and beyond. *European Journal of Clinical Investigation*. doi:10.1111/eci.14386
+<a id="ref-176"></a>176. R. Madonna, S. Ghelardoni (2025). Sotatercept in pulmonary hypertension and beyond. *European Journal of Clinical Investigation*. [DOI:10.1111/eci.14386](https://doi.org/10.1111/eci.14386)
 
-<a id="ref-177"></a>177. L. Savale, L. Tu, Corinne Normand, et al. (2024). Effect of sotatercept on circulating proteomics in pulmonary arterial hypertension. *The European Respiratory Journal*. doi:10.1183/13993003.01483-2024
+<a id="ref-177"></a>177. L. Savale, L. Tu, Corinne Normand, et al. (2024). Effect of sotatercept on circulating proteomics in pulmonary arterial hypertension. *The European Respiratory Journal*. [DOI:10.1183/13993003.01483-2024](https://doi.org/10.1183/13993003.01483-2024)
 
-<a id="ref-178"></a>178. M. Hoeper, D. Badesch, H. Ghofrani, et al. (2023). Phase 3 Trial of Sotatercept for Treatment of Pulmonary Arterial Hypertension.. *The New England journal of medicine*. doi:10.1056/nejmoa2213558
+<a id="ref-178"></a>178. M. Hoeper, D. Badesch, H. Ghofrani, et al. (2023). Phase 3 Trial of Sotatercept for Treatment of Pulmonary Arterial Hypertension.. *The New England journal of medicine*. [DOI:10.1056/nejmoa2213558](https://doi.org/10.1056/nejmoa2213558)
 
-<a id="ref-179"></a>179. R. Madonna, F. Biondi (2024). Perspectives on Sotatercept in Pulmonary Arterial Hypertension. *Journal of Clinical Medicine*. doi:10.3390/jcm13216463
+<a id="ref-179"></a>179. R. Madonna, F. Biondi (2024). Perspectives on Sotatercept in Pulmonary Arterial Hypertension. *Journal of Clinical Medicine*. [DOI:10.3390/jcm13216463](https://doi.org/10.3390/jcm13216463)
 
-<a id="ref-180"></a>180. R. Madonna, F. Biondi (2024). Sotatercept: New drug on the horizon of pulmonary hypertension.. *Vascular pharmacology*. doi:10.1016/j.vph.2024.107442
+<a id="ref-180"></a>180. R. Madonna, F. Biondi (2024). Sotatercept: New drug on the horizon of pulmonary hypertension.. *Vascular pharmacology*. [DOI:10.1016/j.vph.2024.107442](https://doi.org/10.1016/j.vph.2024.107442)
 
-<a id="ref-181"></a>181. Rowena J. Jones, E. D. De Bie, N. Deliu, et al. (2026). Sotatercept reduces bone morphogenetic protein signaling in patients with pulmonary arterial hypertension.. *Science translational medicine*. doi:10.1126/scitranslmed.ads5175
+<a id="ref-181"></a>181. Rowena J. Jones, E. D. De Bie, N. Deliu, et al. (2026). Sotatercept reduces bone morphogenetic protein signaling in patients with pulmonary arterial hypertension.. *Science translational medicine*. [DOI:10.1126/scitranslmed.ads5175](https://doi.org/10.1126/scitranslmed.ads5175)
 
-<a id="ref-182"></a>182. Ioan Ţilea, Dragos-Gabriel Iancu, Ovidiu Fira-Mladinescu, Nicoleta Bertici, Andreea Varga (2026).Sotatercept in Pulmonary Arterial Hypertension: Molecular Mechanisms, Clinical Evidence, and Emerging Role in Reverse Remodelling. *International Journal of Molecular Sciences*. doi:10.3390/ijms27020767
+<a id="ref-182"></a>182. Ioan Ţilea, Dragos-Gabriel Iancu, Ovidiu Fira-Mladinescu, Nicoleta Bertici, Andreea Varga (2026).Sotatercept in Pulmonary Arterial Hypertension: Molecular Mechanisms, Clinical Evidence, and Emerging Role in Reverse Remodelling. *International Journal of Molecular Sciences*. [DOI:10.3390/ijms27020767](https://doi.org/10.3390/ijms27020767)
 
-<a id="ref-183"></a>183. M. Martin VandenBroek, Sofia I. Skebo, Mark L. Ormiston (2022). Targeting BMPR-II in pulmonary arterial hypertension: a case of Hercules versus the Hydra?. *Expert Opinion on Therapeutic Targets*. doi:10.1080/14728222.2022.2168188
+<a id="ref-183"></a>183. M. Martin VandenBroek, Sofia I. Skebo, Mark L. Ormiston (2022). Targeting BMPR-II in pulmonary arterial hypertension: a case of Hercules versus the Hydra?. *Expert Opinion on Therapeutic Targets*. [DOI:10.1080/14728222.2022.2168188](https://doi.org/10.1080/14728222.2022.2168188)
 
-<a id="ref-184"></a>184. Shreyas Rajesh, Gregory Gipson, Ana Zeghibe, Riley Brackin, John Lees-Shepherd, Sarah Hatsell, et al. (2024). Abstract 4147280: Combined BMP9 and BMP10 inhibition elicits Hereditary Hemorrhagic Telangiectasia (HHT)-like phenotypes in susceptible mice. *Circulation*. doi:10.1161/circ.150.suppl_1.4147280
+<a id="ref-184"></a>184. Shreyas Rajesh, Gregory Gipson, Ana Zeghibe, Riley Brackin, John Lees-Shepherd, Sarah Hatsell, et al. (2024). Abstract 4147280: Combined BMP9 and BMP10 inhibition elicits Hereditary Hemorrhagic Telangiectasia (HHT)-like phenotypes in susceptible mice. *Circulation*. [DOI:10.1161/circ.150.suppl_1.4147280](https://doi.org/10.1161/circ.150.suppl_1.4147280)
 
-<a id="ref-185"></a>185. Thomas Cascino, Sandeep Sahay, Victor Moles, Vallerie V. McLaughlin (2024). A new day has come: Sotatercept for the treatment of pulmonary arterial hypertension. *The Journal of Heart and Lung Transplantation*. doi:10.1016/j.healun.2024.09.021
+<a id="ref-185"></a>185. Thomas Cascino, Sandeep Sahay, Victor Moles, Vallerie V. McLaughlin (2024). A new day has come: Sotatercept for the treatment of pulmonary arterial hypertension. *The Journal of Heart and Lung Transplantation*. [DOI:10.1016/j.healun.2024.09.021](https://doi.org/10.1016/j.healun.2024.09.021)
 
-<a id="ref-186"></a>186. Milton Packer, J. Butler, J. Ferreira, et al. (2025). Coordinated expression of BMP10/ALK1/endoglin—proteins that drive embryonic cardiac and vascular morphogenesis—in patients with heart failure: The EMPEROR Program. *European Journal of Heart Failure*. doi:10.1002/ejhf.3764
+<a id="ref-186"></a>186. Milton Packer, J. Butler, J. Ferreira, et al. (2025). Coordinated expression of BMP10/ALK1/endoglin—proteins that drive embryonic cardiac and vascular morphogenesis—in patients with heart failure: The EMPEROR Program. *European Journal of Heart Failure*. [DOI:10.1002/ejhf.3764](https://doi.org/10.1002/ejhf.3764)
 
-<a id="ref-187"></a>187. Hao Chen, John Brady Ridgway, T. Sai, et al. (2013). Context-dependent signaling defines roles of BMP9 and BMP10 in embryonic and postnatal development. *Proceedings of the National Academy of Sciences*. doi:10.1073/pnas.1306074110
+<a id="ref-187"></a>187. Hao Chen, John Brady Ridgway, T. Sai, et al. (2013). Context-dependent signaling defines roles of BMP9 and BMP10 in embryonic and postnatal development. *Proceedings of the National Academy of Sciences*. [DOI:10.1073/pnas.1306074110](https://doi.org/10.1073/pnas.1306074110)
 
-<a id="ref-188"></a>188. Teresa L. Capasso, Bijun Li, Harry J. Volek, et al. (2019). BMP10-mediated ALK1 signaling is continuously required for vascular development and maintenance. *Angiogenesis*. doi:10.1007/s10456-019-09701-0
+<a id="ref-188"></a>188. Teresa L. Capasso, Bijun Li, Harry J. Volek, et al. (2019). BMP10-mediated ALK1 signaling is continuously required for vascular development and maintenance. *Angiogenesis*. [DOI:10.1007/s10456-019-09701-0](https://doi.org/10.1007/s10456-019-09701-0)
 
-<a id="ref-189"></a>189. A. Mikryukov, A. Mazine, Bei Wei, et al. (2020). BMP10 Signaling Promotes the Development of Endocardial Cells from Human Pluripotent Stem Cell-Derived Cardiovascular Progenitors.. *Cell stem cell*. doi:10.1016/j.stem.2020.10.003
+<a id="ref-189"></a>189. A. Mikryukov, A. Mazine, Bei Wei, et al. (2020). BMP10 Signaling Promotes the Development of Endocardial Cells from Human Pluripotent Stem Cell-Derived Cardiovascular Progenitors.. *Cell stem cell*. [DOI:10.1016/j.stem.2020.10.003](https://doi.org/10.1016/j.stem.2020.10.003)
 
-<a id="ref-190"></a>190. D. W. Laux, S. Young, James P. Donovan, et al. (2013). Circulating Bmp10 acts through endothelial Alk1 to mediate flow-dependent arterial quiescence. *Development*. doi:10.1242/dev.095307
+<a id="ref-190"></a>190. D. W. Laux, S. Young, James P. Donovan, et al. (2013). Circulating Bmp10 acts through endothelial Alk1 to mediate flow-dependent arterial quiescence. *Development*. [DOI:10.1242/dev.095307](https://doi.org/10.1242/dev.095307)
 
-<a id="ref-191"></a>191. Richard M. Salmon, Jingxu Guo, Jennifer Wood, Zhen Tong, John S. Beech, Aleksandra Lawera, et al. (2020). Molecular basis of ALK1-mediated signalling by BMP9/BMP10 and their prodomain-bound forms. *Nature Communications*. doi:10.1038/s41467-020-15425-3
+<a id="ref-191"></a>191. Richard M. Salmon, Jingxu Guo, Jennifer Wood, Zhen Tong, John S. Beech, Aleksandra Lawera, et al. (2020). Molecular basis of ALK1-mediated signalling by BMP9/BMP10 and their prodomain-bound forms. *Nature Communications*. [DOI:10.1038/s41467-020-15425-3](https://doi.org/10.1038/s41467-020-15425-3)
 
-<a id="ref-192"></a>192. Hanying Chen, Shu Ping Shi, Lourdes Acosta, Weiming Li, Jonathan T. Lu, Shideng Bao, et al. (2004). BMP10 is essential for maintaining cardiac growth during murine cardiogenesis. *Development*. doi:10.1242/dev.01094
+<a id="ref-192"></a>192. Hanying Chen, Shu Ping Shi, Lourdes Acosta, Weiming Li, Jonathan T. Lu, Shideng Bao, et al. (2004). BMP10 is essential for maintaining cardiac growth during murine cardiogenesis. *Development*. [DOI:10.1242/dev.01094](https://doi.org/10.1242/dev.01094)
 
-<a id="ref-193"></a>193. Virginia Albiñana, A. Cuesta, Isabel de Rojas-P, et al. (2020). Review of Pharmacological Strategies with Repurposed Drugs for Hereditary Hemorrhagic Telangiectasia Related Bleeding. *Journal of Clinical Medicine*. doi:10.3390/jcm9061766
+<a id="ref-193"></a>193. Virginia Albiñana, A. Cuesta, Isabel de Rojas-P, et al. (2020). Review of Pharmacological Strategies with Repurposed Drugs for Hereditary Hemorrhagic Telangiectasia Related Bleeding. *Journal of Clinical Medicine*. [DOI:10.3390/jcm9061766](https://doi.org/10.3390/jcm9061766)
 
-<a id="ref-194"></a>194. Santiago Ruiz, Haitian Zhao, P. Chandakkar, et al. (2020). Correcting Smad1/5/8, mTOR, and VEGFR2 treats pathology in hereditary hemorrhagic telangiectasia models.. *The Journal of clinical investigation*. doi:10.1172/jci127425
+<a id="ref-194"></a>194. Santiago Ruiz, Haitian Zhao, P. Chandakkar, et al. (2020). Correcting Smad1/5/8, mTOR, and VEGFR2 treats pathology in hereditary hemorrhagic telangiectasia models.. *The Journal of clinical investigation*. [DOI:10.1172/jci127425](https://doi.org/10.1172/jci127425)
 
-<a id="ref-195"></a>195. Santiago Ruiz, Haitian Zhao, P. Chandakkar, et al. (2016). A mouse model of hereditary hemorrhagic telangiectasia generated by transmammary-delivered immunoblocking of BMP9 and BMP10. *Scientific Reports*. doi:10.1038/srep37366
+<a id="ref-195"></a>195. Santiago Ruiz, Haitian Zhao, P. Chandakkar, et al. (2016). A mouse model of hereditary hemorrhagic telangiectasia generated by transmammary-delivered immunoblocking of BMP9 and BMP10. *Scientific Reports*. [DOI:10.1038/srep37366](https://doi.org/10.1038/srep37366)
 
-<a id="ref-196"></a>196. Angela M. Crist, Xing-hua Zhou, J. Garai, et al. (2019). Angiopoietin-2 Inhibition Rescues Arteriovenous Malformation in a Smad4 Hereditary Hemorrhagic Telangiectasia Mouse Model. *Circulation*. doi:10.1161/circulationaha.118.036952
+<a id="ref-196"></a>196. Angela M. Crist, Xing-hua Zhou, J. Garai, et al. (2019). Angiopoietin-2 Inhibition Rescues Arteriovenous Malformation in a Smad4 Hereditary Hemorrhagic Telangiectasia Mouse Model. *Circulation*. [DOI:10.1161/circulationaha.118.036952](https://doi.org/10.1161/circulationaha.118.036952)
 
-<a id="ref-197"></a>197. G. Gipson, S. Rajesh, A. Zeghibe, et al. (2026). C26-16 Differential Tgfβ Antagonism in a Mouse Model of Peripheral Arteriovenous Malformation. *American Journal of Respiratory and Critical Care Medicine*. doi:10.1093/ajrccm/aamag162.5772
+<a id="ref-197"></a>197. G. Gipson, S. Rajesh, A. Zeghibe, et al. (2026). C26-16 Differential Tgfβ Antagonism in a Mouse Model of Peripheral Arteriovenous Malformation. *American Journal of Respiratory and Critical Care Medicine*. [DOI:10.1093/ajrccm/aamag162.5772](https://doi.org/10.1093/ajrccm/aamag162.5772)
 
-<a id="ref-198"></a>198. Olivier Nolan-Stevaux, Wendy Zhong, Stacey Culp, Kathy Shaffer, Joe Hoover, Dineli Wickramasinghe, et al. (2012). Endoglin Requirement for BMP9 Signaling in Endothelial Cells Reveals New Mechanism of Action for Selective Anti-Endoglin Antibodies. *PLoS ONE*. doi:10.1371/journal.pone.0050920
+<a id="ref-198"></a>198. Olivier Nolan-Stevaux, Wendy Zhong, Stacey Culp, Kathy Shaffer, Joe Hoover, Dineli Wickramasinghe, et al. (2012). Endoglin Requirement for BMP9 Signaling in Endothelial Cells Reveals New Mechanism of Action for Selective Anti-Endoglin Antibodies. *PLoS ONE*. [DOI:10.1371/journal.pone.0050920](https://doi.org/10.1371/journal.pone.0050920)
 
-<a id="ref-199"></a>199. Toni K. Choueiri, Yousef Zakharia, Sumanta K. Pal, Judit Kocsis, Russell K. Pachynski, Alexandr Poprach, et al. (2021). Clinical Results and Biomarker Analyses of Axitinib and TRC105 versus Axitinib Alone in Patients with Advanced or Metastatic Renal Cell Carcinoma (TRAXAR). *The Oncologist*. doi:10.1002/onco.13777
+<a id="ref-199"></a>199. Toni K. Choueiri, Yousef Zakharia, Sumanta K. Pal, Judit Kocsis, Russell K. Pachynski, Alexandr Poprach, et al. (2021). Clinical Results and Biomarker Analyses of Axitinib and TRC105 versus Axitinib Alone in Patients with Advanced or Metastatic Renal Cell Carcinoma (TRAXAR). *The Oncologist*. [DOI:10.1002/onco.13777](https://doi.org/10.1002/onco.13777)
 
-<a id="ref-200"></a>200. Toni K. Choueiri, M. Dror Michaelson, Edwin M. Posadas, Guru Sonpavde, David F. McDermott, Andrew B. Nixon, et al. (2018). An Open Label Phase Ib Dose Escalation Study of TRC105 (Anti-Endoglin Antibody) with Axitinib in Patients with Metastatic Renal Cell Carcinoma. *The Oncologist*. doi:10.1634/theoncologist.2018-0299
+<a id="ref-200"></a>200. Toni K. Choueiri, M. Dror Michaelson, Edwin M. Posadas, Guru Sonpavde, David F. McDermott, Andrew B. Nixon, et al. (2018). An Open Label Phase Ib Dose Escalation Study of TRC105 (Anti-Endoglin Antibody) with Axitinib in Patients with Metastatic Renal Cell Carcinoma. *The Oncologist*. [DOI:10.1634/theoncologist.2018-0299](https://doi.org/10.1634/theoncologist.2018-0299)
 
-<a id="ref-201"></a>201. Zhong Y, Yang P, Troncone L, et al. (2025). BMP9 regulates the endothelial secretome to drive pulmonary hypertension - PMC. *bioRxiv : the preprint server for biology*. doi:10.1101/2025.08.29.673113
+<a id="ref-201"></a>201. Zhong Y, Yang P, Troncone L, et al. (2025). BMP9 regulates the endothelial secretome to drive pulmonary hypertension - PMC. *bioRxiv : the preprint server for biology*. [DOI:10.1101/2025.08.29.673113](https://doi.org/10.1101/2025.08.29.673113)
 
-<a id="ref-202"></a>202. Al Tabosh T, Al Tarrass M, Tourvieilhe L, et al. (2024). Hereditary hemorrhagic telangiectasia: from signaling insights to therapeutic advances. *The Journal of clinical investigation*. doi:10.1172/JCI176379
+<a id="ref-202"></a>202. Al Tabosh T, Al Tarrass M, Tourvieilhe L, et al. (2024). Hereditary hemorrhagic telangiectasia: from signaling insights to therapeutic advances. *The Journal of clinical investigation*. [DOI:10.1172/JCI176379](https://doi.org/10.1172/JCI176379)
 
-<a id="ref-203"></a>203. Matzuk MM, Kumar TR, Vassalli A, et al. (1995). Functional analysis of activins during mammalian development. *Nature*. doi:10.1038/374354a0
+<a id="ref-203"></a>203. Matzuk MM, Kumar TR, Vassalli A, et al. (1995). Functional analysis of activins during mammalian development. *Nature*. [DOI:10.1038/374354a0](https://doi.org/10.1038/374354a0)
 
-<a id="ref-204"></a>204. Brown CW, Houston-Hawkins DE, Woodruff TK, et al. (2000). Insertion of Inhbb into the Inhba locus rescues the Inhba-null phenotype and reveals new activin functions. *Nature Genetics*. doi:10.1038/78161
+<a id="ref-204"></a>204. Brown CW, Houston-Hawkins DE, Woodruff TK, et al. (2000). Insertion of Inhbb into the Inhba locus rescues the Inhba-null phenotype and reveals new activin functions. *Nature Genetics*. [DOI:10.1038/78161](https://doi.org/10.1038/78161)
 
-<a id="ref-205"></a>205. Winek E, Szczepanska K, Bednarek M, et al. (2026). Reduced activin A levels impair urogenital system development and compromise female mouse fertility. *Molecular Human Reproduction*. doi:10.1093/molehr/gaag007
+<a id="ref-205"></a>205. Winek E, Szczepanska K, Bednarek M, et al. (2026). Reduced activin A levels impair urogenital system development and compromise female mouse fertility. *Molecular Human Reproduction*. [DOI:10.1093/molehr/gaag007](https://doi.org/10.1093/molehr/gaag007)
 
-<a id="ref-206"></a>206. Chang H, Lau A, Matzuk M (2001). Studying TGF-beta superfamily signaling by knockouts and knockins. *Molecular and Cellular Endocrinology*. doi:10.1016/s0303-7207(01)00513-5
+<a id="ref-206"></a>206. Chang H, Lau A, Matzuk M (2001). Studying TGF-beta superfamily signaling by knockouts and knockins. *Molecular and Cellular Endocrinology*. [DOI:10.1016/s0303-7207(01)00513-5](https://doi.org/10.1016/s0303-7207(01)00513-5)
 
-<a id="ref-207"></a>207. Bertolino P, Holmberg R, Reissmann E, Andersson O, Berggren PO, Ibanez CF (2008). Activin B receptor ALK7 is a negative regulator of pancreatic beta-cell function. *PNAS*. doi:10.1073/pnas.0801285105
+<a id="ref-207"></a>207. Bertolino P, Holmberg R, Reissmann E, Andersson O, Berggren PO, Ibanez CF (2008). Activin B receptor ALK7 is a negative regulator of pancreatic beta-cell function. *PNAS*. [DOI:10.1073/pnas.0801285105](https://doi.org/10.1073/pnas.0801285105)
 
-<a id="ref-208"></a>208. Bonomi L, Brown ML, Ungerleider N, et al. (2012). Activin B regulates islet composition and islet mass but not whole body glucose homeostasis or insulin sensitivity. *Am J Physiol Endocrinol Metab*. doi:10.1152/ajpendo.00177.2012
+<a id="ref-208"></a>208. Bonomi L, Brown ML, Ungerleider N, et al. (2012). Activin B regulates islet composition and islet mass but not whole body glucose homeostasis or insulin sensitivity. *Am J Physiol Endocrinol Metab*. [DOI:10.1152/ajpendo.00177.2012](https://doi.org/10.1152/ajpendo.00177.2012)
 
-<a id="ref-209"></a>209. Li D, Mastaitis JW, Min S, et al. (2026). Double knockout of INHBC and INHBE protects against diet-induced obesity and insulin resistance in mice. *Diabetes*. doi:10.2337/db26-2555-p
+<a id="ref-209"></a>209. Li D, Mastaitis JW, Min S, et al. (2026). Double knockout of INHBC and INHBE protects against diet-induced obesity and insulin resistance in mice. *Diabetes*. [DOI:10.2337/db26-2555-p](https://doi.org/10.2337/db26-2555-p)
 
-<a id="ref-210"></a>210. McPherron AC, Lawler AM, Lee SJ (1997). Regulation of skeletal muscle mass in mice by a new TGF-beta superfamily member (myostatin/GDF8). *Nature*. doi:10.1038/1358
+<a id="ref-210"></a>210. McPherron AC, Lawler AM, Lee SJ (1997). Regulation of skeletal muscle mass in mice by a new TGF-beta superfamily member (myostatin/GDF8). *Nature*. [DOI:10.1038/1358](https://doi.org/10.1038/1358)
 
-<a id="ref-211"></a>211. Kambadur R, Sharma M, Smith TP, Bass JJ (1997). Mutations in myostatin (GDF8) in double-muscled Belgian Blue and Piedmontese cattle. *Genome Research*. doi:10.1101/gr.7.9.910
+<a id="ref-211"></a>211. Kambadur R, Sharma M, Smith TP, Bass JJ (1997). Mutations in myostatin (GDF8) in double-muscled Belgian Blue and Piedmontese cattle. *Genome Research*. [DOI:10.1101/gr.7.9.910](https://doi.org/10.1101/gr.7.9.910)
 
-<a id="ref-212"></a>212. Szabo G, Dallmann G, Muller G, et al. (1998). A deletion in the myostatin gene causes the compact (Cmpt) hypermuscular mutation in mice. *Mammalian Genome*. doi:10.1007/pl00022811
+<a id="ref-212"></a>212. Szabo G, Dallmann G, Muller G, et al. (1998). A deletion in the myostatin gene causes the compact (Cmpt) hypermuscular mutation in mice. *Mammalian Genome*. [DOI:10.1007/pl00022811](https://doi.org/10.1007/pl00022811)
 
-<a id="ref-213"></a>213. Mosher DS, Quignon P, Bustamante CD, et al. (2007). A mutation in the myostatin gene increases muscle mass and enhances racing performance in heterozygote dogs. *PLoS Genetics*. doi:10.1371/journal.pgen.0030079
+<a id="ref-213"></a>213. Mosher DS, Quignon P, Bustamante CD, et al. (2007). A mutation in the myostatin gene increases muscle mass and enhances racing performance in heterozygote dogs. *PLoS Genetics*. [DOI:10.1371/journal.pgen.0030079](https://doi.org/10.1371/journal.pgen.0030079)
 
-<a id="ref-214"></a>214. Elkasrawy M, Hamrick MW (2010). Myostatin (GDF-8) as a key factor linking muscle mass and bone structure. *J Musculoskelet Neuronal Interact*. doi:10.1038/10320
+<a id="ref-214"></a>214. Elkasrawy M, Hamrick MW (2010). Myostatin (GDF-8) as a key factor linking muscle mass and bone structure. *J Musculoskelet Neuronal Interact*. [DOI:10.1038/10320](https://doi.org/10.1038/10320)
 
-<a id="ref-215"></a>215. Bouvard C, Tu L, Rossi M, Desroches-Castan A, et al. (22). Different cardiovascular and pulmonary phenotypes for single- and double-knock-out mice deficient for BMP9 and BMP10. *Cardiovascular Research*. doi:10.1093/cvr/cvab187
+<a id="ref-215"></a>215. Bouvard C, Tu L, Rossi M, Desroches-Castan A, et al. (2022). Different cardiovascular and pulmonary phenotypes for single- and double-knock-out mice deficient for BMP9 and BMP10. *Cardiovascular Research*. [DOI:10.1093/cvr/cvab187](https://doi.org/10.1093/cvr/cvab187)
 
-<a id="ref-216"></a>216. Desroches-Castan A, Koca D, Liu H, et al. (2024). BMP9 knockout mice develop spontaneous arteriovenous malformations in liver, GI tract, and uterus. *Cardiovascular Research*. doi:10.1093/cvr/cvae052
+<a id="ref-216"></a>216. Desroches-Castan A, Koca D, Liu H, et al. (2024). BMP9 knockout mice develop spontaneous arteriovenous malformations in liver, GI tract, and uterus. *Cardiovascular Research*. [DOI:10.1093/cvr/cvae052](https://doi.org/10.1093/cvr/cvae052)
 
-<a id="ref-217"></a>217. Wooderchak-Donahue WL, McDonald J, O'Fallon B, et al. (2013). BMP9 mutations cause a vascular-anomaly syndrome with phenotypic overlap with hereditary hemorrhagic telangiectasia. *American Journal of Human Genetics*. doi:10.1016/j.ajhg.2013.07.004
+<a id="ref-217"></a>217. Wooderchak-Donahue WL, McDonald J, O'Fallon B, et al. (2013). BMP9 mutations cause a vascular-anomaly syndrome with phenotypic overlap with hereditary hemorrhagic telangiectasia. *American Journal of Human Genetics*. [DOI:10.1016/j.ajhg.2013.07.004](https://doi.org/10.1016/j.ajhg.2013.07.004)
 
-<a id="ref-218"></a>218. Hodgson U, Poyhonen M, Tules M, et al. (2021). Homozygous GDF2 nonsense mutations abolish circulating BMP9/BMP10 causing PAH or HHT-like syndrome in children. *Mol Genet Genomic Med*. doi:10.1002/mgg3.1685
+<a id="ref-218"></a>218. Hodgson U, Poyhonen M, Tules M, et al. (2021). Homozygous GDF2 nonsense mutations abolish circulating BMP9/BMP10 causing PAH or HHT-like syndrome in children. *Mol Genet Genomic Med*. [DOI:10.1002/mgg3.1685](https://doi.org/10.1002/mgg3.1685)
 
-<a id="ref-219"></a>219. Dunmore BJ, et al. (2025). BMP9 knockout impairs pulmonary vessel muscularisation and confers aberrant tamoxifen sensitivity. *Angiogenesis*. doi:10.1007/s10456-025-10017-5
+<a id="ref-219"></a>219. Dunmore BJ, et al. (2025). BMP9 knockout impairs pulmonary vessel muscularisation and confers aberrant tamoxifen sensitivity. *Angiogenesis*. [DOI:10.1007/s10456-025-10017-5](https://doi.org/10.1007/s10456-025-10017-5)
 
-<a id="ref-220"></a>220. Choi EJ, et al. (2022). BMP10 functions independently from BMP9 for the development of a proper arteriovenous network. *Angiogenesis*. doi:10.1007/s10456-022-09859-0
+<a id="ref-220"></a>220. Choi EJ, et al. (2022). BMP10 functions independently from BMP9 for the development of a proper arteriovenous network. *Angiogenesis*. [DOI:10.1007/s10456-022-09859-0](https://doi.org/10.1007/s10456-022-09859-0)
 
-<a id="ref-221"></a>221. Zhang W, Chen H, Wang Y, et al. (2011). Tbx20 transcription factor is a downstream mediator for BMP10 in cardiac development. *J Biol Chem*. doi:10.1074/jbc.m111.279679
+<a id="ref-221"></a>221. Zhang W, Chen H, Wang Y, et al. (2011). Tbx20 transcription factor is a downstream mediator for BMP10 in cardiac development. *J Biol Chem*. [DOI:10.1074/jbc.m111.279679](https://doi.org/10.1074/jbc.m111.279679)
 
-<a id="ref-222"></a>222. Jiang J, et al. (2015). The prodomain-bound form of bone morphogenetic protein 10 is biologically active on endothelial cells
+<a id="ref-222"></a>222. Jiang H, Salmon R, Rosser M, et al. (2016). The prodomain-bound form of bone morphogenetic protein 10 is biologically active on endothelial cells. *Journal of Biological Chemistry*. [DOI:10.1074/jbc.M115.683292](https://doi.org/10.1074/jbc.M115.683292)
 
-<a id="ref-223"></a>223. Li B (2019). bmp10 mutant zebrafish develop dilated hemorrhagic vessels, enlarged hearts, and high-output heart failure. University of Pittsburgh dissertation
+<a id="ref-223"></a>223. Li B (2019). bmp10 mutant zebrafish develop dilated hemorrhagic vessels, enlarged hearts, and high-output heart failure. University of Pittsburgh dissertation.
 
-<a id="ref-224"></a>224. Santos-Cantador J, Siguero-Alvarez M, de la Pompa JL (2025). BMP10 in cardiac development and disease. J Cardiovasc Dev Dis. doi:10.3390/jcdd12060224
+<a id="ref-224"></a>224. Santos-Cantador J, Siguero-Alvarez M, de la Pompa JL (2025). BMP10 in cardiac development and disease. *J Cardiovasc Dev Dis*. [DOI:10.3390/jcdd12060224](https://doi.org/10.3390/jcdd12060224)
 
-<a id="ref-225"></a>225. Perez-Garcia V, Fineberg E, Wilson R, et al. (2018). Placental defects are associated with male-biased embryonic lethality in BMP10 knockout mice. Nature. doi:10.1038/nature26002
+<a id="ref-225"></a>225. Perez-Garcia V, Fineberg E, Wilson R, et al. (2018). Placental defects are associated with male-biased embryonic lethality in BMP10 knockout mice. *Nature*. [DOI:10.1038/nature26002](https://doi.org/10.1038/nature26002)
 
-<a id="ref-226"></a>226. Suh J, Lee YS (2019). GDF11 locally controls anterior-posterior patterning of the axial skeleton. J Cell Physiol. doi:10.1002/jcp.28904
+<a id="ref-226"></a>226. Suh J, Lee YS (2019). GDF11 locally controls anterior-posterior patterning of the axial skeleton. *J Cell Physiol*. [DOI:10.1002/jcp.28904](https://doi.org/10.1002/jcp.28904)
 
-<a id="ref-227"></a>227. Keros Therapeutics (2025). KER-065 Phase 1 clinical trial results in healthy volunteers (SEC filing and press releases). Keros Therapeutics IR
+<a id="ref-227"></a>227. Keros Therapeutics (2025). KER-065 Phase 1 clinical trial results in healthy volunteers (SEC filing and press releases). Keros Therapeutics IR.
