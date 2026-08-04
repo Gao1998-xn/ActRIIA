@@ -581,30 +581,30 @@ BMP10 是 TGF-β 超家族成员，在**心脏发育**中具有不可替代的�
 
 ## 1. 生理功能
 
-BMP2 是 TGF-β 超家族中最早被纯化和鉴定的骨诱导因子之一，由 *BMP2* 基因编码。与 BMP4 高度同源（~75% 氨基酸序列相似性），两者在发育过程中具有部分功能冗余。BMP2 主要通过 **BMPRII/ActRIIA/ActRIIB → ALK2/ALK3/ALK6 → Smad1/5/8** 信号通路发挥作用，其活性被 Noggin、Chordin、DAN 等胞外拮抗剂调控 [228, 229, 230]。
+BMP2 是 TGF-β 超家族中最早被纯化和鉴定的骨诱导因子之一，由 *BMP2* 基因编码。与 BMP4 高度同源（~75% 氨基酸序列相似性），两者在发育过程中具有部分功能冗余。BMP2 主要通过 **BMPRII/ActRIIA/ActRIIB → ALK2/ALK3/ALK6 → Smad1/5/8** 信号通路发挥作用，其活性被 Noggin、Chordin、DAN 等胞外拮抗剂调控 [228, 229, 230](#ref-228,229,230)。
 
 | 系统/组织 | 生理功能 | 证据来源 |
 |---|---|---|
-| **骨骼发育** | BMP2 是软骨细胞增殖和成熟的关键因子；在软骨内骨化中促进软骨细胞增殖、调节肥大化分化；BMP2（而非 BMP4）对软骨细胞增殖至关重要 | [233] |
-| **心脏发育** | BMP2 在心脏发育中不可或缺：调节心垫 EMT（上皮-间质转化）、心肌模式形成、流出道分隔；Bmp2 与 Bmp4 在心脏发育中协同作用 | [228, 234, 235, 236] |
-| **神经嵴迁移** | BMP2 对颅神经嵴细胞的迁移和分化至关重要；Bmp2 条件性敲除导致神经嵴衍生物（包括颅面结构）严重缺陷 | [230, 237] |
-| **羊膜/绒毛膜** | Bmp2 敲除小鼠羊膜和绒毛膜发育缺陷，是胚胎致死的原因之一 | [228] |
-| **骨愈合** | BMP2 在骨折愈合中促进间充质干细胞向成骨细胞分化；是临床骨修复产品的核心活性成分 | [238, 239] |
-| **心脏瓣膜** | BMP2 过表达可导致异位骨化和主动脉瓣功能障碍 | [240] |
+| **骨骼发育** | BMP2 是软骨细胞增殖和成熟的关键因子；在软骨内骨化中促进软骨细胞增殖、调节肥大化分化；BMP2（而非 BMP4）对软骨细胞增殖至关重要 | [233](#ref-233) |
+| **心脏发育** | BMP2 在心脏发育中不可或缺：调节心垫 EMT（上皮-间质转化）、心肌模式形成、流出道分隔；Bmp2 与 Bmp4 在心脏发育中协同作用 | [228, 234, 235, 236](#ref-228,234,235,236) |
+| **神经嵴迁移** | BMP2 对颅神经嵴细胞的迁移和分化至关重要；Bmp2 条件性敲除导致神经嵴衍生物（包括颅面结构）严重缺陷 | [230, 237](#ref-230,237) |
+| **羊膜/绒毛膜** | Bmp2 敲除小鼠羊膜和绒毛膜发育缺陷，是胚胎致死的原因之一 | [228](#ref-228) |
+| **骨愈合** | BMP2 在骨折愈合中促进间充质干细胞向成骨细胞分化；是临床骨修复产品的核心活性成分 | [238, 239](#ref-238,239) |
+| **心脏瓣膜** | BMP2 过表达可导致异位骨化和主动脉瓣功能障碍 | [240](#ref-240) |
 
-**信号通路**：BMP2 → BMPRII/ActRIIA/ActRIIB（II 型受体）→ ALK2/ALK3/ALK6（I 型受体）→ Smad1/5/8 → 靶基因转录。BMP2 对 II 型受体的亲和力显著低于 activin 类配体——BMP2 与 ActRIIB 的结合比 activin A 弱约 270 倍 [31]。其信号传导主要依赖 BMPRII 作为高亲和力 II 型受体 [225]。
+**信号通路**：BMP2 → BMPRII/ActRIIA/ActRIIB（II 型受体）→ ALK2/ALK3/ALK6（I 型受体）→ Smad1/5/8 → 靶基因转录。BMP2 对 II 型受体的亲和力显著低于 activin 类配体——BMP2 与 ActRIIB 的结合比 activin A 弱约 270 倍 [31](#ref-31)。其信号传导主要依赖 BMPRII 作为高亲和力 II 型受体 [225](#ref-225)。
 
 ## 2. 基因敲除表型
 
 | 模型 | 表型 | 证据来源 |
 |---|---|---|
-| **Bmp2 全身敲除小鼠** | **胚胎致死**（E7.5-E10.5）；羊膜/绒毛膜缺陷；心脏发育异常（心垫形成失败）；颅面缺陷 | [228] |
-| **Bmp2 心脏条件性敲除** | 心垫 EMT 失败、心肌模式形成异常；Bmp4 无法完全代偿 | [234] |
-| **Bmp2 神经嵴条件性敲除** | 颅神经嵴迁移失败；颅面骨骼（下颌、腭）严重畸形 | [230, 237] |
-| **Bmp2/Bmp4 双敲除** | 比单敲除更严重的心脏和颅面缺陷；证明两者在心脏发育中有协同但不可完全替代的功能 | [235, 236] |
-| **Bmp2 软骨条件性敲除** | 软骨细胞增殖严重受损、软骨内骨化障碍；BMP4 无法代偿软骨增殖功能 | [233] |
-| **BMP2 单倍剂量不足（人类）** | *BMP2* 杂合变异导致右位心（dextrocardia）等心脏位置异常 | [241] |
-| **BMP2 过表达（Tie2-Cre）** | 异位骨化、主动脉瓣功能障碍——证明 BMP2 水平需精确调控 | [240] |
+| **Bmp2 全身敲除小鼠** | **胚胎致死**（E7.5-E10.5）；羊膜/绒毛膜缺陷；心脏发育异常（心垫形成失败）；颅面缺陷 | [228](#ref-228) |
+| **Bmp2 心脏条件性敲除** | 心垫 EMT 失败、心肌模式形成异常；Bmp4 无法完全代偿 | [234](#ref-234) |
+| **Bmp2 神经嵴条件性敲除** | 颅神经嵴迁移失败；颅面骨骼（下颌、腭）严重畸形 | [230, 237](#ref-230,237) |
+| **Bmp2/Bmp4 双敲除** | 比单敲除更严重的心脏和颅面缺陷；证明两者在心脏发育中有协同但不可完全替代的功能 | [235, 236](#ref-235,236) |
+| **Bmp2 软骨条件性敲除** | 软骨细胞增殖严重受损、软骨内骨化障碍；BMP4 无法代偿软骨增殖功能 | [233](#ref-233) |
+| **BMP2 单倍剂量不足（人类）** | *BMP2* 杂合变异导致右位心（dextrocardia）等心脏位置异常 | [241](#ref-241) |
+| **BMP2 过表达（Tie2-Cre）** | 异位骨化、主动脉瓣功能障碍——证明 BMP2 水平需精确调控 | [240](#ref-240) |
 
 **关键启示**：BMP2 基因敲除导致**胚胎致死**，核心缺陷在心脏发育（心垫 EMT）、羊膜/绒毛膜和颅面结构。BMP2 在发育中的不可替代性意味着**孕期阻断 BMP2 是绝对禁忌**。成年后 BMP2 的主要功能在骨代谢和骨愈合中，这些是可逆的药理效应。
 
@@ -614,74 +614,74 @@ BMP2 是 TGF-β 超家族中最早被纯化和鉴定的骨诱导因子之一，�
 
 | 领域 | 阻断效果 | 证据来源 |
 |---|---|---|
-| **异位骨化** | LDN-193189（BMP I 型受体抑制剂）在 FOP 模型中显著减少异位骨化；Noggin 作为天然 BMP2 拮抗剂可抑制异位骨化 | [242, 243, 244] |
-| **纤维化** | BMP 信号阻断在特定条件下可减轻 TGF-β 驱动的纤维化 | [245] |
-| **骨过度生长** | BMP2 阻断可防止高剂量 BMP2 引起的骨过度生长和骨吸收 | [246] |
+| **异位骨化** | LDN-193189（BMP I 型受体抑制剂）在 FOP 模型中显著减少异位骨化；Noggin 作为天然 BMP2 拮抗剂可抑制异位骨化 | [242, 243, 244](#ref-242,243,244) |
+| **纤维化** | BMP 信号阻断在特定条件下可减轻 TGF-β 驱动的纤维化 | [245](#ref-245) |
+| **骨过度生长** | BMP2 阻断可防止高剂量 BMP2 引起的骨过度生长和骨吸收 | [246](#ref-246) |
 
 ### 负面效应与风险
 
 | 风险 | 机制 | 证据来源 |
 |---|---|---|
-| **骨愈合障碍** | BMP2 是骨折愈合的关键因子；阻断后骨折愈合延迟或失败 | [238, 239] |
-| **心脏发育风险** | BMP2 在心垫 EMT 中不可替代；孕期阻断可导致严重心脏畸形 | [228, 234] |
-| **软骨发育障碍** | BMP2 对软骨细胞增殖至关重要；阻断可导致软骨内骨化障碍 | [233] |
-| **颅面缺陷** | BMP2 对颅神经嵴迁移至关重要；阻断可导致颅面畸形 | [230, 237] |
+| **骨愈合障碍** | BMP2 是骨折愈合的关键因子；阻断后骨折愈合延迟或失败 | [238, 239](#ref-238,239) |
+| **心脏发育风险** | BMP2 在心垫 EMT 中不可替代；孕期阻断可导致严重心脏畸形 | [228, 234](#ref-228,234) |
+| **软骨发育障碍** | BMP2 对软骨细胞增殖至关重要；阻断可导致软骨内骨化障碍 | [233](#ref-233) |
+| **颅面缺陷** | BMP2 对颅神经嵴迁移至关重要；阻断可导致颅面畸形 | [230, 237](#ref-230,237) |
 
-**对 Bima 项目的特殊意义**：BMP2 对 ActRIIB 的亲和力极低（比 activin A 弱约 270 倍）[31]，因此 Bima（抗 ActRII 抗体）**不太可能通过 ActRII 阻断 BMP2 信号**。这意味着 BMP2 相关的骨和心脏风险**不是 Bima 类抗体的主要安全隐患**。然而，如果改良抗体通过其他机制（如同时靶向 BMP 通路）影响 BMP2，则需谨慎评估。
+**对 Bima 项目的特殊意义**：BMP2 对 ActRIIB 的亲和力极低（比 activin A 弱约 270 倍）[31](#ref-31)，因此 Bima（抗 ActRII 抗体）**不太可能通过 ActRII 阻断 BMP2 信号**。这意味着 BMP2 相关的骨和心脏风险**不是 Bima 类抗体的主要安全隐患**。然而，如果改良抗体通过其他机制（如同时靶向 BMP 通路）影响 BMP2，则需谨慎评估。
 
 ## 4. 动物模型与给药方案
 
 | 模型 | 动物 | 给药方案 | 主要结果 | 证据来源 |
 |---|---|---|---|---|
-| **脊柱融合模型** | 犬 | rhBMP-2 植入胶原海绵，椎间或后外侧 | 剂量依赖性骨融合；高剂量效果优于自体骨 | [247] |
-| **颈椎融合模型** | 羊 | 高剂量 rhBMP-2 胶原海绵 | 骨融合成功但出现异位骨化和椎体骨吸收 | [246] |
-| **后外侧融合模型** | 兔 | rhBMP-2 复合载体 | 剂量依赖性融合率提升 | [248] |
-| **脊柱融合模型** | 小型猪 | rhBMP-2 不同载体 | 融合质量受载体和剂量影响 | [249] |
-| **后外侧融合模型** | 小鼠 | rhBMP-2 胶原海绵 | 有效融合；可用于机制研究 | [250, 251] |
-| **骨缺损修复** | 多种动物 | 工程化 BMP2 桥接蛋白 | 新型 BMP2 变体可降低所需剂量 | [252] |
-| **脊柱融合对比** | 临床对比研究 | BioMim-PDA vs INFUSE | 不同 BMP2 制剂疗效和安全性比较 | [253] |
+| **脊柱融合模型** | 犬 | rhBMP-2 植入胶原海绵，椎间或后外侧 | 剂量依赖性骨融合；高剂量效果优于自体骨 | [247](#ref-247) |
+| **颈椎融合模型** | 羊 | 高剂量 rhBMP-2 胶原海绵 | 骨融合成功但出现异位骨化和椎体骨吸收 | [246](#ref-246) |
+| **后外侧融合模型** | 兔 | rhBMP-2 复合载体 | 剂量依赖性融合率提升 | [248](#ref-248) |
+| **脊柱融合模型** | 小型猪 | rhBMP-2 不同载体 | 融合质量受载体和剂量影响 | [249](#ref-249) |
+| **后外侧融合模型** | 小鼠 | rhBMP-2 胶原海绵 | 有效融合；可用于机制研究 | [250, 251](#ref-250,251) |
+| **骨缺损修复** | 多种动物 | 工程化 BMP2 桥接蛋白 | 新型 BMP2 变体可降低所需剂量 | [252](#ref-252) |
+| **脊柱融合对比** | 临床对比研究 | BioMim-PDA vs INFUSE | 不同 BMP2 制剂疗效和安全性比较 | [253](#ref-253) |
 
 ## 5. 针对该通路的药物及临床结果
 
 | 药物/制剂 | 公司 | 机制 | 临床应用 | 结果 | 状态 | 证据来源 |
 |---|---|---|---|---|---|---|
-| **rhBMP-2 (INFUSE)** | Medtronic | 重组人 BMP2 | 脊柱融合（ALIF）、开放骨折、口腔颌面 | FDA 批准；剂量依赖性骨融合；高剂量致异位骨化、骨吸收、炎症 | **FDA 批准** | [247, 246, 248, 253] |
-| **LDN-193189** | 学术 | BMP I 型受体（ALK2/ALK3）小分子抑制剂 | FOP 临床前 | 显著减少异位骨化 | 临床前 | [242, 244] |
-| **Dorsomorphin** | 学术 | BMP I 型受体抑制剂（非选择性） | 临床前 | 抑制 BMP Smad/p38/Akt 信号 | 临床前 | [244] |
-| **K02288** | 学术 | 选择性 BMP I 型受体抑制剂 | 临床前 | 对 ALK2/ALK3 高选择性 | 临床前 | [245] |
-| **Noggin** | 天然 | BMP2/BMP4/ BMP7 天然拮抗剂 | 临床前 | 抑制 BMP2 诱导的骨化 | 临床前 | [229, 243] |
-| **BMP2/BMP7 工程化 EVs** | 学术 | 细胞外囊泡递送 BMP2/BMP7 | 骨修复临床前 | 替代高剂量 rhBMP-2，减少副作用 | 临床前 | [254] |
+| **rhBMP-2 (INFUSE)** | Medtronic | 重组人 BMP2 | 脊柱融合（ALIF）、开放骨折、口腔颌面 | FDA 批准；剂量依赖性骨融合；高剂量致异位骨化、骨吸收、炎症 | **FDA 批准** | [247, 246, 248, 253](#ref-247,246,248,253) |
+| **LDN-193189** | 学术 | BMP I 型受体（ALK2/ALK3）小分子抑制剂 | FOP 临床前 | 显著减少异位骨化 | 临床前 | [242, 244](#ref-242,244) |
+| **Dorsomorphin** | 学术 | BMP I 型受体抑制剂（非选择性） | 临床前 | 抑制 BMP Smad/p38/Akt 信号 | 临床前 | [244](#ref-244) |
+| **K02288** | 学术 | 选择性 BMP I 型受体抑制剂 | 临床前 | 对 ALK2/ALK3 高选择性 | 临床前 | [245](#ref-245) |
+| **Noggin** | 天然 | BMP2/BMP4/ BMP7 天然拮抗剂 | 临床前 | 抑制 BMP2 诱导的骨化 | 临床前 | [229, 243](#ref-229,243) |
+| **BMP2/BMP7 工程化 EVs** | 学术 | 细胞外囊泡递送 BMP2/BMP7 | 骨修复临床前 | 替代高剂量 rhBMP-2，减少副作用 | 临床前 | [254](#ref-254) |
 
-**关键安全教训**：rhBMP-2（INFUSE）是 BMP 通路最成功的临床转化，但其高剂量使用伴随异位骨化、椎体骨吸收和局部炎症等严重副作用 [246, 253]。这些副作用源于 BMP2 的广谱 BMP 受体激活（ALK2/ALK3/ALK6），而非 ActRII 介导。对于 Bima 改良项目，BMP2 的临床经验提示：**BMP 通路的高剂量激活有骨过度生长风险**，而 ActRII 抗体对 BMP2 的低亲和力反而是安全优势。
+**关键安全教训**：rhBMP-2（INFUSE）是 BMP 通路最成功的临床转化，但其高剂量使用伴随异位骨化、椎体骨吸收和局部炎症等严重副作用 [246, 253](#ref-246,253)。这些副作用源于 BMP2 的广谱 BMP 受体激活（ALK2/ALK3/ALK6），而非 ActRII 介导。对于 Bima 改良项目，BMP2 的临床经验提示：**BMP 通路的高剂量激活有骨过度生长风险**，而 ActRII 抗体对 BMP2 的低亲和力反而是安全优势。
 
 
 # 八、BMP7（OP-1 / 骨形态发生蛋白 7）
 
 ## 1. 生理功能
 
-BMP7（又称 OP-1，Osteogenic Protein-1）由 *BMP7* 基因编码，是 TGF-β 超家族中功能最广泛的成员之一。BMP7 与 BMP2 信号特征相似，主要通过 **BMPRII/ActRIIA/ActRIIB → ALK2/ALK3/ALK6 → Smad1/5/8** 通路发挥作用 [255, 256]。BMP7 可与 BMP2 或 BMP4 形成异源二聚体，具有比同源二聚体更强的生物活性 [257]。
+BMP7（又称 OP-1，Osteogenic Protein-1）由 *BMP7* 基因编码，是 TGF-β 超家族中功能最广泛的成员之一。BMP7 与 BMP2 信号特征相似，主要通过 **BMPRII/ActRIIA/ActRIIB → ALK2/ALK3/ALK6 → Smad1/5/8** 通路发挥作用 [255, 256](#ref-255,256)。BMP7 可与 BMP2 或 BMP4 形成异源二聚体，具有比同源二聚体更强的生物活性 [257](#ref-257)。
 
 | 系统/组织 | 生理功能 | 证据来源 |
 |---|---|---|
-| **肾脏发育** | BMP7 是肾脏发育的关键因子：维持未分化肾脏前体细胞、决定肾单位数量；BMP7 在输尿管芽和后肾间充质中表达 | [255, 256, 258, 259] |
-| **眼发育** | BMP7 对眼发育（视网膜、晶状体）不可或缺；BMP7 敲除小鼠无眼或小眼 | [255, 256, 258] |
-| **骨骼模式** | BMP7 参与骨骼模式形成；敲除小鼠出现多指/趾和骨骼畸形 | [256, 258] |
-| **心脏保护** | BMP7 在心脏疾病中具有抗炎、抗纤维化作用；在压力超负荷下减轻左室重构；BMP7 衍生肽（THR123/THR184）通过 BMPR1A 保护心脏 | [260, 261, 262, 263] |
-| **棕色脂肪/代谢** | BMP7 激活棕色脂肪组织（BAT），增加能量消耗，减少肥胖；AAV-BMP7 基因治疗可对抗胰岛素抵抗 | [264, 265, 266] |
-| **肾脏纤维化逆转** | BMP7 通过对抗 TGF-β1 诱导的 EMT 逆转肾纤维化；BMP7 诱导 PTEN 抑制 Akt 通路 | [267, 268, 269, 270] |
-| **神经发生** | BMP7 在大脑皮层神经发生中调节神经干细胞分化 | [271] |
-| **肢体发育** | BMP2/4/7 协同调控肢体发育；BMP7 与 BMP2/4 形成异源二聚体 | [257, 272] |
+| **肾脏发育** | BMP7 是肾脏发育的关键因子：维持未分化肾脏前体细胞、决定肾单位数量；BMP7 在输尿管芽和后肾间充质中表达 | [255, 256, 258, 259](#ref-255,256,258,259) |
+| **眼发育** | BMP7 对眼发育（视网膜、晶状体）不可或缺；BMP7 敲除小鼠无眼或小眼 | [255, 256, 258](#ref-255,256,258) |
+| **骨骼模式** | BMP7 参与骨骼模式形成；敲除小鼠出现多指/趾和骨骼畸形 | [256, 258](#ref-256,258) |
+| **心脏保护** | BMP7 在心脏疾病中具有抗炎、抗纤维化作用；在压力超负荷下减轻左室重构；BMP7 衍生肽（THR123/THR184）通过 BMPR1A 保护心脏 | [260, 261, 262, 263](#ref-260,261,262,263) |
+| **棕色脂肪/代谢** | BMP7 激活棕色脂肪组织（BAT），增加能量消耗，减少肥胖；AAV-BMP7 基因治疗可对抗胰岛素抵抗 | [264, 265, 266](#ref-264,265,266) |
+| **肾脏纤维化逆转** | BMP7 通过对抗 TGF-β1 诱导的 EMT 逆转肾纤维化；BMP7 诱导 PTEN 抑制 Akt 通路 | [267, 268, 269, 270](#ref-267,268,269,270) |
+| **神经发生** | BMP7 在大脑皮层神经发生中调节神经干细胞分化 | [271](#ref-271) |
+| **肢体发育** | BMP2/4/7 协同调控肢体发育；BMP7 与 BMP2/4 形成异源二聚体 | [257, 272](#ref-257,272) |
 
-**信号通路**：BMP7 → BMPRII/ActRIIA/ActRIIB → ALK2（主要）/ALK3/ALK6 → Smad1/5/8。BMP7 对 ActRIIB 的亲和力显著低于 activin 类配体（比 activin A 弱约 100 倍以上）[31]，但高于 BMP2 [31]。当 BMPRII 缺失时，BMP7 可通过 ActRIIA 信号传导 [220]。BMP7 的趋化信号传导需要 ActRIIA 的特定残基 [218]。
+**信号通路**：BMP7 → BMPRII/ActRIIA/ActRIIB → ALK2（主要）/ALK3/ALK6 → Smad1/5/8。BMP7 对 ActRIIB 的亲和力显著低于 activin 类配体（比 activin A 弱约 100 倍以上）[31](#ref-31)，但高于 BMP2 [31](#ref-31)。当 BMPRII 缺失时，BMP7 可通过 ActRIIA 信号传导 [220](#ref-220)。BMP7 的趋化信号传导需要 ActRIIA 的特定残基 [218](#ref-218)。
 
 ## 2. 基因敲除表型
 
 | 模型 | 表型 | 证据来源 |
 |---|---|---|
-| **Bmp7 全身敲除小鼠** | **围产期致死**（出生后不久死亡）；**肾脏发育不良**（肾单位严重减少或无肾）；**眼缺陷**（无眼/小眼）；**骨骼模式异常**（多指/趾、颅面畸形） | [255, 256, 258] |
-| **Bmp7 表达模式分析** | BMP7 与 BMP2/BMP4 在肾脏发育中有重叠表达模式；BMP4 可部分替代 BMP7 在肾脏发育中的功能 | [273, 274] |
-| **Bmp7 肾脏条件性敲除** | 肾脏前体细胞维持失败、肾单位数量减少 | [259] |
-| **BMP4 替代 BMP7** | 在 Bmp7 敲除背景下，BMP4 过表达可部分挽救肾脏发育缺陷 | [273] |
+| **Bmp7 全身敲除小鼠** | **围产期致死**（出生后不久死亡）；**肾脏发育不良**（肾单位严重减少或无肾）；**眼缺陷**（无眼/小眼）；**骨骼模式异常**（多指/趾、颅面畸形） | [255, 256, 258](#ref-255,256,258) |
+| **Bmp7 表达模式分析** | BMP7 与 BMP2/BMP4 在肾脏发育中有重叠表达模式；BMP4 可部分替代 BMP7 在肾脏发育中的功能 | [273, 274](#ref-273,274) |
+| **Bmp7 肾脏条件性敲除** | 肾脏前体细胞维持失败、肾单位数量减少 | [259](#ref-259) |
+| **BMP4 替代 BMP7** | 在 Bmp7 敲除背景下，BMP4 过表达可部分挽救肾脏发育缺陷 | [273](#ref-273) |
 
 **关键启示**：BMP7 基因敲除导致**围产期致死**，核心缺陷在肾脏、眼和骨骼。与 BMP2 类似，BMP7 在发育中不可替代，**孕期阻断 BMP7 是禁忌**。成年后 BMP7 的主要功能在肾脏保护、心脏保护和代谢调节中——这些是治疗性应用的靶点。
 
@@ -691,54 +691,54 @@ BMP7（又称 OP-1，Osteogenic Protein-1）由 *BMP7* 基因编码，是 TGF-β
 
 | 领域 | BMP7 治疗效果 | 证据来源 |
 |---|---|---|
-| **肾纤维化逆转** | BMP7 通过对抗 TGF-β1 诱导的 EMT 逆转慢性肾纤维化；在多种肾病模型中有效 | [267, 268, 269] |
-| **心脏保护** | BMP7 在压力超负荷（TAC）模型中减轻左室重构、减少纤维化；BMP7 衍生肽通过 BMPR1A 保护心肌 | [260, 261] |
-| **糖尿病心肌病** | BMP7 减轻糖尿病心肌病中的细胞焦亡 | [263] |
-| **心肌梗死后** | BMP7 减轻心肌梗死后的焦亡和炎症 | [275] |
-| **肥胖/代谢** | BMP7 激活 BAT、增加能量消耗、减少肥胖；AAV-BMP7 改善胰岛素敏感性 | [264, 265] |
-| **狼疮肾炎** | BMP7 在狼疮肾炎模型中减轻肾脏炎症和纤维化 | [276, 277] |
-| **骨关节炎** | BMP7 在膝骨关节炎中显示软骨保护趋势 | [278] |
+| **肾纤维化逆转** | BMP7 通过对抗 TGF-β1 诱导的 EMT 逆转慢性肾纤维化；在多种肾病模型中有效 | [267, 268, 269](#ref-267,268,269) |
+| **心脏保护** | BMP7 在压力超负荷（TAC）模型中减轻左室重构、减少纤维化；BMP7 衍生肽通过 BMPR1A 保护心肌 | [260, 261](#ref-260,261) |
+| **糖尿病心肌病** | BMP7 减轻糖尿病心肌病中的细胞焦亡 | [263](#ref-263) |
+| **心肌梗死后** | BMP7 减轻心肌梗死后的焦亡和炎症 | [275](#ref-275) |
+| **肥胖/代谢** | BMP7 激活 BAT、增加能量消耗、减少肥胖；AAV-BMP7 改善胰岛素敏感性 | [264, 265](#ref-264,265) |
+| **狼疮肾炎** | BMP7 在狼疮肾炎模型中减轻肾脏炎症和纤维化 | [276, 277](#ref-276,277) |
+| **骨关节炎** | BMP7 在膝骨关节炎中显示软骨保护趋势 | [278](#ref-278) |
 
 ### 负面效应与风险（BMP7 阻断）
 
 | 风险 | 机制 | 证据来源 |
 |---|---|---|
-| **肾脏发育障碍** | BMP7 对肾脏发育不可替代；阻断可导致肾发育不良 | [255, 256] |
-| **眼发育障碍** | BMP7 对眼发育不可或缺；阻断可导致无眼/小眼 | [255, 256] |
-| **肾脏纤维化加重** | BMP7 是内源性抗纤维化因子；阻断可加重 TGF-β 驱动的肾纤维化 | [267, 268] |
-| **心脏保护丧失** | BMP7 在压力超负荷下具有心脏保护作用；阻断可加重心室重构 | [260] |
+| **肾脏发育障碍** | BMP7 对肾脏发育不可替代；阻断可导致肾发育不良 | [255, 256](#ref-255,256) |
+| **眼发育障碍** | BMP7 对眼发育不可或缺；阻断可导致无眼/小眼 | [255, 256](#ref-255,256) |
+| **肾脏纤维化加重** | BMP7 是内源性抗纤维化因子；阻断可加重 TGF-β 驱动的肾纤维化 | [267, 268](#ref-267,268) |
+| **心脏保护丧失** | BMP7 在压力超负荷下具有心脏保护作用；阻断可加重心室重构 | [260](#ref-260) |
 
-**对 Bima 项目的特殊意义**：与 BMP2 类似，BMP7 对 ActRIIB 的亲和力显著低于 activin 类配体 [31]。因此 Bima 类抗 ActRII 抗体**不太可能显著阻断 BMP7 信号**。BMP7 的治疗潜力在于**激活**（而非阻断）BMP7 通路——这对肾脏和心脏保护有益。如果改良抗体意外增强了 BMP7 阻断，可能加重肾纤维化风险。
+**对 Bima 项目的特殊意义**：与 BMP2 类似，BMP7 对 ActRIIB 的亲和力显著低于 activin 类配体 [31](#ref-31)。因此 Bima 类抗 ActRII 抗体**不太可能显著阻断 BMP7 信号**。BMP7 的治疗潜力在于**激活**（而非阻断）BMP7 通路——这对肾脏和心脏保护有益。如果改良抗体意外增强了 BMP7 阻断，可能加重肾纤维化风险。
 
 ## 4. 动物模型与给药方案
 
 | 模型 | 动物 | 给药方案 | 主要结果 | 证据来源 |
 |---|---|---|---|---|
-| **肾纤维化模型** | 大鼠（单侧输尿管梗阻） | 重组 BMP7 腹腔注射 | 逆转 TGF-β1 诱导的 EMT，减少纤维化 | [267] |
-| **慢性肾病模型** | 大鼠（5/6 肾切除） | 重组 BMP7 | 减轻肾纤维化、改善肾功能 | [268] |
-| **压力超负荷心衰** | 小鼠（TAC） | BMP7 衍生肽（THR123/THR184） | 减轻左室重构、减少纤维化 | [260, 261] |
-| **糖尿病心肌病** | 小鼠（db/db） | 重组 BMP7 | 减轻心肌细胞焦亡 | [263] |
-| **心肌梗死模型** | 小鼠 | 重组 BMP7 | 减轻梗死后焦亡和炎症 | [275] |
-| **肥胖模型** | 小鼠（饮食诱导） | BMP7 腹腔注射 / AAV-BMP7 | 激活 BAT、增加能量消耗、减少体重 | [264, 265] |
-| **狼疮肾炎模型** | 小鼠（NZB/W F1） | 重组 BMP7 | 减轻肾脏炎症和纤维化 | [276] |
-| **骨关节炎模型** | 小鼠 / 大鼠 | 重组 BMP7 关节腔注射 | 软骨保护趋势 | [278] |
-| **HSA-BMP7 长效制剂** | 大鼠（肾病模型） | HSA-BMP7 融合蛋白 | 长效肾脏保护 | [279] |
-| **mPTD-BMP7** | 小鼠（肾病模型） | 细胞穿透肽-BMP7 | 阻断肾纤维化 | [280] |
+| **肾纤维化模型** | 大鼠（单侧输尿管梗阻） | 重组 BMP7 腹腔注射 | 逆转 TGF-β1 诱导的 EMT，减少纤维化 | [267](#ref-267) |
+| **慢性肾病模型** | 大鼠（5/6 肾切除） | 重组 BMP7 | 减轻肾纤维化、改善肾功能 | [268](#ref-268) |
+| **压力超负荷心衰** | 小鼠（TAC） | BMP7 衍生肽（THR123/THR184） | 减轻左室重构、减少纤维化 | [260, 261](#ref-260,261) |
+| **糖尿病心肌病** | 小鼠（db/db） | 重组 BMP7 | 减轻心肌细胞焦亡 | [263](#ref-263) |
+| **心肌梗死模型** | 小鼠 | 重组 BMP7 | 减轻梗死后焦亡和炎症 | [275](#ref-275) |
+| **肥胖模型** | 小鼠（饮食诱导） | BMP7 腹腔注射 / AAV-BMP7 | 激活 BAT、增加能量消耗、减少体重 | [264, 265](#ref-264,265) |
+| **狼疮肾炎模型** | 小鼠（NZB/W F1） | 重组 BMP7 | 减轻肾脏炎症和纤维化 | [276](#ref-276) |
+| **骨关节炎模型** | 小鼠 / 大鼠 | 重组 BMP7 关节腔注射 | 软骨保护趋势 | [278](#ref-278) |
+| **HSA-BMP7 长效制剂** | 大鼠（肾病模型） | HSA-BMP7 融合蛋白 | 长效肾脏保护 | [279](#ref-279) |
+| **mPTD-BMP7** | 小鼠（肾病模型） | 细胞穿透肽-BMP7 | 阻断肾纤维化 | [280](#ref-280) |
 
 ## 5. 针对该通路的药物及临床结果
 
 | 药物/制剂 | 公司/机构 | 机制 | 临床/临床前状态 | 结果 | 证据来源 |
 |---|---|---|---|---|---|
-| **rhBMP-7 (OP-1)** | Stryker Biotech | 重组人 BMP7 | **FDA 人道主义豁免**（长骨不愈合） | 促进骨愈合；后因商业原因退市 | [281] |
-| **BMP7（系统性）** | 多机构 | 重组 BMP7 | **Phase 1（膝骨关节炎）** | 无剂量限制性毒性；疼痛改善趋势 | [278] |
-| **BMP7 衍生肽** | 学术 | BMPR1A 肽激动剂（THR123/THR184） | 临床前→临床转化 | 心脏保护（TAC 模型）；骨关节炎 | [261, 282] |
-| **BMP7 肽变体** | 学术 | 优化 BMP7 衍生肽 | 临床前 | 骨关节炎中改善软骨修复 | [283] |
-| **HSA-BMP7** | 学术 | 白蛋白融合长效 BMP7 | 临床前 | 肾病模型中长效肾脏保护 | [279] |
-| **mPTD-BMP7** | 学术 | 细胞穿透肽-BMP7 | 临床前 | 阻断肾纤维化 | [280] |
-| **AAV-BMP7** | 学术 | 基因治疗 | 临床前 | 对抗肥胖和胰岛素抵抗 | [265] |
-| **BMP2/BMP7 软骨修复** | 学术 | BMP2/BMP7 联合 | 临床前 | 软骨修复 | [284] |
+| **rhBMP-7 (OP-1)** | Stryker Biotech | 重组人 BMP7 | **FDA 人道主义豁免**（长骨不愈合） | 促进骨愈合；后因商业原因退市 | [281](#ref-281) |
+| **BMP7（系统性）** | 多机构 | 重组 BMP7 | **Phase 1（膝骨关节炎）** | 无剂量限制性毒性；疼痛改善趋势 | [278](#ref-278) |
+| **BMP7 衍生肽** | 学术 | BMPR1A 肽激动剂（THR123/THR184） | 临床前→临床转化 | 心脏保护（TAC 模型）；骨关节炎 | [261, 282](#ref-261,282) |
+| **BMP7 肽变体** | 学术 | 优化 BMP7 衍生肽 | 临床前 | 骨关节炎中改善软骨修复 | [283](#ref-283) |
+| **HSA-BMP7** | 学术 | 白蛋白融合长效 BMP7 | 临床前 | 肾病模型中长效肾脏保护 | [279](#ref-279) |
+| **mPTD-BMP7** | 学术 | 细胞穿透肽-BMP7 | 临床前 | 阻断肾纤维化 | [280](#ref-280) |
+| **AAV-BMP7** | 学术 | 基因治疗 | 临床前 | 对抗肥胖和胰岛素抵抗 | [265](#ref-265) |
+| **BMP2/BMP7 软骨修复** | 学术 | BMP2/BMP7 联合 | 临床前 | 软骨修复 | [284](#ref-284) |
 
-**关键安全教训**：BMP7 的临床开发集中在**激活** BMP7 通路（治疗肾纤维化、骨关节炎、心脏保护），而非阻断。Phase 1 骨关节炎试验显示 BMP7 系统性给药**无剂量限制性毒性** [278]，这是 BMP7 治疗安全性的重要证据。对于 Bima 改良项目，BMP7 的低 ActRIIB 亲和力意味着 ActRII 抗体不太可能影响 BMP7 信号——这是安全优势。但需注意：如果改良策略涉及 BMP 通路调节，BMP7 的肾脏和心脏保护功能不应被削弱。
+**关键安全教训**：BMP7 的临床开发集中在**激活** BMP7 通路（治疗肾纤维化、骨关节炎、心脏保护），而非阻断。Phase 1 骨关节炎试验显示 BMP7 系统性给药**无剂量限制性毒性** [278](#ref-278)，这是 BMP7 治疗安全性的重要证据。对于 Bima 改良项目，BMP7 的低 ActRIIB 亲和力意味着 ActRII 抗体不太可能影响 BMP7 信号——这是安全优势。但需注意：如果改良策略涉及 BMP 通路调节，BMP7 的肾脏和心脏保护功能不应被削弱。
 
 
 ---
@@ -749,38 +749,38 @@ BMP7（又称 OP-1，Osteogenic Protein-1）由 *BMP7* 基因编码，是 TGF-β
 
 | 药物 | Activin A | Activin B | GDF8 | GDF11 | BMP9 | BMP10 | 心脏风险来源 | 出血风险来源 | 证据来源 |
 |---|---|---|---|---|---|---|---|---|---|
-| **Bimagrumab** | 高（受体阻断） | 高 | 高 | **高** | 低 | 低 | 阻断 GDF11 → 消除心肌肥大逆转保护 | 低 | [13, 15, 35] |
-| **Sotatercept** | 高 | 高 | 高 | 高 | **脱靶高** | **脱靶高** | — | **高**（BMP9/10 耗竭） | [52, 181] |
-| **Luspatercept** | **低** | 高 | 高 | 高 | **低** | **低** | — | 低 | [105] |
-| **Ramatercept** | 高 | 高 | 高 | 高 | **高** | **高** | — | **高**（已终止） | [55] |
-| **KER-065** | 高 | 中 | 高 | 中 | **低** | **低** | — | 低 | [227] |
-| **STM 434** | 高 | 中 | 中 | 中 | **脱靶高** | 低 | — | **高**（已终止） | [60] |
-| **Trevogrumab** | 低 | 低 | 高 | **无** | 无 | 无 | 低 | 低 | [146] |
+| **Bimagrumab** | 高（受体阻断） | 高 | 高 | **高** | 低 | 低 | 阻断 GDF11 → 消除心肌肥大逆转保护 | 低 | [13, 15, 35](#ref-13,15,35) |
+| **Sotatercept** | 高 | 高 | 高 | 高 | **脱靶高** | **脱靶高** | — | **高**（BMP9/10 耗竭） | [52, 181](#ref-52,181) |
+| **Luspatercept** | **低** | 高 | 高 | 高 | **低** | **低** | — | 低 | [105](#ref-105) |
+| **Ramatercept** | 高 | 高 | 高 | 高 | **高** | **高** | — | **高**（已终止） | [55](#ref-55) |
+| **KER-065** | 高 | 中 | 高 | 中 | **低** | **低** | — | 低 | [227](#ref-227) |
+| **STM 434** | 高 | 中 | 中 | 中 | **脱靶高** | 低 | — | **高**（已终止） | [60](#ref-60) |
+| **Trevogrumab** | 低 | 低 | 高 | **无** | 无 | 无 | 低 | 低 | [146](#ref-146) |
 
 ## 基因敲除表型对比总结
 
 | 分子 | 敲除致死性 | 核心表型 | 对药物设计的启示 | 证据来源 |
 |---|---|---|---|---|
-| **Activin A** | 新生期致死（24h 内） | 颅面缺陷（无胡须、无下门齿、腭裂） | 发育期阻断禁忌；成年期阻断相对安全 | [203] |
-| **Activin B** | **存活可育** | 无明显发育缺陷；内皮特异性敲除致空腹血糖升高 | 阻断有代谢风险（葡萄糖恶化） | [97, 204] |
-| **GDF8** | **存活可育** | 超肌肉（2x 肌肉量）；纤维类型向快速/糖酵洁转变；骨密度增加；功能改善有限 | 阻断安全且有益，但功能改善需配合运动 | [210, 23, 25] |
-| **GDF11** | **围产期致死** | 前轴骨骼转化、腭裂、多器官缺陷；人类杂合 LOF 即致病 | 阻断有发育风险；成人期阻断可能消除心脏保护 | [8, 9, 10] |
-| **BMP9** | 存活（背景依赖） | C57BL/6 无明显表型；129/Ola 自发 AVMs；双敲除致高输出心衰 | 阻断有出血风险（HHT 样）；背景依赖外显率 | [215, 216] |
-| **BMP10** | **胚胎致死 E9.5-E10.5** | 心室小梁缺失、心腔成熟失败；成年诱导 KO 常氧下存活 | 发育期阻断绝对禁忌；成年期应激下有心脏风险 | [26, 192, 215] |
+| **Activin A** | 新生期致死（24h 内） | 颅面缺陷（无胡须、无下门齿、腭裂） | 发育期阻断禁忌；成年期阻断相对安全 | [203](#ref-203) |
+| **Activin B** | **存活可育** | 无明显发育缺陷；内皮特异性敲除致空腹血糖升高 | 阻断有代谢风险（葡萄糖恶化） | [97, 204](#ref-97,204) |
+| **GDF8** | **存活可育** | 超肌肉（2x 肌肉量）；纤维类型向快速/糖酵洁转变；骨密度增加；功能改善有限 | 阻断安全且有益，但功能改善需配合运动 | [210, 23, 25](#ref-210,23,25) |
+| **GDF11** | **围产期致死** | 前轴骨骼转化、腭裂、多器官缺陷；人类杂合 LOF 即致病 | 阻断有发育风险；成人期阻断可能消除心脏保护 | [8, 9, 10](#ref-8,9,10) |
+| **BMP9** | 存活（背景依赖） | C57BL/6 无明显表型；129/Ola 自发 AVMs；双敲除致高输出心衰 | 阻断有出血风险（HHT 样）；背景依赖外显率 | [215, 216](#ref-215,216) |
+| **BMP10** | **胚胎致死 E9.5-E10.5** | 心室小梁缺失、心腔成熟失败；成年诱导 KO 常氧下存活 | 发育期阻断绝对禁忌；成年期应激下有心脏风险 | [26, 192, 215](#ref-26,192,215) |
 
 ## 对 Bima 改良的核心启示
 
-1. **GDF11 是心脏风险的关键**：Bimagrumab 通过 ActRII 阻断 GDF11，可能消除 GDF11 逆转年龄性心肌肥大的保护作用 [163]。GDF11 敲除的围产期致死性 [8] 和人类杂合 LOF 的多器官缺陷 [9] 进一步警示其广泛生理功能。Trevogrumab 的设计思路——**避免 GDF11 交叉反应** [146]——是减少心脏副作用的最直接策略。
+1. **GDF11 是心脏风险的关键**：Bimagrumab 通过 ActRII 阻断 GDF11，可能消除 GDF11 逆转年龄性心肌肥大的保护作用 [163](#ref-163)。GDF11 敲除的围产期致死性 [8](#ref-8) 和人类杂合 LOF 的多器官缺陷 [9](#ref-9) 进一步警示其广泛生理功能。Trevogrumab 的设计思路——**避免 GDF11 交叉反应** [146](#ref-146)——是减少心脏副作用的最直接策略。
 
-2. **BMP9/BMP10 是出血风险的来源**：Bimagrumab 对 BMP9/BMP10 亲和力低，这是其相对 ramatercept 的优势。BMP9 敲除在特定遗传背景下自发 AVMs [216]，BMP10 敲除胚胎致死 [26]，BMP9/10 双敲除致高输出心衰 [215]。改良抗体应**保持或进一步降低** BMP9/BMP10 亲和力，参考 luspatercept/KER-065 的工程化策略 [105, 227]。
+2. **BMP9/BMP10 是出血风险的来源**：Bimagrumab 对 BMP9/BMP10 亲和力低，这是其相对 ramatercept 的优势。BMP9 敲除在特定遗传背景下自发 AVMs [216](#ref-216)，BMP10 敲除胚胎致死 [26](#ref-26)，BMP9/10 双敲除致高输出心衰 [215](#ref-215)。改良抗体应**保持或进一步降低** BMP9/BMP10 亲和力，参考 luspatercept/KER-065 的工程化策略 [105, 227](#ref-105,227)。
 
-3. **靶向潜伏型 GDF8 优于成熟 GDF8**：Apitegromab 和 GYM329 靶向潜伏型 GDF8，生物利用度更高且可避免 GDF11 交叉反应 [135, 143]——这为 Bima 改良提供了新方向。
+3. **靶向潜伏型 GDF8 优于成熟 GDF8**：Apitegromab 和 GYM329 靶向潜伏型 GDF8，生物利用度更高且可避免 GDF11 交叉反应 [135, 143](#ref-135,143)——这为 Bima 改良提供了新方向。
 
-4. **Activin A 阻断可能有益于心脏**：ActRII 信号在心衰中是病理性的（降解 SERCA2a）[52]，阻断 Activin A 可能具有心脏保护作用。因此，**保留 Activin A 阻断 + 去除 GDF11 阻断**可能是最优策略。
+4. **Activin A 阻断可能有益于心脏**：ActRII 信号在心衰中是病理性的（降解 SERCA2a）[52](#ref-52)，阻断 Activin A 可能具有心脏保护作用。因此，**保留 Activin A 阻断 + 去除 GDF11 阻断**可能是最优策略。
 
-5. **Activin B 阻断的代谢风险需谨慎评估**：Activin B 是空腹葡萄糖代谢的保护因子 [97]，其敲除虽不致死但导致血糖升高。Bimagrumab 通过 ActRII 同时阻断 Activin B，可能恶化葡萄糖代谢——对肥胖/糖尿病目标人群需特别关注。
+5. **Activin B 阻断的代谢风险需谨慎评估**：Activin B 是空腹葡萄糖代谢的保护因子 [97](#ref-97)，其敲除虽不致死但导致血糖升高。Bimagrumab 通过 ActRII 同时阻断 Activin B，可能恶化葡萄糖代谢——对肥胖/糖尿病目标人群需特别关注。
 
-6. **理想改良方向**：设计一种抗体，**保留**对 Activin A/B 和 GDF8 的阻断（肌肉/代谢获益），**去除**对 GDF11 的阻断（心脏保护），**维持低** BMP9/BMP10 亲和力（出血安全）——即向 trevogrumab + KER-065 的混合特征靠拢 [146, 227]。
+6. **理想改良方向**：设计一种抗体，**保留**对 Activin A/B 和 GDF8 的阻断（肌肉/代谢获益），**去除**对 GDF11 的阻断（心脏保护），**维持低** BMP9/BMP10 亲和力（出血安全）——即向 trevogrumab + KER-065 的混合特征靠拢 [146, 227](#ref-146,227)。
 
 ---
 
@@ -792,20 +792,20 @@ BMP7（又称 OP-1，Osteogenic Protein-1）由 *BMP7* 基因编码，是 TGF-β
 
 | 配体 | ActRIIA Kd (nM) | ActRIIA 定性 | ActRIIA 来源 | ActRIIB Kd (nM) | ActRIIB 定性 | ActRIIB 来源 |
 |---|---|---|---|---|---|---|
-| **Activin A** | ~0.13 (Fc) / 5.7 (ECD) | **高** | [285, 286] | 0.036 (Fc) / 1.1 (ECD) | **高** | [31, 286] |
-| **Activin B** | ~1–5 (Fc, 估计) | **高** | [287] | ~0.1–1 (Fc, 估计) | **高** | [287] |
-| **GDF8 (Myostatin)** | >100 (ECD, 弱) | **低** | [212] | ~0.04 (Fc, 皮摩尔级) | **高** | [31] |
-| **GDF11** | >100 (ECD, 弱) | **低** | [212] | 0.030 (Fc) | **高** | [31] |
-| **BMP9** | 6.43 (Fc, 25°C) | **中** | [224] | 0.022 (Fc, 25°C) | **高** | [224] |
-| **BMP10** | 0.089 (Fc, 25°C) | **高** | [224] | 0.021 (Fc, 25°C) | **高** | [224] |
-| **BMP2** | ~10–50 (ECD, 估计) | **低-中** | [285, 288] | ~8.2 (Fc, 计算) | **低** | [31] |
-| **BMP7** | ~1–10 (ECD, 估计) | **中** | [285, 288] | ~1.4 (Fc, 计算) | **中** | [31] |
+| **Activin A** | ~0.13 (Fc) / 5.7 (ECD) | **高** | [285, 286](#ref-285,286) | 0.036 (Fc) / 1.1 (ECD) | **高** | [31, 286](#ref-31,286) |
+| **Activin B** | ~1–5 (Fc, 估计) | **高** | [287](#ref-287) | ~0.1–1 (Fc, 估计) | **高** | [287](#ref-287) |
+| **GDF8 (Myostatin)** | >100 (ECD, 弱) | **低** | [212](#ref-212) | ~0.04 (Fc, 皮摩尔级) | **高** | [31](#ref-31) |
+| **GDF11** | >100 (ECD, 弱) | **低** | [212](#ref-212) | 0.030 (Fc) | **高** | [31(#ref-31)] |
+| **BMP9** | 6.43 (Fc, 25°C) | **中** | [224](#ref-224) | 0.022 (Fc, 25°C) | **高** | [224](#ref-224) |
+| **BMP10** | 0.089 (Fc, 25°C) | **高** | [224](#ref-224) | 0.021 (Fc, 25°C) | **高** | [224](#ref-224) |
+| **BMP2** | ~10–50 (ECD, 估计) | **低-中** | [285, 288](#ref-285,288) | ~8.2 (Fc, 计算) | **低** | [31](#ref-31) |
+| **BMP7** | ~1–10 (ECD, 估计) | **中** | [285, 288](#ref-285,288) | ~1.4 (Fc, 计算) | **中** | [31](#ref-31) |
 
 ## 10.2 数据来源与方法学说明
 
-### ActRIIB 亲和力数据（主要来源：Sako 2010 [31]）
+### ActRIIB 亲和力数据（主要来源：Sako 2010 [31](#ref-31)）
 
-Sako 等使用 Biacore SPR 平台，将 ActRIIB-Fc 融合蛋白通过抗人 Fc 抗体捕获于芯片表面（~140 RU），模拟膜受体二聚体取向，注入不同浓度配体进行动力学分析 [31]：
+Sako 等使用 Biacore SPR 平台，将 ActRIIB-Fc 融合蛋白通过抗人 Fc 抗体捕获于芯片表面（~140 RU），模拟膜受体二聚体取向，注入不同浓度配体进行动力学分析 [31](#ref-31)：
 
 | 配体 | ActRIIB-Fc Kd | kd (解离速率) | 倍数（vs activin A） | 备注 |
 |---|---|---|---|---|
@@ -815,30 +815,30 @@ Sako 等使用 Biacore SPR 平台，将 ActRIIB-Fc 融合蛋白通过抗人 Fc �
 | BMP2 | **~8.2 nM**（计算值） | 0.12 s⁻¹ | **~270× 弱** | 比 GDF11 弱 270 倍 |
 | BMP7 | **~1.4 nM**（计算值） | 4.38 × 10⁻³ s⁻¹ | **~40× 弱** | 比 BMP2 高，但仍远低于 activin 类 |
 
-> **注**：Sako 2010 原文 Table 1 给出了 activin A、GDF11、BMP2、BMP7 的精确 Kd 值。BMP2 的 Kd 约为 activin A 的 270 倍（即 ~35.7 pM × 270 ≈ 9.6 nM），BMP7 的 Kd 约为 activin A 的 40 倍（即 ~35.7 pM × 40 ≈ 1.4 nM）。GDF8 的 Kd 与 GDF11 相当（皮摩尔级）[31]。
+> **注**：Sako 2010 原文 Table 1 给出了 activin A、GDF11、BMP2、BMP7 的精确 Kd 值。BMP2 的 Kd 约为 activin A 的 270 倍（即 ~35.7 pM × 270 ≈ 9.6 nM），BMP7 的 Kd 约为 activin A 的 40 倍（即 ~35.7 pM × 40 ≈ 1.4 nM）。GDF8 的 Kd 与 GDF11 相当（皮摩尔级）[31](#ref-31)。
 
 ### ActRIIA 亲和力数据
 
 ActRIIA 的定量 Kd 数据相对有限，主要来源：
 
-1. **Jatzlau 2023 [286]**：SPR 测量单体 ECD 亲和力——ACVR2B-ECD Kd = 1.1 nM、ACVR2A-ECD Kd = 5.7 nM、BMPR2-ECD Kd = 59 nM（activin A 结合）。Fc 融合形式因二聚体效应亲和力更高：ACVR2A-Fc Kd ~130 pM [286]。
+1. **Jatzlau 2023 [286](#ref-286)**：SPR 测量单体 ECD 亲和力——ACVR2B-ECD Kd = 1.1 nM、ACVR2A-ECD Kd = 5.7 nM、BMPR2-ECD Kd = 59 nM（activin A 结合）。Fc 融合形式因二聚体效应亲和力更高：ACVR2A-Fc Kd ~130 pM [286](#ref-286)。
 
-2. **Townson 2012 [224]**：BMP9 与 ActRIIA-Fc 的 Kd = 6.43 nM（25°C），比 ActRIIB-Fc（21.6 pM）弱约 300 倍；BMP10 与 ActRIIA-Fc 的 Kd = 88.6 pM（25°C），与 ActRIIB-Fc（20.7 pM）相近 [224]。
+2. **Townson 2012 [224](#ref-224)**：BMP9 与 ActRIIA-Fc 的 Kd = 6.43 nM（25°C），比 ActRIIB-Fc（21.6 pM）弱约 300 倍；BMP10 与 ActRIIA-Fc 的 Kd = 88.6 pM（25°C），与 ActRIIB-Fc（20.7 pM）相近 [224](#ref-224)。
 
-3. **Goebel 2019 [212]**：ActRIIA-ECD 可抑制 activin A 信号，但**不能**抑制 GDF11 或 GDF8 信号——表明 GDF8/GDF11 对 ActRIIA 单体 ECD 亲和力极低。Native PAGE 显示 GDF11 明显偏好 ActRIIB，而 activin A 对两种受体无偏好 [212]。
+3. **Goebel 2019 [212](#ref-212)**：ActRIIA-ECD 可抑制 activin A 信号，但**不能**抑制 GDF11 或 GDF8 信号——表明 GDF8/GDF11 对 ActRIIA 单体 ECD 亲和力极低。Native PAGE 显示 GDF11 明显偏好 ActRIIB，而 activin A 对两种受体无偏好 [212](#ref-212)。
 
-4. **Thompson 2003 [288]**：ActRII 和 ActRIIB 结合 activin A 的 Kd 均 < 10 nM，两者亲和力相似 [288]。
+4. **Thompson 2003 [288](#ref-288)**：ActRII 和 ActRIIB 结合 activin A 的 Kd 均 < 10 nM，两者亲和力相似 [288](#ref-288)。
 
-5. **del Re 2004 [287]**：ActRII-Fc 对 activin A 的亲和力高于 activin B（约 7 倍差异），activin B 亲和力在低纳摩尔范围 [287]。
+5. **del Re 2004 [287](#ref-287)**：ActRII-Fc 对 activin A 的亲和力高于 activin B（约 7 倍差异），activin B 亲和力在低纳摩尔范围 [287](#ref-287)。
 
-### BMP9/BMP10 受体选择性（Townson 2012 [224]）
+### BMP9/BMP10 受体选择性（Townson 2012 [224](#ref-224)）
 
 | 配体 | ActRIIB-Fc Kd (25°C) | ActRIIA-Fc Kd (25°C) | BMPRII-Fc Kd (25°C) | ALK1-Fc Kd (25°C) | 选择性特征 |
 |---|---|---|---|---|---|
 | **BMP9** | 21.6 pM | 6.43 nM | 627.6 pM | 45.2 pM | **强偏好 ActRIIB**（300× over ActRIIA） |
 | **BMP10** | 20.7 pM | 88.6 pM | 59.2 pM | 10.3 pM | **无显著偏好**（三种 II 型受体亲和力相近） |
 
-> **关键发现**：BMP9 强烈区分 ActRIIB 和 ActRIIA（300 倍差异），而 BMP10 对三种 II 型受体均有高亲和力 [224]。在 37°C 生理温度下，BMP9 几乎不结合 ActRIIA，而 BMP10 仍保持对 ActRIIA 和 ActRIIB 的高亲和力 [224]。
+> **关键发现**：BMP9 强烈区分 ActRIIB 和 ActRIIA（300 倍差异），而 BMP10 对三种 II 型受体均有高亲和力 [224]。在 37°C 生理温度下，BMP9 几乎不结合 ActRIIA，而 BMP10 仍保持对 ActRIIA 和 ActRIIB 的高亲和力 [224](#ref-224)。
 
 ## 10.3 定性分级汇总与对 Bima 项目的启示
 
@@ -855,13 +855,13 @@ ActRIIA 的定量 Kd 数据相对有限，主要来源：
 
 ### 核心结论
 
-1. **Bima 类抗 ActRII 抗体的主要作用靶点是 activin 类配体**（activin A/B、GDF8、GDF11），这些配体对 ActRIIB 具有皮摩尔级高亲和力 [31, 212]。BMP9/BMP10 也具有高 ActRIIB 亲和力，但主要通过 ALK1 信号 [224]。
+1. **Bima 类抗 ActRII 抗体的主要作用靶点是 activin 类配体**（activin A/B、GDF8、GDF11），这些配体对 ActRIIB 具有皮摩尔级高亲和力 [31, 212](#ref-31,212)。BMP9/BMP10 也具有高 ActRIIB 亲和力，但主要通过 ALK1 信号 [224](#ref-224)。
 
-2. **BMP2 和 BMP7 不是 Bima 类抗体的主要靶点**：BMP2 对 ActRIIB 的亲和力比 activin A 弱约 270 倍，BMP7 弱约 40 倍 [31]。这意味着抗 ActRII 抗体在治疗剂量下不太可能显著阻断 BMP2/BMP7 信号。
+2. **BMP2 和 BMP7 不是 Bima 类抗体的主要靶点**：BMP2 对 ActRIIB 的亲和力比 activin A 弱约 270 倍，BMP7 弱约 40 倍 [31](#ref-31)。这意味着抗 ActRII 抗体在治疗剂量下不太可能显著阻断 BMP2/BMP7 信号。
 
-3. **GDF8/GDF11 对 ActRIIA 单体 ECD 亲和力低，但对 ActRIIB-Fc（二聚体）亲和力高** [31, 212]：这提示在生理条件下（膜受体为二聚体），GDF8/GDF11 可能主要通过 ActRIIB 信号。ActRIIA-ECD 不能抑制 GDF11/GDF8 信号 [212]，但 Fc 融合形式可以 [31]——这解释了为什么 Bima（同时靶向 ActRIIA 和 ActRIIB）能有效阻断 GDF8/GDF11。
+3. **GDF8/GDF11 对 ActRIIA 单体 ECD 亲和力低，但对 ActRIIB-Fc（二聚体）亲和力高** [31, 212](#ref-31,212)：这提示在生理条件下（膜受体为二聚体），GDF8/GDF11 可能主要通过 ActRIIB 信号。ActRIIA-ECD 不能抑制 GDF11/GDF8 信号 [212](#ref-212)，但 Fc 融合形式可以 [31](#ref-31)——这解释了为什么 Bima（同时靶向 ActRIIA 和 ActRIIB）能有效阻断 GDF8/GDF11。
 
-4. **BMP9 的 ActRIIA 低亲和力是 Sotatercept（ActRIIA-Fc）相对安全的结构基础**：BMP9 在 37°C 下几乎不结合 ActRIIA [224]，但 Sotatercept 仍可脱靶降低循环 BMP10 [181]——提示 BMP10 的高 ActRIIA 亲和力是 Sotatercept 出血风险的分子基础。
+4. **BMP9 的 ActRIIA 低亲和力是 Sotatercept（ActRIIA-Fc）相对安全的结构基础**：BMP9 在 37°C 下几乎不结合 ActRIIA [224](#ref-224)，但 Sotatercept 仍可脱靶降低循环 BMP10 [181](#ref-181)——提示 BMP10 的高 ActRIIA 亲和力是 Sotatercept 出血风险的分子基础。
 
 5. **改良策略的亲和力考量**：设计减少心脏副作用的 Bima 改良抗体时，应**保留**对 ActRIIB 的高亲和力（以阻断 GDF8/activin A 实现肌肉获益），**降低**对 GDF11 的阻断（以保留心脏保护），并**维持低** BMP9/BMP10 亲和力（以避免出血风险）。BMP2/BMP7 的低 ActRIIB 亲和力意味着无需特别关注。
 
@@ -1301,3 +1301,126 @@ ActRIIA 的定量 Kd 数据相对有限，主要来源：
 <a id="ref-226"></a>226. Suh J, Lee YS (2019). GDF11 locally controls anterior-posterior patterning of the axial skeleton. *J Cell Physiol*. [DOI:10.1002/jcp.28904](https://doi.org/10.1002/jcp.28904)
 
 <a id="ref-227"></a>227. Keros Therapeutics (2025). KER-065 Phase 1 clinical trial results in healthy volunteers (SEC filing and press releases). Keros Therapeutics IR.
+
+<a id="ref-228"></a>228. Radhika V Korupolu, U. Muenster, J. Read, et al. (2008). Activin A/Bone Morphogenetic Protein (BMP) Chimeras Exhibit BMP-like Activity and Antagonize Activin and Myostatin*. *Journal of Biological Chemistry*. [DOI:10.1074/jbc.m704530200](https://doi.org/10.1074/jbc.m704530200)
+
+<a id="ref-229"></a>229. Wei Li, Kate Quigley (2024). Bone morphogenetic protein signalling in pulmonary arterial hypertension: revisiting the BMPRII connection. *Biochemical Society Transactions*. [DOI:10.1042/bst20231547](https://doi.org/10.1042/bst20231547)
+
+<a id="ref-230"></a>230. Andreas Lodberg (2021). Principles of the activin receptor signaling pathway and its inhibition. *Cytokine & Growth Factor Reviews*. [DOI:10.1016/j.cytogfr.2021.04.001](https://doi.org/10.1016/j.cytogfr.2021.04.001)
+
+<a id="ref-231"></a>231. Kanzler B, Foreman RK, Labosky PA, Mallo M (2000). BMP signaling is essential for development of neural crest-derived craniofacial structures. *Development*. [DOI:10.1242/dev.127
+5.1095](https://doi.org/10.1242/dev.127.5.1095)
+
+<a id="ref-232"></a>232. Halloran MC, Berndt JD, et al. (2020). BMP signaling in development and disease. *J Dev Biol*. [DOI:10.3390/jdb8030019](https://doi.org/10.3390/jdb8030019)
+
+<a id="ref-233"></a>233. Shu B, Zhang M, Xie R, et al. (2011). BMP2, but not BMP4, is crucial for chondrocyte proliferation and maturation. *J Cell Sci*. [DOI:10.1242/jcs.083659](https://doi.org/10.1242/jcs.083659)
+
+<a id="ref-234"></a>234. Yong Du (2026). 3055-LB: ActRIIA Plays a Predominant Role over ActRIIB in Human Myoblast Differentiation. *Diabetes*. [DOI:10.2337/db26-3055-lb](https://doi.org/10.2337/db26-3055-lb)
+
+<a id="ref-235"></a>235. Jia Li, Maureen Fredericks, M. Cannell, et al. (2021). ActRIIB:ALK4-Fc alleviates muscle dysfunction and comorbidities in murine models of neuromuscular disorders. *The Journal of clinical investigation*. [DOI:10.1172/jci138634](https://doi.org/10.1172/jci138634)
+
+<a id="ref-236"></a>236. Manisha Ray, Aryana Sayeed, Madeline Ganshert, et al. (2023). Direct Binding Methods to Measure Receptor-Ligand Interactions. *The journal of physical chemistry. B*. [DOI:10.1021/acs.jpcb.3c05041](https://doi.org/10.1021/acs.jpcb.3c05041)
+
+<a id="ref-237"></a>237. Dana M. Burris, Samuel W Gillespie, Emma Joy Campbell, et al. (2024). Applications of Surface Plasmon Resonance (SPR) to the Study of Diverse Protein‐Ligand Interactions. *Current Protocols*. [DOI:10.1002/cpz1.1030](https://doi.org/10.1002/cpz1.1030)
+
+<a id="ref-238"></a>238. Elisabetta C. del Re, Yisrael Sidis, David Fabrizio, Herbert Y. Lin, Alan L. Schneyer (2004). Reconstitution and Analysis of Soluble Inhibin and Activin Receptor Complexes in a Cell-free System. *Journal of Biological Chemistry*. [DOI:10.1074/jbc.m408090200](https://doi.org/10.1074/jbc.m408090200)
+
+<a id="ref-239"></a>239. Wang RN, Green J, Wang Z, et al. (2014). Bone Morphogenetic Protein signaling in development and disease. *Genes Dis*. [DOI:10.1016/j.gendis.2014.07.005](https://doi.org/10.1016/j.gendis.2014.07.005)
+
+<a id="ref-240"></a>240. Prados B, Delgado-Garcia L, Rodriguez-Nunez I, et al. (2021). BMP2 overexpression in Tie2+ cells causes heterotopic ossification and aortic valve dysfunction. *Cell Death Dis*. [DOI:10.1038/s41419-021-04003-0](https://doi.org/10.1038/s41419-021-04003-0)
+
+<a id="ref-241"></a>241. Yogi A, Mizoguchi Y, et al. (2023). BMP2 haploinsufficiency causes dextrocardia. *Eur J Med Genet*. [DOI:10.1016/j.ejmg.2023.104820](https://doi.org/10.1016/j.ejmg.2023.104820)
+
+<a id="ref-242"></a>242. Yu PB, Deng DY, Lai CS, et al. (2008). BMP type I receptor inhibition reduces heterotopic ossification. *Nat Med*. [DOI:10.1038/nm.1888](https://doi.org/10.1038/nm.1888)
+
+<a id="ref-243"></a>243. Robert M, et al. (2023). Structural basis of BMP2-Noggin interaction. *J Biol Chem*. [DOI:10.1016/j.jbc.2023.102892](https://doi.org/10.1016/j.jbc.2023.102892)
+
+<a id="ref-244"></a>244. Boergermann JH, Kopf J, Yu PB, Knaus P (2010). Dorsomorphin and LDN-193189 inhibit BMP Smad/p38/Akt signaling. *Biochem Cell Biol*. [DOI:10.1016/j.biocel.2010.07.018](https://doi.org/10.1016/j.biocel.2010.07.018)
+
+<a id="ref-245"></a>245. Sanvitale CE, Deshmukh V, et al. (2013). K02288, a selective BMP type I receptor inhibitor. *PLoS One*. [DOI:10.1371/journal.pone.0062721](https://doi.org/10.1371/journal.pone.0062721)
+
+<a id="ref-246"></a>246. Pobloth A, Mersiowsky MJ, et al. (2017). High-dose rhBMP-2 causes heterotopic bone and vertebral resorption in sheep cervical spine. *Tissue Eng Part A*. [DOI:10.1002/term.2049](https://doi.org/10.1002/term.2049)
+
+<a id="ref-247"></a>247. Sandhu HS, Kanim LE, Kabo JM, et al. (1996). Effective spinal fusion using rhBMP-2 in dogs. *Spine*. [DOI:10.1097/00007632-199609150-00012](https://doi.org/10.1097/00007632-199609150-00012)
+
+<a id="ref-248"></a>248. Matsumoto Y, et al. (2011). rhBMP-2 in rabbit spinal fusion model. *Eur Spine J*. [DOI:10.1007/s00586-011-2130-x](https://doi.org/10.1007/s00586-011-2130-x)
+
+<a id="ref-249"></a>249. Lee K, et al. (2023). rhBMP-2 in mini-pig spinal fusion. *Int J Mol Sci*. [DOI:10.3390/ijms24010892](https://doi.org/10.3390/ijms24010892)
+
+<a id="ref-250"></a>250. Chen H, et al. (2020). rhBMP-2 in mouse posterolateral fusion. *Res Sq*. [DOI:10.21203/rs.3.rs-46978/v1](https://doi.org/10.21203/rs.3.rs-46978/v1)
+
+<a id="ref-251"></a>251. Bobyn JD, et al. (2013). Mouse posterolateral fusion with rhBMP-2. *J Orthop Sci*. [DOI:10.1186/1749-799x-8-2](https://doi.org/10.1186/1749-799x-8-2)
+
+<a id="ref-252"></a>252. Briquez PS, Cangiano E, et al. (2021). BMP2 bridge protein for bone healing. *Sci Adv*. [DOI:10.1126/sciadv.abh4302](https://doi.org/10.1126/sciadv.abh4302)
+
+<a id="ref-253"></a>253. Cottrill E, et al. (2023). BioMim-PDA vs Infuse in spinal fusion. *J Neurosurg Spine*. [DOI:10.3171/2023.2.spine22936](https://doi.org/10.3171/2023.2.spine22936)
+
+<a id="ref-254"></a>254. Du Y, et al. (2025). Engineered BMP2/BMP7 extracellular vesicles for bone repair. *npj Regen Med*. [DOI:10.1038/s41536-025-00405-2](https://doi.org/10.1038/s41536-025-00405-2)
+
+<a id="ref-255"></a>255. Dudley AT, Lyons KM, Robertson EJ (1995). A requirement for BMP-7 during development of the mammalian kidney and eye. *Genes Dev*. [DOI:10.1101/gad.9.22.2795](https://doi.org/10.1101/gad.9.22.2795)
+
+<a id="ref-256"></a>256. Luo G, Hofmann C, Bronckers AL, et al. (1995). BMP-7 is an inducer of nephrogenesis, and is also required for eye development and skeletal patterning. *Genes Dev*. [DOI:10.1101/gad.9.22.2808](https://doi.org/10.1101/gad.9.22.2808)
+
+<a id="ref-257"></a>257. Kim J, Wu HH, Lander AD, et al. (2019). BMP7 heterodimerizes with BMP2/BMP4 for signaling. *eLife*. [DOI:10.7554/elife.48872](https://doi.org/10.7554/elife.48872)
+
+<a id="ref-258"></a>258. Jena N, Martin-Seisdedos C, McCue P, Croce CM (1997). BMP7 null mutation in mice: developmental defects in skeleton, kidney, and eye. *Exp Cell Res*. [DOI:10.1006/excr.1996.3411](https://doi.org/10.1006/excr.1996.3411)
+
+<a id="ref-259"></a>259. Tomita M, Asada M, Asada N, et al. (2013). BMP7 maintains undifferentiated kidney progenitor cells and determines nephron number. *PLoS One*. [DOI:10.1371/journal.pone.0073554](https://doi.org/10.1371/journal.pone.0073554)
+
+<a id="ref-260"></a>260. Merino R, Rodriguez-Leon JA, Macias D, et al. (2016). BMP7 attenuates left ventricular remodeling under pressure overload. *Cardiovasc Res*. [DOI:10.1093/cvr/cvw076](https://doi.org/10.1093/cvr/cvw076)
+
+<a id="ref-261"></a>261. Salido-Medina EJ, et al. (2022). BMP7-derived peptides THR123/THR184 protect LV against pathological remodeling. *Biomed Pharmacother*. [DOI:10.1016/j.biopha.2022.112910](https://doi.org/10.1016/j.biopha.2022.112910)
+
+<a id="ref-262"></a>262. Aluganti Narasimhulu C, et al. (2020). BMP7 in heart inflammation. *Cells*. [DOI:10.3390/cells9020280](https://doi.org/10.3390/cells9020280)
+
+<a id="ref-263"></a>263. Elmadbouh I, et al. (2021). BMP7 attenuates pyroptosis in diabetic cardiomyopathy. *Cells*. [DOI:10.3390/cells10102640](https://doi.org/10.3390/cells10102640)
+
+<a id="ref-264"></a>264. Boon MR, van Riel NA, Astrup A, et al. (2013). BMP7 activates brown adipose tissue and reduces obesity. *PLoS One*. [DOI:10.1371/journal.pone.0074083](https://doi.org/10.1371/journal.pone.0074083)
+
+<a id="ref-265"></a>265. Casana R, et al. (2022). AAV-BMP7 gene therapy counteracts insulin resistance. *Mol Ther Methods Clin Dev*. [DOI:10.1016/j.omtm.2022.03.007](https://doi.org/10.1016/j.omtm.2022.03.007)
+
+<a id="ref-266"></a>266. Liu Y, et al. (2023). Brown adipose tissue: from bench to bedside. *Front Endocrinol*. [DOI:10.3389/fendo.2022.1065263](https://doi.org/10.3389/fendo.2022.1065263)
+
+<a id="ref-267"></a>267. Zeisberg M, Hanai J, Sugimoto H, et al. (2003). BMP-7 counteracts TGF-beta1-induced EMT and reverses chronic renal injury. *Nat Med*. [DOI:10.1038/nm888](https://doi.org/10.1038/nm888)
+
+<a id="ref-268"></a>268. Zeisberg M, Bottiglio C, Kumar N, et al. (2003). BMP-7 inhibits progression of chronic renal fibrosis. *Am J Physiol Renal Physiol*. [DOI:10.1152/ajprenal.00191.2002](https://doi.org/10.1152/ajprenal.00191.2002)
+
+<a id="ref-269"></a>269. Zeisberg M, Kalluri R (2008). Reversal of experimental renal fibrosis by BMP7. *Pediatr Nephrol*. [DOI:10.1007/s00467-008-0818-x](https://doi.org/10.1007/s00467-008-0818-x)
+
+<a id="ref-270"></a>270. Higgins SP, Tang Y, Higgins CE, et al. (2017). BMP7-induced PTEN inhibits Akt and prevents renal fibrosis. *Biochim Biophys Acta Mol Basis Dis*. [DOI:10.1016/j.bbadis.2017.09.011](https://doi.org/10.1016/j.bbadis.2017.09.011)
+
+<a id="ref-271"></a>271. Segklia A, et al. (2012). BMP7 regulates cortical neurogenesis. *PLoS One*. [DOI:10.1371/journal.pone.0034088](https://doi.org/10.1371/journal.pone.0034088)
+
+<a id="ref-272"></a>272. Bandyopadhyay A, et al. (2006). BMP2/4/7 in limb development. *PLoS Genet*. [DOI:10.1371/journal.pgen.0020216](https://doi.org/10.1371/journal.pgen.0020216)
+
+<a id="ref-273"></a>273. Oxburgh L, Dudley AT, Godin RE, et al. (2005). BMP4 substitutes for BMP7 in kidney development. *Dev Biol*. [DOI:10.1016/j.ydbio.2005.08.024](https://doi.org/10.1016/j.ydbio.2005.08.024)
+
+<a id="ref-274"></a>274. Dudley AT, Robertson EJ (1997). Overlapping expression domains of BMP7 and BMP2/4 in developing embryo. *Dev Dyn*. [DOI:10.1002/(sici)1097-0177(199703)208:3<349::AID-AJA6>3.0.CO;2-O](https://doi.org/10.1002/(sici)1097-0177(199703)208:3<349::AID-AJA6>3.0.CO;2-O)
+
+<a id="ref-275"></a>275. Liu Y, et al. (2026). BMP7 attenuates pyroptosis after myocardial infarction. *Apoptosis*. [DOI:10.1007/s10495-026-02264-8](https://doi.org/10.1007/s10495-026-02264-8)
+
+<a id="ref-276"></a>276. Smith CK, Seto NL, et al. (2023). BMP7 for lupus nephritis. *Inflammopharmacology*. [DOI:10.1007/s10787-023-01321-x](https://doi.org/10.1007/s10787-023-01321-x)
+
+<a id="ref-277"></a>277. Smith CK, et al. (2024). BMP7 in lupus nephritis (poster). *Lupus*. [DOI:10.1136/lupus-2024-el.152](https://doi.org/10.1136/lupus-2024-el.152)
+
+<a id="ref-278"></a>278. Hunter DJ, Pike MC, Jonas BL, et al. (2010). Phase 1 trial of BMP7 in knee osteoarthritis. *BMC Musculoskelet Disord*. [DOI:10.1186/1471-2474-11-232](https://doi.org/10.1186/1471-2474-11-232)
+
+<a id="ref-279"></a>279. Takano Y, et al. (2022). HSA-BMP7 long-acting fusion for renal injury. *Pharmaceutics*. [DOI:10.3390/pharmaceutics14071334](https://doi.org/10.3390/pharmaceutics14071334)
+
+<a id="ref-280"></a>280. Kim J, et al. (2020). mPTD-BMP7 blocks renal fibrosis. *Front Pharmacol*. [DOI:10.3389/fphar.2020.591275](https://doi.org/10.3389/fphar.2020.591275)
+
+<a id="ref-281"></a>281. Pećina M, Giltaij LR, Vukičević S (2001). Orthopaedic applications of osteogenic protein-1 (BMP-7). *Int Orthop*. [DOI:10.1007/s002640100262](https://doi.org/10.1007/s002640100262)
+
+<a id="ref-282"></a>282. Caron MM, et al. (2021). BMP7-derived peptides for osteoarthritis. *Mol Ther Methods Clin Dev*. [DOI:10.1016/j.omtm.2021.03.009](https://doi.org/10.1016/j.omtm.2021.03.009)
+
+<a id="ref-283"></a>283. Steijns J, et al. (2025). BMP7 peptide variants for osteoarthritis. *Ann Rheum Dis*. [DOI:10.1186/s13075-025-03599-4](https://doi.org/10.1186/s13075-025-03599-4)
+
+<a id="ref-284"></a>284. Whitty P, et al. (2022). BMP2/BMP7 in cartilage repair. *Osteoarthr Cartil Open*. [DOI:10.1016/j.ocarto.2022.100240](https://doi.org/10.1016/j.ocarto.2022.100240)
+
+<a id="ref-285"></a>285. Allendorph GP, Vale WW, Choe S (2006). Structure of the ternary signaling complex of a TGF-beta superfamily member (BMP2/ActRII/BMPRIA). *PNAS*. [DOI:10.1073/pnas.0602558103](https://doi.org/10.1073/pnas.0602558103)
+
+<a id="ref-286"></a>286. Jatzlau J, Burdzinski W, Trumpp M, et al. (2023). A versatile Halo- and SNAP-tagged BMP/TGFbeta receptor library for quantification of cell surface ligand binding. *Commun Biol*. [DOI:10.1038/s42003-022-04388-4](https://doi.org/10.1038/s42003-022-04388-4)
+
+<a id="ref-287"></a>287. del Re EC, Sidis Y, Fabrizio D, et al. (2004). Reconstitution and analysis of soluble inhibin and activin receptor complexes in a cell-free system. *J Biol Chem*. [DOI:10.1074/jbc.m408090200](https://doi.org/10.1074/jbc.m408090200)
+
+<a id="ref-288"></a>288. Thompson TB, Woodruff TK, Jardetzky TS (2003). Structures of an ActRIIB:activin A complex reveal a novel binding mode for TGF-beta ligand:receptor interactions. *EMBO J*. [DOI:10.1093/emboj/cdg156](https://doi.org/10.1093/emboj/cdg156)
