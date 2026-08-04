@@ -584,7 +584,6 @@ BMP10 是 TGF-β 超家族成员，在**心脏发育**中具有不可替代的�
 5. John Lian, R. Walker, Andrea D’Amico, et al. (2022). Functional substitutions of amino acids that differ between GDF11 and GDF8 impact skeletal development and skeletal muscle. *Life Science Alliance*. doi:10.26508/lsa.202201662
 6. Joonho Suh, Na-Kyung Kim, Seung-Hoon Lee, et al. (2020). GDF11 promotes osteogenesis as opposed to MSTN, and follistatin, a MSTN/GDF11 inhibitor, increases muscle mass but weakens bone. *Proceedings of the National Academy of Sciences of the United States of America*. doi:10.1073/pnas.1916034117
 7. Ashwin Bhaskar, Sophie Astrof (2024). Identification of novel genes regulating the development of the palate. *bioRxiv*. doi:10.1101/2024.02.09.579685
-## References
 8. A. Mcpherron, A. Lawler, Se-Jin Lee (1999). Regulation of anterior/posterior patterning of the axial skeleton by growth/differentiation factor 11. *Nature Genetics*. doi:10.1038/10320
 9. Thomas A. Ravenscroft, Jennifer B. Phillips, Elizabeth Fieg, et al. (2021). Heterozygous loss-of-function variants significantly expand the phenotypes associated with loss of GDF11 | Genetics in Medicine | Springer Nature Link. *Genetics in Medicine*. doi:10.1038/s41436-021-01216-8
 10. Alexandra C. McPherron, Thanh V. Huynh, Se-Jin Lee (2009). Redundancy of myostatin and growth/differentiation factor 11 function. *BMC Developmental Biology*. doi:10.1186/1471-213x-9-24
