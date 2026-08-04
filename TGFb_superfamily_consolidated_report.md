@@ -23,7 +23,7 @@
 
 ## 1. 生理功能
 
-Activin A 是 TGF-β 超家族成员，由 inhibin βA 亚基同源二聚体 (βA-βA) 构成，由 *INHBA* 基因编码。它通过 ActRIIA/ActRIIB → ALK4/ALK5 → Smad2/3 信号通路发挥作用，其活性被 inhibin 和 follistatin 拮抗 [68, 70, 73]。
+Activin A 是 TGF-β 超家族成员，由 inhibin βA 亚基同源二聚体 (βA-βA) 构成，由 *INHBA* 基因编码。它通过 ActRIIA/ActRIIB → ALK4/ALK5 → Smad2/3 信号通路发挥作用，其活性被 inhibin 和 follistatin 拮抗 [68, 70, 73](#ref-68)。
 
 | 系统/组织 | 生理功能 | 证据来源 |
 |---|---|---|
@@ -576,7 +576,6 @@ BMP10 是 TGF-β 超家族成员，在**心脏发育**中具有不可替代的�
 
 ## 完整参考文献列表
 
-## References
 ## References
 <a id="ref-1"></a>1. Yun‐Sil Lee, Se-Jin Lee (2015). Roles of GASP-1 and GDF-11 in Dental and Craniofacial Development. *Journal of oral medicine and pain*. doi:10.14476/jomp.2015.40.3.110
 
