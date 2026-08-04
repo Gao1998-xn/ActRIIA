@@ -1,4 +1,4 @@
-# TGF-β 超家族配体综合研究报告：Activin A、Activin B、GDF8、GDF11、BMP9、BMP10
+# TGF-β 超家族配体综合研究报告：Activin A、Activin B、GDF8、GDF11、BMP9/10、BMP2/7
 
 > **项目背景**：设计一种类似 bimagrumab（Bima）的抗体，但减少心脏副作用。
 > **报告日期**：2026-08-04
