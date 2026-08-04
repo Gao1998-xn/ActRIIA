@@ -576,13 +576,14 @@ BMP10 是 TGF-β 超家族成员，在**心脏发育**中具有不可替代的�
 
 ## 完整参考文献列表
 
-[1] Yun‐Sil Lee, Se-Jin Lee (2015). Roles of GASP-1 and GDF-11 in Dental and Craniofacial Development. *Journal of oral medicine and pain*. doi:10.14476/jomp.2015.40.3.110
-[2] R. Essalmani, A. Zaid, J. Marcinkiewicz, et al. (2008). In vivo functions of the proprotein convertase PC5/6 during mouse development: Gdf11 is a likely substrate. *Proceedings of the National Academy of Sciences*. doi:10.1073/pnas.0709428105
-[3] Olov Andersson, Eva Reissmann, C. Ibáñez (2006). Growth differentiation factor 11 signals through the transforming growth factor‐β receptor ALK5 to regionalize the anterior–posterior axis. *EMBO reports*. doi:10.1038/sj.embor.7400752
-[4] T. Cox, A. Lidral, J. Mccoy, et al. (2019). Mutations in GDF11 and the extracellular antagonist, Follistatin, as a likely cause of Mendelian forms of orofacial clefting in humans. *Human Mutation*. doi:10.1002/humu.23793
-[5] John Lian, R. Walker, Andrea D’Amico, et al. (2022). Functional substitutions of amino acids that differ between GDF11 and GDF8 impact skeletal development and skeletal muscle. *Life Science Alliance*. doi:10.26508/lsa.202201662
-[6] Joonho Suh, Na-Kyung Kim, Seung-Hoon Lee, et al. (2020). GDF11 promotes osteogenesis as opposed to MSTN, and follistatin, a MSTN/GDF11 inhibitor, increases muscle mass but weakens bone. *Proceedings of the National Academy of Sciences of the United States of America*. doi:10.1073/pnas.1916034117
-[7] Ashwin Bhaskar, Sophie Astrof (2024). Identification of novel genes regulating the development of the palate. *bioRxiv*. doi:10.1101/2024.02.09.579685
+## References
+1. Yun‐Sil Lee, Se-Jin Lee (2015). Roles of GASP-1 and GDF-11 in Dental and Craniofacial Development. *Journal of oral medicine and pain*. doi:10.14476/jomp.2015.40.3.110
+2. R. Essalmani, A. Zaid, J. Marcinkiewicz, et al. (2008). In vivo functions of the proprotein convertase PC5/6 during mouse development: Gdf11 is a likely substrate. *Proceedings of the National Academy of Sciences*. doi:10.1073/pnas.0709428105
+3. Olov Andersson, Eva Reissmann, C. Ibáñez (2006). Growth differentiation factor 11 signals through the transforming growth factor‐β receptor ALK5 to regionalize the anterior–posterior axis. *EMBO reports*. doi:10.1038/sj.embor.7400752
+4. T. Cox, A. Lidral, J. Mccoy, et al. (2019). Mutations in GDF11 and the extracellular antagonist, Follistatin, as a likely cause of Mendelian forms of orofacial clefting in humans. *Human Mutation*. doi:10.1002/humu.23793
+5. John Lian, R. Walker, Andrea D’Amico, et al. (2022). Functional substitutions of amino acids that differ between GDF11 and GDF8 impact skeletal development and skeletal muscle. *Life Science Alliance*. doi:10.26508/lsa.202201662
+6. Joonho Suh, Na-Kyung Kim, Seung-Hoon Lee, et al. (2020). GDF11 promotes osteogenesis as opposed to MSTN, and follistatin, a MSTN/GDF11 inhibitor, increases muscle mass but weakens bone. *Proceedings of the National Academy of Sciences of the United States of America*. doi:10.1073/pnas.1916034117
+7. Ashwin Bhaskar, Sophie Astrof (2024). Identification of novel genes regulating the development of the palate. *bioRxiv*. doi:10.1101/2024.02.09.579685
 [8] A. Mcpherron, A. Lawler, Se-Jin Lee (1999). Regulation of anterior/posterior patterning of the axial skeleton by growth/differentiation factor 11. *Nature Genetics*. doi:10.1038/10320
 [9] Thomas A. Ravenscroft, Jennifer B. Phillips, Elizabeth Fieg, et al. (2021). Heterozygous loss-of-function variants significantly expand the phenotypes associated with loss of GDF11 | Genetics in Medicine | Springer Nature Link. *Genetics in Medicine*. doi:10.1038/s41436-021-01216-8
 [10] Alexandra C. McPherron, Thanh V. Huynh, Se-Jin Lee (2009). Redundancy of myostatin and growth/differentiation factor 11 function. *BMC Developmental Biology*. doi:10.1186/1471-213x-9-24
