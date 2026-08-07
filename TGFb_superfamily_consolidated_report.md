@@ -37,7 +37,7 @@ Activin A 是 TGF-β 超家族成员，由 inhibin βA 亚基同源二聚体 (β
 | **造血系统** | 促进红系细胞增殖和分化；这也是 sotatercept 导致血红蛋白升高的机制基础 | [52, 73](#ref-52,73) |
 | **免疫/炎症** | 几乎所有免疫细胞均能产生和响应，功能高度依赖细胞状态：巨噬细胞双面角色（促 M1 极化 vs LPS 下抗炎）；T 细胞（促 Treg/Tr1 分化，也促 Th9 病理）；B 细胞（增强黏膜 IgA）；NK 细胞（抑制抗肿瘤功能）；树突细胞（调节耐受性）；急性期反应中释放在 follistatin 之前发生 | [68](#ref-68) |
 | **心血管** | 在心衰中通过 ActRII 信号上调蛋白酶体通路，降解 SERCA2a 钙泵，损害心肌细胞钙处理；循环 FSTL3 随年龄、衰弱和心衰严重程度升高；在 PAH 中驱动肺血管重塑 | [52](#ref-52) |
-| **肝脏/纤维化** | 与促纤维化肾损伤和细胞衰老诱导的脂肪组织功能障碍有关，在人类糖尿病肾病（DKD）中水平升高，并与肾功能障碍直接相关；抑制肝细胞增殖；阻断后肝再生增强（BrdU+ 细胞增加约 2 倍）；在糖尿病肾病中 follistatin 拮抗可减少纤维化 | [41, 44](#ref-41,44) |
+| **肝脏/纤维化** | 与促纤维化肾损伤和细胞衰老诱导的脂肪组织功能障碍有关，在人类糖尿病肾病（DKD）中水平升高，并与肾功能障碍直接相关；抑制肝细胞增殖；阻断后肝再生增强（BrdU+ 细胞增加约 2 倍）；在糖尿病肾病中 follistatin 拮抗可减少纤维化 | [41, 44，290](#ref-41,44,290) |
 | **癌症** | 高度上下文依赖：肺鳞癌/头颈癌中促侵袭；前列腺癌/乳腺癌中可能抑瘤；卵巢癌中自分泌调控 IL-6 分泌、自噬和恶病质；胰腺癌中循环 Activin A 升高驱动肌肉萎缩 | [63, 66, 75](#ref-63,66,75) |
 
 **信号通路**：Activin A → ActRIIA/ActRIIB → ALK4/ALK5 → Smad2/3 → 靶基因转录。其活性被 inhibin（竞争性结合 ActRII）和 follistatin（高亲和力结合并中和）拮抗 [68, 72](#ref-68,72)。
@@ -1425,4 +1425,6 @@ ActRIIA 的定量 Kd 数据相对有限，主要来源：
 
 <a id="ref-288"></a>288. Thompson TB, Woodruff TK, Jardetzky TS (2003). Structures of an ActRIIB:activin A complex reveal a novel binding mode for TGF-beta ligand:receptor interactions. *EMBO J*. [DOI:10.1093/emboj/cdg156](https://doi.org/10.1093/emboj/cdg156)
 
-<a id="ref-288"></a>289. Heinrich Schrewe, Maureen Gendron-Maguire, Margaret L. Harbison, Thomas Gridley (1994). Mice homozygous for a null mutation of activin βB are viable and fertile. *Mechanisms of Development*. [DOI:10.1016/0925-4773(94)00247-K](https://doi.org/10.1016/0925-4773(94)00247-K)
+<a id="ref-289"></a>289. Heinrich Schrewe, Maureen Gendron-Maguire, Margaret L. Harbison, Thomas Gridley (1994). Mice homozygous for a null mutation of activin βB are viable and fertile. *Mechanisms of Development*. [DOI:10.1016/0925-4773(94)00247-K](https://doi.org/10.1016/0925-4773(94)00247-K)
+
+<a id="ref-290"></a>290. Srividyameena Haridoss, Mladen I. Yovchev, Hannah Schweizer, Sabreen Megherhi, Maria Beecher, Joseph Locker, Michael Oertel (2017). Activin A is a prominent autocrine regulator of hepatocyte growth arrest. [DOI:10.1002/hep4.1106](https://doi.org/10.1002/hep4.1106)
