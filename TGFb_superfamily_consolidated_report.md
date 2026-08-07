@@ -1062,7 +1062,7 @@ ActRIIA 的定量 Kd 数据相对有限，主要来源：
 
 <a id="ref-97"></a>97. Naoki Kobayashi, Yukiko Okazaki, Aya Iwane, Kazuo Hara, Momoko Horikoshi, Motoharu Awazawa, et al. (2025). Activin B improves glucose metabolism via induction of Fgf21 and hepatic glucagon resistance. *Nature Communications*. [DOI:10.1038/s41467-025-58836-w](https://doi.org/10.1038/s41467-025-58836-w)
 
-<a id="ref-98"></a>98. Chester W. Brown, Dianne E. Houston-Hawkins, Teresa K. Woodruff, et al. (2000). Insertion of Inhbb into the Inhba locus rescues the Inhba-null phenotype and reveals new activin functions | Nature Genetics. *Nature Genetics*. [DOI:10.1038/78161](https://doi.org/10.1038/78161)
+<a id="ref-98"></a>98. A Vassalli, M M Matzuk, H A Gardner, K F Lee, R Jaenisch (1994). Activin/inhibin beta B subunit gene disruption leads to defects in eyelid development and female reproduction. *Genes & Dev*. [DOI:10.1101/gad.8.4.414](https://doi.org/10.1101/gad.8.414)
 
 <a id="ref-99"></a>99. Kunihiro Tsuchida (2026). Clinical Applications of Ligand Traps Targeting Activin Type II Receptors.. *Anti-inflammatory & anti-allergy agents in medicinal chemistry*. [DOI:10.2174/0118715230416604251029062751](https://doi.org/10.2174/0118715230416604251029062751)
 
