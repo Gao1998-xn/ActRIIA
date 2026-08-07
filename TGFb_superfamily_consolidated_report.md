@@ -144,7 +144,7 @@ Activin B 由 inhibin βB 亚基同源二聚体 (βB-βB) 构成，由 *INHBB* �
 
 | 模型 | 表型 | 证据来源 |
 |---|---|---|
-| **Inhbb 全身敲除小鼠** | **存活可育**，存在眼睑发育缺陷——与 *Inhba* 敲除的新生期致死形成鲜明对比，提示 Activin B 在发育中可被 Activin A 代偿 | [98, 204](#ref-98,204) |
+| **Inhbb 全身敲除小鼠** | **存活可育**，存在眼睑发育缺陷，129/Sv、FVB、B6CBA 多品系验证，仅 40% 睁眼——与 *Inhba* 敲除的新生期致死形成鲜明对比，提示 Activin B 在发育中可被 Activin A 部分代偿 | [98, 289](#ref-98,289) |
 | **Inhbb 敲除 — 胰岛表型** | 胰岛质量增加、β细胞增殖增强，但全身葡萄糖稳态和胰岛素敏感性不受影响 | [208](#ref-208) |
 | **Inhbb 敲除 — 代谢** | 内皮特异性 *Inhbb* 敲除 (Inhbb-Lyve1 KO) 小鼠空腹血糖和肝糖异生升高——证明内源性 Activin B 是空腹葡萄糖代谢的保护因子 | [97](#ref-97) |
 | **ALK7 敲除（Activin B 信号通路）** | 改善胰腺 β 细胞功能，增强葡萄糖刺激的胰岛素分泌，改善葡萄糖耐量和更高胰岛素释放 | [207](#ref-207) |
@@ -1424,3 +1424,5 @@ ActRIIA 的定量 Kd 数据相对有限，主要来源：
 <a id="ref-287"></a>287. del Re EC, Sidis Y, Fabrizio D, et al. (2004). Reconstitution and analysis of soluble inhibin and activin receptor complexes in a cell-free system. *J Biol Chem*. [DOI:10.1074/jbc.m408090200](https://doi.org/10.1074/jbc.m408090200)
 
 <a id="ref-288"></a>288. Thompson TB, Woodruff TK, Jardetzky TS (2003). Structures of an ActRIIB:activin A complex reveal a novel binding mode for TGF-beta ligand:receptor interactions. *EMBO J*. [DOI:10.1093/emboj/cdg156](https://doi.org/10.1093/emboj/cdg156)
+
+<a id="ref-288"></a>289. Heinrich Schrewe, Maureen Gendron-Maguire, Margaret L. Harbison, Thomas Gridley (1994). Mice homozygous for a null mutation of activin βB are viable and fertile. *Mechanisms of Development*. [DOI:10.1016/0925-4773(94)00247-K](https://doi.org/10.1016/0925-4773(94)00247-K)
