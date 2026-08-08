@@ -137,7 +137,7 @@ Activin B 由 inhibin βB 亚基同源二聚体 (βB-βB) 构成，由 *INHBB* �
 | **肝脏/纤维化** | **比 Activin A 更强的肝纤维化驱动因子**：受损肝细胞持续产生 Activin B（自分泌促进坏死）；激活 JNK1/JNK2、诱导 iNOS、维持 PARP1；直接诱导肝星状细胞产生促纤维化表达谱；关键差异：Activin B 在肝损伤中**持续升高**（从急性到慢性），而 Activin A 仅在急性期短暂升高 | [110](#ref-110) |
 | **骨骼肌** | 骨骼肌质量的候选负调节因子；ActRIIB-Fc 可中和 Activin B 诱导的 Smad 信号；与 Activin A、myostatin 协同促进肌肉萎缩，效应完全可逆 | [81, 113](#ref-81,113) |
 | **癌症** | 胃癌：通过 ALK7-TRAF6-TAK1-NF-κB 通路将成纤维细胞重编程为肿瘤相关成纤维细胞 (CAFs)，分泌 IL-1β 形成正反馈环路驱动胃癌进展；INHBB 高表达与不良生存相关 | [86](#ref-86) |
-| **造血系统** | 与 GDF8、GDF11 共同作为 Smad2/3 通路配体负向调控红细胞成熟；抗 Activin B 抗体与抗 GDF8、抗 GDF11 联合使用可显著刺激红细胞生成 | [105](#ref-105) |
+| **造血系统** | 与 GDF8、GDF11 共同作为 Smad2/3 通路配体负向调控红细胞成熟；ACE-536刺激可显著刺激红细胞生成 | [105,291](#ref-105) |
 | **发育** | βA 和 βB 亚基支持体细胞生长和寿命，但 βA 的作用更大；*Inhbb* 敲入 *Inhba* 位点可挽救 *Inhba* 敲除的颅面缺陷，但揭示 Activin B 在睾丸、生殖器和毛发生长上的独特表型 | [91, 98](#ref-91,98) |
 
 ## 2. 基因敲除表型
@@ -1428,3 +1428,5 @@ ActRIIA 的定量 Kd 数据相对有限，主要来源：
 <a id="ref-289"></a>289. Heinrich Schrewe, Maureen Gendron-Maguire, Margaret L. Harbison, Thomas Gridley (1994). Mice homozygous for a null mutation of activin βB are viable and fertile. *Mechanisms of Development*. [DOI:10.1016/0925-4773(94)00247-K](https://doi.org/10.1016/0925-4773(94)00247-K)
 
 <a id="ref-290"></a>290. Srividyameena Haridoss, Mladen I. Yovchev, Hannah Schweizer, Sabreen Megherhi, Maria Beecher, Joseph Locker, Michael Oertel (2017). Activin A is a prominent autocrine regulator of hepatocyte growth arrest. [DOI:10.1002/hep4.1106](https://doi.org/10.1002/hep4.1106)
+
+<a id="ref-290"></a>291. Suragani R, Cadena SM, Cawley SM, et al. *Transforming growth factor-β superfamily ligand trap ACE-536 corrects anemia by promoting late-stage erythropoiesis*. Nature Medicine, 2014, 20(4):408–414. [https://doi.org/10.1038/nm.3512](https://doi.org/10.1038/nm.3512)
