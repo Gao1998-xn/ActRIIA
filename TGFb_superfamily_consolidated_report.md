@@ -284,8 +284,8 @@ GDF8（又称肌肉抑制素，Myostatin）是 TGF-β 超家族成员，主要�
 | **Domagrozumab** (PF-06252616) | Pfizer | 抗 GDF8/GDF11 抗体 | DMD / LGMD | 3-30 mg/kg IV q2w | **失败**：无功能改善 | 2018 终止 | [134](#ref-134)  |
 | **Bimagrumab** (BYM338) | Novartis/Lilly | 抗 ActRIIA/ActRIIB 双受体阻断 | sIBM / 肌少症 / 肥胖+T2D | 30 mg/kg IV q4w | sIBM：**失败** (6MWD 无改善)；肌少症：大腿肌体积 +6.5%，仅慢步速者功能改善；肥胖+T2D：脂肪 -20.5%，肌肉 +3.6%，HbA1c -0.8% | 肥胖适应症推进中 | [13, 15, 17, 136](#ref-13,15,17,136)  |
 | **Apitegromab** (SRK-015) | Scholar Rock | 抗**潜伏型** GDF8 抗体 | SMA / 肥胖（联合替尔泊肽） | 5-15 mg/kg IV q4w | SMA：运动功能改善；肥胖+替尔泊肽：瘦体重保留 1.9 kg (相对保留 54.9%) | Phase 3 进行中 | [135](#ref-135)  |
-| **GYM329** | Roche | 抗潜伏型 GDF8 抗体 | FSHD | 临床剂量待定 | 临床前优于 landogrozumab/domagrozumab/bimagrumab | Phase 2 进行中 | [143](#ref-143)  |
-| **Trevogrumab** (REGN-1033) | Regeneron | 抗成熟/潜伏/pro-GDF8，**不交叉 GDF11** | 肌少症 / IBM | SC 给药 | 临床前肌肉增加，无 GDF11 交叉反应 | Phase 2 进行中 | [146](#ref-146)  |
+| **GYM329** | Roche | 抗潜伏型 GDF8 抗体 | FSHD | 临床剂量待定 | 临床前优于 landogrozumab/domagrozumab/bimagrumab | Phase 2 进行中 | [146](#ref-146)  |
+| **Trevogrumab** (REGN-1033) | Regeneron | 抗成熟/潜伏/pro-GDF8，**不交叉 GDF11** | 肌少症 / IBM | SC 给药 | 临床前肌肉增加，无 GDF11 交叉反应 | Phase 2 进行中 | [146](#ref-292)  |
 | **Ramatercept** (ACE-031) | Acceleron | ActRIIB-Fc 配体陷阱 | DMD | 3-10 mg/kg SC q2w | 肌肉增加但因**鼻衄、牙龈出血、毛细血管扩张终止** (BMP9/BMP10 交叉抑制) | 终止 | [55](#ref-55)  |
 | **KER-065** | Keros | 改良 ActRIIA/IIB 陷阱（降低 BMP 结合） | DMD / 肌少症 | 1.25-2 mg/kg SC q28d | Phase 1 耐受良好，骨密度改善；Phase 2 DMD 计划 2026 Q1 | Phase 2 准备中 | [227](#ref-227)  |
 
@@ -1429,4 +1429,6 @@ ActRIIA 的定量 Kd 数据相对有限，主要来源：
 
 <a id="ref-290"></a>290. Srividyameena Haridoss, Mladen I. Yovchev, Hannah Schweizer, Sabreen Megherhi, Maria Beecher, Joseph Locker, Michael Oertel (2017). Activin A is a prominent autocrine regulator of hepatocyte growth arrest. [DOI:10.1002/hep4.1106](https://doi.org/10.1002/hep4.1106)
 
-<a id="ref-290"></a>291. Suragani R, Cadena SM, Cawley SM, et al. *Transforming growth factor-β superfamily ligand trap ACE-536 corrects anemia by promoting late-stage erythropoiesis*. Nature Medicine, 2014, 20(4):408–414. [https://doi.org/10.1038/nm.3512](https://doi.org/10.1038/nm.3512)
+<a id="ref-291"></a>291. Suragani R, Cadena SM, Cawley SM, et al. *Transforming growth factor-β superfamily ligand trap ACE-536 corrects anemia by promoting late-stage erythropoiesis*. Nature Medicine, 2014, 20(4):408–414. [https://doi.org/10.1038/nm.3512](https://doi.org/10.1038/nm.3512)
+
+<a id="ref-292"></a>292. Latres E, Pangilinan J, Miloscio L et al. Myostatin blockade with a fully human monoclonal antibody induces muscle hypertrophy and reverses muscle atrophy. Skeletal Muscle, 2015, 5(1):24.](https://doi.org/10.1186/s13395-017-0024-y)
