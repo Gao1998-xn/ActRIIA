@@ -285,7 +285,7 @@ GDF8（又称肌肉抑制素，Myostatin）是 TGF-β 超家族成员，主要�
 | **Bimagrumab** (BYM338) | Novartis/Lilly | 抗 ActRIIA/ActRIIB 双受体阻断 | sIBM / 肌少症 / 肥胖+T2D | 30 mg/kg IV q4w | sIBM：**失败** (6MWD 无改善)；肌少症：大腿肌体积 +6.5%，仅慢步速者功能改善；肥胖+T2D：脂肪 -20.5%，肌肉 +3.6%，HbA1c -0.8% | 肥胖适应症推进中 | [13, 15, 17, 136](#ref-13,15,17,136)  |
 | **Apitegromab** (SRK-015) | Scholar Rock | 抗**潜伏型** GDF8 抗体 | SMA / 肥胖（联合替尔泊肽） | 5-15 mg/kg IV q4w | SMA：运动功能改善；肥胖+替尔泊肽：瘦体重保留 1.9 kg (相对保留 54.9%) | Phase 3 进行中 | [135](#ref-135)  |
 | **GYM329** | Roche | 抗潜伏型 GDF8 抗体 | FSHD | 临床剂量待定 | 临床前优于 landogrozumab/domagrozumab/bimagrumab | Phase 2 进行中 | [146](#ref-146)  |
-| **Trevogrumab** (REGN-1033) | Regeneron | 抗成熟/潜伏/pro-GDF8，**不交叉 GDF11** | 肌少症 / IBM | SC 给药 | 临床前肌肉增加，无 GDF11 交叉反应 | Phase 2 进行中 | [292](#ref-292)  |
+| **Trevogrumab** (REGN-1033) | Regeneron | 抗成熟GDF8，**不交叉 GDF11** | 肌少症 / IBM | SC 给药 | 临床前肌肉增加，无 GDF11 交叉反应 | Phase 2 进行中 | [292](#ref-292)  |
 | **Ramatercept** (ACE-031) | Acceleron | ActRIIB-Fc 配体陷阱 | DMD | 3-10 mg/kg SC q2w | 肌肉增加但因**鼻衄、牙龈出血、毛细血管扩张终止** (BMP9/BMP10 交叉抑制) | 终止 | [55](#ref-55)  |
 | **KER-065** | Keros | 改良 ActRIIA/IIB 陷阱（降低 BMP 结合） | DMD / 肌少症 | 1.25-2 mg/kg SC q28d | Phase 1 耐受良好，骨密度改善；Phase 2 DMD 计划 2026 Q1 | Phase 2 准备中 | [227](#ref-227)  |
 
