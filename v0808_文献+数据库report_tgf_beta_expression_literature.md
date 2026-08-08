@@ -146,7 +146,7 @@
 
 > Activin receptor signaling components are expressed and functional in osteoblasts. Transcriptional expression assays demonstrate that the activin signaling cascade is active in bone.
 
-![ACVR2A 文献数据图](figures/literature/ACVR2A_paper_fig2_PMC5566533.jpg)
+![ACVR2A 文献数据图](figures/ACVR2A_paper_fig2_PMC5566533.jpg)
 
 **跨数据库组织表达柱状图**（HPA IHC + HPA RNA + PaxDb + GTEx）
 
@@ -166,7 +166,7 @@
 
 > Characterization of BMP receptor expression profiles in primary hMSC and human tissue cDNAs. Expression of BMP receptors (including ACVR2B) and endogenous controls across human tissues.
 
-![ACVR2B 文献数据图](figures/literature/ACVR2B_paper_fig2_PMC3258927.jpg)
+![ACVR2B 文献数据图](figures/ACVR2B_paper_fig2_PMC3258927.jpg)
 
 **跨数据库组织表达柱状图**（HPA IHC + HPA RNA + PaxDb + GTEx）
 
@@ -186,7 +186,7 @@
 
 > Expression of activin pathway components in PHM1 myometrial cells. Electrophoretic gel of the RT-PCR for the activin receptors ALK4, ActRIIA, ActRIIB and inhibin/activin subunits.
 
-![INHBA 文献数据图](figures/literature/INHBA_paper_fig2_PMC2329268.jpg)
+![INHBA 文献数据图](figures/INHBA_paper_fig2_PMC2329268.jpg)
 
 **跨数据库组织表达柱状图**（HPA RNA + PaxDb + GTEx）
 
@@ -206,7 +206,7 @@
 
 > Reduced plasma BMP9 and pBMP10 levels and increased sEng levels in cirrhosis are associated with decompensation. Plasma samples from controls and cirrhosis patients showing circulating BMP9/BMP10 protein levels.
 
-![INHBB 文献数据图](figures/literature/INHBB_paper_fig1_PMC7248419.jpg)
+![INHBB 文献数据图](figures/INHBB_paper_fig1_PMC7248419.jpg)
 
 **跨数据库组织表达柱状图**（HPA RNA + PaxDb + GTEx）
 
@@ -226,7 +226,7 @@
 
 > Regulation of muscle mass by myostatin (MSTN), activin A, and bone morphogenetic proteins (BMPs). Following proteolytic processing of the precursor proteins, mature MSTN signals through the activin receptor pathway to negatively regulate muscle mass.
 
-![MSTN 文献数据图](figures/literature/MSTN_paper_fig1_PMC10163667.jpg)
+![MSTN 文献数据图](figures/MSTN_paper_fig1_PMC10163667.jpg)
 
 **跨数据库组织表达柱状图**（HPA IHC + HPA RNA + PaxDb + GTEx）
 
@@ -246,7 +246,7 @@
 
 > Western analysis for GDF11/8 protein (5 ng, positive control) on 5 µL of serum from mouse, rat, horse, and sheep from different ages, demonstrating circulating GDF11/8 levels decline with age across species.
 
-![GDF11 文献数据图](figures/literature/GDF11_paper_fig2_PMC4748736.jpg)
+![GDF11 文献数据图](figures/GDF11_paper_fig2_PMC4748736.jpg)
 
 **跨数据库组织表达柱状图**（HPA IHC + HPA RNA + PaxDb + GTEx）
 
@@ -266,7 +266,7 @@
 
 > BMP2 is highly expressed in lung adenocarcinoma patients with lymph node metastasis. Representative BMP2 immunohistochemistry (IHC) images in lung adenocarcinoma tissues.
 
-![BMP2 文献数据图](figures/literature/BMP2_paper_fig1_PMC9522928.jpg)
+![BMP2 文献数据图](figures/BMP2_paper_fig1_PMC9522928.jpg)
 
 **跨数据库组织表达柱状图**（HPA RNA + PaxDb + GTEx）
 
@@ -286,7 +286,7 @@
 
 > Expression of Bmp9 in postnatal mouse tissues determined by TqPCR analysis. Total RNA was isolated from mouse brain, fat, heart, kidney, liver, lung, spleen, and other tissues, showing liver and lung as the highest expression sites.
 
-![GDF2 文献数据图](figures/literature/GDF2_paper_fig2_PMC7083737.jpg)
+![GDF2 文献数据图](figures/GDF2_paper_fig2_PMC7083737.jpg)
 
 **跨数据库组织表达柱状图**（HPA IHC + HPA RNA + PaxDb + GTEx）
 
@@ -306,7 +306,7 @@
 
 > De novo activation of Bmp10 in mouse adult heart. Schematic diagram of the inducible Bmp10 transgenic mouse model and the de novo activation of Bmp10 expression in adult cardiac tissue.
 
-![BMP10 文献数据图](figures/literature/BMP10_paper_fig2_PMC6937579.jpg)
+![BMP10 文献数据图](figures/BMP10_paper_fig2_PMC6937579.jpg)
 
 **跨数据库组织表达柱状图**（HPA IHC + HPA RNA + PaxDb + GTEx）
 
@@ -326,7 +326,7 @@
 
 > Bmp7 in situ hybridization and RT-qPCR. In situ hybridization of controls and Bmp7 mutants showing Bmp7 expression in the developing kidney, with RT-qPCR quantification across developmental stages.
 
-![BMP7 文献数据图](figures/literature/BMP7_paper_fig3_PMC9382899.jpg)
+![BMP7 文献数据图](figures/BMP7_paper_fig3_PMC9382899.jpg)
 
 **跨数据库组织表达柱状图**（HPA RNA + PaxDb + GTEx）
 
