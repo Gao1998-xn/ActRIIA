@@ -10,12 +10,12 @@
 
 ### 1.1 BMP家族简介
 
-骨形态发生蛋白（Bone Morphogenetic Proteins, BMPs）属于转化生长因子-β（TGF-β）超家族，是脊椎动物胚胎发育和组织稳态中最重要的信号分子家族之一。BMP配体通过结合细胞表面I型和II型丝氨酸/苏氨酸激酶受体，启动下游信号级联，调控细胞增殖、分化、凋亡和命运决定等多种生物学过程 [2]。
+骨形态发生蛋白（Bone Morphogenetic Proteins, BMPs）属于转化生长因子-β（TGF-β）超家族，是脊椎动物胚胎发育和组织稳态中最重要的信号分子家族之一。BMP配体通过结合细胞表面I型和II型丝氨酸/苏氨酸激酶受体，启动下游信号级联，调控细胞增殖、分化、凋亡和命运决定等多种生物学过程 <a href="#ref-2">[2]</a>。
 
 迄今已鉴定出20余种BMP配体，根据结构和功能特征可分为若干亚群：
 - **BMP2/4亚群**：BMP2和BMP4序列高度同源（约60%氨基酸同一性），共享相似的受体结合特性，主要参与骨/软骨形成、胚胎模式建立和器官发育。
-- **BMP7（OP-1）亚群**：BMP7与BMP2/4在功能上有重叠但亦有独特性，在肾脏发育和抗纤维化中发挥关键作用。值得注意的是，BMP7在哺乳动物胚胎发生中主要以与BMP2或BMP4形成的异源二聚体形式发挥功能，这可能解释了为何BMP4或BMP7的突变在人类中导致相似的先天性缺陷 [3]。
-- **BMP9/10亚群**：BMP9（又称GDF2）和BMP10序列相近，主要通过ALK1（ACVRL1）受体信号通路发挥作用，在血管生物学、铁代谢和心脏发育中具有独特且不可替代的功能 [106]。
+- **BMP7（OP-1）亚群**：BMP7与BMP2/4在功能上有重叠但亦有独特性，在肾脏发育和抗纤维化中发挥关键作用。值得注意的是，BMP7在哺乳动物胚胎发生中主要以与BMP2或BMP4形成的异源二聚体形式发挥功能，这可能解释了为何BMP4或BMP7的突变在人类中导致相似的先天性缺陷  <a href="#ref-3">[3]</a>。
+- **BMP9/10亚群**：BMP9（又称GDF2）和BMP10序列相近，主要通过ALK1（ACVRL1）受体信号通路发挥作用，在血管生物学、铁代谢和心脏发育中具有独特且不可替代的功能  <a href="#ref-106">[106]</a>。
 
 ### 1.2 信号转导机制
 
@@ -24,18 +24,18 @@ BMP信号通路的经典（canonical）转导路径如下：
 1. **配体结合**：BMP配体二聚体结合细胞表面的I型受体（ALK1/2/3/6）和II型受体（BMPR2、ActRIIA、ActRIIB），形成异源四聚体受体复合物。
 2. **受体磷酸化**：II型受体组成性激活，磷酸化I型受体GS结构域。
 3. **SMAD激活**：活化的I型受体磷酸化受体调节型SMAD（R-SMAD），即SMAD1/5/8。
-4. **转录复合物形成**：磷酸化的R-SMAD与共同介质SMAD4（Co-SMAD）结合，转入细胞核，调控靶基因转录（如ID1、ID2、Runx2等）[2, 18]。
+4. **转录复合物形成**：磷酸化的R-SMAD与共同介质SMAD4（Co-SMAD）结合，转入细胞核，调控靶基因转录（如ID1、ID2、Runx2等） <a href="#ref-2，18">[2，18]</a>。
 
-除经典SMAD通路外，BMP信号还可激活非经典（non-canonical）通路，包括MAPK通路（ERK、p38、JNK）和PI3K/AKT通路，这些通路在不同细胞类型和生理情境中介导多样化的生物学效应 [17]。
+除经典SMAD通路外，BMP信号还可激活非经典（non-canonical）通路，包括MAPK通路（ERK、p38、JNK）和PI3K/AKT通路，这些通路在不同细胞类型和生理情境中介导多样化的生物学效应  <a href="#ref-17">[17]</a>。
 
 ### 1.3 通路调控层次
 
-BMP信号在多个层次受到精密调控 [54]：
-- **细胞外拮抗剂**：Noggin、Chordin、Follistatin、Gremlin、DAN家族蛋白等通过结合BMP配体阻止其与受体结合 [66, 67]。
+BMP信号在多个层次受到精密调控 <a href="#ref-54">[54]</a>：
+- **细胞外拮抗剂**：Noggin、Chordin、Follistatin、Gremlin、DAN家族蛋白等通过结合BMP配体阻止其与受体结合 <a href="#ref-66，67">[66，67]</a>。
 - **共受体/辅助受体**：如Endoglin（CD105）和Betaglycan增强BMP信号传导。
 - **受体内化与降解**：受体通过网格蛋白介导的内吞作用调控信号强度和持续时间。
 - **胞内负反馈**：SMAD6和SMAD7作为抑制型SMAD（I-SMAD），竞争性结合受体或阻断R-SMAD磷酸化。
-- **前域（prodomain）调控**：BMP配体以前体蛋白形式合成，需经弗林蛋白酶（Furin）等蛋白酶切割前域才能释放活性配体。BMP4前域的磷酸化和有序切割对其活性至关重要——磷酸化位点突变或同时切割两个位点均会导致胚胎致死 [48, 49]。
+- **前域（prodomain）调控**：BMP配体以前体蛋白形式合成，需经弗林蛋白酶（Furin）等蛋白酶切割前域才能释放活性配体。BMP4前域的磷酸化和有序切割对其活性至关重要——磷酸化位点突变或同时切割两个位点均会导致胚胎致死 <a href="#ref-48，49">[48，49]</a>。
 
 ---
 
@@ -43,9 +43,9 @@ BMP信号在多个层次受到精密调控 [54]：
 
 ### 2.1 生理功能
 
-BMP2是研究最为深入的BMP家族成员之一，在胚胎发育和成体骨稳态中发挥核心作用 [11]。
+BMP2是研究最为深入的BMP家族成员之一，在胚胎发育和成体骨稳态中发挥核心作用 <a href="#ref-11">[11]</a>。
 
-**骨/软骨形成**：BMP2通过激活经典SMAD1/5/8通路和非经典MAPK通路（ERK、p38、JNK），上调Runx2等成骨转录因子，促进间充质干细胞（MSC）向成骨细胞分化和骨形成 [17, 18]。BMP2的成骨效应呈剂量依赖性，且与机械力传导协同作用——BMP2信号和机械力通过YAP/TAZ作为"分子记忆单元"协同驱动成骨分化 [12]。在颅面骨发生中，BMP2促进干细胞分化和SMAD信号传导，对颅面缺损修复具有治疗潜力 [13]。
+**骨/软骨形成**：BMP2通过激活经典SMAD1/5/8通路和非经典MAPK通路（ERK、p38、JNK），上调Runx2等成骨转录因子，促进间充质干细胞（MSC）向成骨细胞分化和骨形成 <a href="#ref-17，18">[17，28]</a>。BMP2的成骨效应呈剂量依赖性，且与机械力传导协同作用——BMP2信号和机械力通过YAP/TAZ作为"分子记忆单元"协同驱动成骨分化 [12]。在颅面骨发生中，BMP2促进干细胞分化和SMAD信号传导，对颅面缺损修复具有治疗潜力 <a href="#ref-13">[13]</a>。
 
 **心脏发育**：BMP2在心脏发育中不可或缺。它在房室（AV）管区表达，对AV心内膜垫的上皮-间质转化（EMT）和心肌模式形成至关重要 [27]。BMP2在内膜谱系中的表达对于AV心内膜垫成熟和重塑为正常膜性室间隔和分层房室瓣是必需的 [24]。BMP2/4在心脏中以剂量依赖方式调控Hand1表达，影响心脏流出道发育 [29]。
 
@@ -763,384 +763,388 @@ BMP信号在血管钙化中发挥复杂多样的调节作用，具有治疗意�
 
 ## 参考文献
 
-[1] Chen-Yi Tang, Mengrui Wu, Dongfeng Zhao, et al. (2021). Runx1 is a central regulator of osteogenesis for bone homeostasis by orchestrating BMP and WNT signaling pathways. PLoS Genetics. https://doi.org/10.1371/journal.pgen.1009233
+## References
 
-[2] Richard N. Wang, Jordan D. Green, Zhongliang Wang, et al. (2014). Bone Morphogenetic Protein (BMP) signaling in development and human diseases. Genes & diseases. https://doi.org/10.1016/j.gendis.2014.07.005
+<a id="ref-1" name="ref-1"></a>[1] Chen-Yi Tang, Mengrui Wu, Dongfeng Zhao, et al. (2021). Runx1 is a central regulator of osteogenesis for bone homeostasis by orchestrating BMP and WNT signaling pathways. *PLoS Genetics*. [https://doi.org/10.1371/journal.pgen.1009233](https://doi.org/10.1371/journal.pgen.1009233)
 
-[3] Hyung-Seok Kim, Judith M. Neugebauer, Autumn M. Mcknite, et al. (2019). BMP7 functions predominantly as a heterodimer with BMP2 or BMP4 during mammalian embryogenesis. eLife. https://doi.org/10.7554/elife.48872
+<a id="ref-2" name="ref-2"></a>[2] Richard N. Wang, Jordan D. Green, Zhongliang Wang, et al. (2014). Bone Morphogenetic Protein (BMP) signaling in development and diseases. *Genes & Diseases*. [https://doi.org/10.1016/j.gendis.2014.07.005](https://doi.org/10.1016/j.gendis.2014.07.005)
 
-[4] A. Wyatt, Robert J. Osborne, H. Stewart, et al. (2010). Bone morphogenetic protein 7 (BMP7) mutations are associated with variable ocular, brain, ear, palate, and skeletal anomalies. Human Mutation. https://doi.org/10.1002/humu.21280
+<a id="ref-3" name="ref-3"></a>[3] Hyung-Seok Kim, Judith M. Neugebauer, Autumn Mcknite, et al. (2019). BMP7 functions predominantly as a heterodimer with BMP2 or BMP4 during mammalian embryogenesis. *eLife*. [https://doi.org/10.7554/elife.48872](https://doi.org/10.7554/elife.48872)
 
-[5] K. Tsuji, K. Cox, Laura Gamer, et al. (2010). Conditional Deletion of BMP7 from the Limb Skeleton Does Not Affect Bone Formation or Fracture Repair. Journal of orthopaedic research. https://doi.org/10.1002/jor.20996
+<a id="ref-4" name="ref-4"></a>[4] A. Wyatt, Robert J. Osborne, H. Stewart, et al. (2010). Bone morphogenetic protein 7 (BMP7) mutations are associated with variable ocular, brain, ear, palate, and skeletal anomalies. *Human Mutation*. [https://doi.org/10.1002/humu.21280](https://doi.org/10.1002/humu.21280)
 
-[6] M. Tomita, M. Asada, N. Asada, et al. (2013). Bmp7 Maintains Undifferentiated Kidney Progenitor Population and Determines Nephron Numbers at Birth. PLoS ONE. https://doi.org/10.1371/journal.pone.0073554
+<a id="ref-5" name="ref-5"></a>[5] K. Tsuji, K. Cox, Laura Gamer, et al. (2010). Conditional Deletion of BMP7 from the Limb Skeleton Does Not Affect Bone Formation or Fracture Repair. *Journal of Orthopaedic Research*. [https://doi.org/10.1002/jor.20996](https://doi.org/10.1002/jor.20996)
 
-[7] Guode Luo, Clementine Hofmann, A.L.J.J. Bronckers, et al. (1995). BMP-7 is an inducer of nephrogenesis, and is also required for eye development and skeletal patterning. Genes & Development. https://doi.org/10.1101/gad.9.22.2808
+<a id="ref-6" name="ref-6"></a>[6] M. Tomita, M. Asada, N. Asada, et al. (2013). Bmp7 Maintains Undifferentiated Kidney Progenitor Population and Determines Nephron Numbers at Birth. *PLOS ONE*. [https://doi.org/10.1371/journal.pone.0073554](https://doi.org/10.1371/journal.pone.0073554)
 
-[8] Taro Tsujimura, Mana Idei, Masahiro Yoshikawa, et al. (2016). Roles and regulation of bone morphogenetic protein-7 in kidney development and diseases. World Journal of Stem Cells. https://doi.org/10.4252/wjsc.v8.i9.288
+<a id="ref-7" name="ref-7"></a>[7] Guode Luo, Clementine Hofmann, A.L.J.J. Bronckers, et al. (1995). BMP-7 is an inducer of nephrogenesis, and is also required for eye development and skeletal patterning. *Genes & Development*. [https://doi.org/10.1101/gad.9.22.2808](https://doi.org/10.1101/gad.9.22.2808)
 
-[9] Andrew T. Dudley, Karen M. Lyons, Elizabeth J. Robertson. (1995). A requirement for bone morphogenetic protein-7 during development of the mammalian kidney and eye. Genes & Development. https://doi.org/10.1101/gad.9.22.2795
+<a id="ref-8" name="ref-8"></a>[8] Taro Tsujimura, Mana Idei, Masahiro Yoshikawa, et al. (2016). Roles and regulation of bone morphogenetic protein-7 in kidney development and diseases. *World Journal of Stem Cells*. [https://doi.org/10.4252/wjsc.v8.i9.288](https://doi.org/10.4252/wjsc.v8.i9.288)
 
-[10] Mary Taglienti, Daniel Graf, Valerié Schumacher, et al. (2022). Bmp7 drives proximal tubule expansion and determines nephron number in the developing kidney. Development. https://doi.org/10.1242/dev.200773
+<a id="ref-9" name="ref-9"></a>[9] Andrew T. Dudley, Karen M. Lyons, Elizabeth J. Robertson. (1995). A requirement for bone morphogenetic protein-7 during development of the mammalian kidney and eye. *Genes & Development*. [https://doi.org/10.1101/gad.9.22.2795](https://doi.org/1101/gad.9.22.2795)
 
-[11] Daniel R Halloran, Hilary W Durbano, Anja Nohe. (2020). Bone Morphogenetic Protein-2 in Development and Bone Homeostasis. Journal of Developmental Biology. https://doi.org/10.3390/jdb8030019
+<a id="ref-10" name="ref-10"></a>[10] Mary Taglienti, Daniel Graf, Valerié Schumacher, et al. (2022). Bmp7 drives proximal tubule expansion and determines nephron number in the developing kidney. *Development*. [https://doi.org/10.1242/dev.200773](https://doi.org/1242/dev.200773)
 
-[12] Q. Wei, Andrew W. Holle, Jie Li, et al. (2020). BMP-2 Signaling and Mechanotransduction Synergize to Drive Osteogenic Differentiation via YAP/TAZ. Advanced Science. https://doi.org/10.1002/advs.201902931
+<a id="ref-11" name="ref-11"></a>[11] Daniel R Halloran, Hilary W Durbano, Anja Nohe. (2020). Bone Morphogenetic Protein-2 in Development and Bone Homeostasis. *Journal of Developmental Biology*. [https://doi.org/10.3390/jdb8030019](https://doi.org/10.3390/jdb8030019)
 
-[13] I. G. P. H. Sanjaya, Sri Maliawan. (2022). The role of Bone Morphogenetic Protein-2 in craniofacial osteogenesis. Intisari Sains Medis. https://doi.org/10.15562/ism.v13i2.1290
+<a id="ref-12" name="ref-12"></a>[12] Q. Wei, Andrew W. Holle, Jie Li, et al. (2020). BMP-2 Signaling and Mechanotransduction Synergize to Drive Osteogenic Differentiation via YAP/TAZ. *Advanced Science*. [https://doi.org/10.1002/advs.201902931](https://doi.org/10.1002/advs.201902931)
 
-[14] Jong-bin Lee, Ji-Youn Hong, H. Shim, et al. (2025). Bone morphogenetic protein-2-derived osteogenic peptide promotes bone regeneration via osteoblastogenesis. Regenerative Therapy. https://doi.org/10.1016/j.reth.2025.09.006
+<a id="ref-13" name="ref-13"></a>[13] I. G. P. H. Sanjaya, Sri Maliawan. (2022). The role of Bone Morphogenetic Protein-2 in craniofacial osteogenesis. *Intisari Sains Medis*. [https://doi.org/10.15562/ism.v13i2.1290](https://doi.org/10.15562/ism.v13i2.1290)
 
-[15] Fei Jiang, Xuanyu Qi, Xiaolin Wu, et al. (2023). Regulating macrophage-MSC interaction to optimize BMP-2-induced osteogenesis in the local microenvironment. Bioactive Materials. https://doi.org/10.1016/j.bioactmat.2023.02.001
+<a id="ref-14" name="ref-14"></a>[14] Jong-bin Lee, Ji-Youn Hong, H. Shim, et al. (2025). Bone morphogenetic protein-2-derived osteogenic peptide promotes bone regeneration via osteoblastogenesis. *Regenerative Therapy*. [https://doi.org/10.1016/j.reth.2025.09.006](https://doi.org/10.1016/j.reth.2025.09.006)
 
-[16] Myung-Jin Kim, S. Park, Hae Ryung Chang, et al. (2017). Clinical significance linked to functional defects in bone morphogenetic protein type 2 receptor, BMPR2. BMB Reports. https://doi.org/10.5483/bmbrep.2017.50.6.059
+<a id="ref-15" name="ref-15"></a>[15] Fei Jiang, Xuanyu Qi, Xiaolin Wu, et al. (2023). Regulating macrophage-MSC interaction to optimize BMP-2-induced osteogenesis in the local microenvironment. *Bioactive Materials*. [https://doi.org/10.1016/j.bioactmat.2023.02.001](https://doi.org/10.1016/j.bioactmat.2023.02.001)
 
-[17] Newton Suwal, Saurav Kumar Jha, Rajan Thapa, et al. (2026). Targeting BMP2 signaling pathway in osteogenesis and osteoarthritis. Cellular Signalling. https://doi.org/10.1016/j.cellsig.2026.112482
+<a id="ref-16" name="ref-16"></a>[16] Myung-Jin Kim, S. Park, Hae Ryung Chang, et al. (2017). Clinical significance linked to functional defects in bone morphogenetic protein type 2 receptor, BMPR2. *BMB Reports*. [https://doi.org/10.5483/bmbrep.2017.50.6.059](https://doi.org/10.5483/bmbrep.2017.50.6.059)
 
-[18] Mengrui Wu, Shali Wu, Wei Chen, Yi-Ping Li. (2024). The roles and regulatory mechanisms of TGF-β and BMP signaling in bone and cartilage development, homeostasis and disease. Cell Research. https://doi.org/10.1038/s41422-023-00918-9
+<a id="ref-17" name="ref-17"></a>[17] Newton Suwal, Saurav Kumar Jha, Rajan Thapa, et al. (2026). Targeting BMP2 signaling pathway in osteogenesis and osteoarthritis. *Cellular Signalling*. [https://doi.org/10.1016/j.cellsig.2026.112482](https://doi.org/10.1016/j.cellsig.2026.112482)
 
-[19] Siyu Zhu, Wei Chen, Alasdair Masson, Yiping Li. (2024). Cell signaling and transcriptional regulation of osteoblast lineage commitment, differentiation, bone formation, and homeostasis. Cell Discovery. https://doi.org/10.1038/s41421-024-00689-6
+<a id="ref-18" name="ref-18"></a>[18] Mengrui Wu, Shali Wu, Wei Chen, Yi-Ping Li. (2024). The roles and regulatory mechanisms of TGF-β and BMP signaling in bone and cartilage development, homeostasis and disease. *Cell Research*. [https://doi.org/10.1038/s41422-023-00918-9](https://doi.org/10.1038/s41422-023-00918-9)
 
-[20] Jonathan W. Lowery, Vicki Rosen. (2018). The BMP Pathway and Its Inhibitors in the Skeleton. Physiological Reviews. https://doi.org/10.1152/physrev.00028.2017
+<a id="ref-19" name="ref-19"></a>[19] Siyu Zhu, Wei Chen, Alasdair Masson, Yiping Li. (2024). Cell signaling and transcriptional regulation of osteoblast lineage commitment, differentiation, bone formation, and homeostasis. *Cell Discovery*. [https://doi.org/10.1038/s41421-024-00689-6](https://doi.org/10.1038/s41421-024-00689-6)
 
-[21] Analia Yogi, Ryosei Iemura, Hisae Nakatani, et al. (2023). BMP2 is a potential causative gene for isolated dextrocardia situs solitus. European journal of medical genetics. https://doi.org/10.1016/j.ejmg.2023.104820
+<a id="ref-20" name="ref-20"></a>[20] Jonathan W. Lowery, Vicki Rosen. (2018). The BMP Pathway and Its Inhibitors in the Skeleton. *Physiological Reviews*. [https://doi.org/1152/physrev.00028.2017](https://doi.org/1152/physrev.00028.2017)
 
-[22] Belén Prados, Paula Gómez-Apiñániz, Tania Papoutsi, et al. (2018). Myocardial Bmp2 gain causes ectopic EMT and promotes cardiomyocyte proliferation and immaturity. Cell Death & Disease. https://doi.org/10.1038/s41419-018-0442-z
+<a id="ref-21" name="ref-21"></a>[21] Analia Yogi, Ryosei Iemura, Hisae Nakatani, et al. (2023). BMP2 is a potential causative gene for isolated dextrocardia situs solitus. *European Journal of Medical Genetics*. [https://doi.org/10.1016/j.ejmg.2023.104820](https://doi.org/10.1016/j.ejmg.2023.104820)
 
-[23] V. Perez-Garcia, E. Fineberg, Robert Wilson, et al. (2018). Placentation defects are highly prevalent in embryonic lethal mouse mutants. Nature. https://doi.org/10.1038/nature26002
+<a id="ref-22" name="ref-22"></a>[22] Belén Prados, Paula Gómez-Apiñániz, Tania Papoutsi, et al. (2018). Myocardial Bmp2 gain causes ectopic EMT and promotes cardiomyocyte proliferation and immaturity. *Cell Death & Disease*. [https://doi.org/10.1038/s41419-018-0442-z](https://doi.org/10.1038/s41419-018-0442-z)
 
-[24] Jacob G. Saxon, Daniel R. Baer, J. Barton, et al. (2017). BMP2 expression in the endocardial lineage is required for AV endocardial cushion maturation and remodeling. Developmental biology. https://doi.org/10.1016/j.ydbio.2017.08.008
+<a id="ref-23" name="ref-23"></a>[23] V. Perez-Garcia, E. Fineberg, Robert Wilson, et al. (2018). Placentation defects are highly prevalent in embryonic lethal mouse mutants. *Nature*. [https://doi.org/10.1038/nature26002](https://doi.org/10.1038/nature26002)
 
-[25] Mingxia Du, H. Jiang, Hongxiang Liu, et al. (2021). Single-cell RNA sequencing reveals that BMPR2 mutation regulates right ventricular function via ID genes. European Respiratory Journal. https://doi.org/10.1183/13993003.00327-2021
+<a id="ref-24" name="ref-24"></a>[24] Jacob G. Saxon, Daniel R. Baer, J. Barton, et al. (2017). BMP2 expression in the endocardial lineage is required for AV endocardial cushion maturation and remodeling. *Developmental Biology*. [https://doi.org/10.1016/j.ydbio.2017.08.008](https://doi.org/10.1016/j.ydbio.2017.08.008)
 
-[27] Lijiang Ma, Mei-Fang Lu, Robert J. Schwartz, James F. Martin. (2005). Bmp2 is essential for cardiac cushion epithelial-mesenchymal transition and myocardial patterning. Development. https://doi.org/10.1242/dev.02156
+<a id="ref-25" name="ref-25"></a>[25] Mingxia Du, H. Jiang, Hongxiang Liu, et al. (2021). Single-cell RNA sequencing reveals that BMPR2 mutation regulates right ventricular function via ID genes. *European Respiratory Journal*. [https://doi.org/10.1183/13993003.00327-2021](https://doi.org/10.1183/13993003.00327-2021)
 
-[28] Lara Feulner, Patrick van Vliet, Michel Pucéat, Grégor Andelfinger. (2022). Endocardial Regulation of Cardiac Development. Journal of Cardiovascular Development and Disease. https://doi.org/10.3390/jcdd9050122
+<a id="ref-27" name="ref-27"></a>[27] Lijiang Ma, Mei-Fang Lu, Robert J. Schwartz, James F. Martin. (2005). Bmp2 is essential for cardiac cushion epithelial-mesenchymal transition and myocardial patterning. *Development*. [https://doi.org/1242/dev.02156](https://doi.org/1242/dev.02156)
 
-[29] Mingjie Zheng, Shannon Erhardt, Di Ai, Jun Wang. (2021). Bmp Signaling Regulates Hand1 in a Dose-Dependent Manner during Heart Development. International Journal of Molecular Sciences. https://doi.org/10.3390/ijms22189835
+<a id="ref-28" name="ref-28"></a>[28] Lara Feulner, Patrick van Vliet, Michel Pucéat, Grégor Andelfinger. (2022). Endocardial Regulation of Cardiac Development. *Journal of Cardiovascular Development and Disease*. [https://doi.org/10.3390/jcdd9050122](https://doi.org/10.3390/jcdd9050122)
 
-[31] Yining Zhang, Yixin Zhao, Zhengsong Xie, et al. (2022). Activating Wnt/β-Catenin Signaling in Osteocytes Promotes Osteogenic Differentiation of BMSCs through BMP-7. International Journal of Molecular Sciences. https://doi.org/10.3390/ijms232416045
+<a id="ref-29" name="ref-29"></a>[29] Mingjie Zheng, Shannon Erhardt, Di Ai, Jun Wang. (2021). Bmp Signaling Regulates Hand1 in a Dose-Dependent Manner during Heart Development. *International Journal of Molecular Sciences*. [https://doi.org/10.3390/ijms22189835](https://doi.org/10.3390/ijms22189835)
 
-[32] K. Sampath, L. Grgurević, S. Vukicevic. (2017). Bone Morphogenetic Protein-7 and Its Role in Acute Kidney Injury and Chronic Kidney Failure. Bone Morphogenetic Proteins: Systems Biology Regulators. https://doi.org/10.1007/978-3-319-47507-3_12
+<a id="ref-31" name="ref-31"></a>[31] Yining Zhang, Yixin Zhao, Zhengsong Xie, et al. (2022). Activating Wnt/β-Catenin Signaling in Osteocytes Promotes Osteogenic Differentiation of BMSCs through BMP-7. *International Journal of Molecular Sciences*. [https://doi.org/10.3390/ijms232416045](https://doi.org/10.3390/ijms232416045)
 
-[33] Mei Takano, S. Toda, Hiroshi Watanabe, et al. (2022). Engineering of a Long-Acting Bone Morphogenetic Protein-7 by Fusion with Albumin for the Treatment of Renal Injury. Pharmaceutics. https://doi.org/10.3390/pharmaceutics14071334
+<a id="ref-32" name="ref-32"></a>[32] K. Sampath, L. Grgurević, S. Vukicevic. (2017). Bone Morphogenetic Protein-7 and Its Role in Acute Kidney Injury and Chronic Kidney Failure. *Bone Morphogenetic Proteins: Systems Biology Regulators*. [https://doi.org/10.1007/978-3-319-47507-3_12](https://doi.org/10.1007/978-3-319-47507-3_12)
 
-[34] S. Scarfì. (2016). Use of bone morphogenetic proteins in mesenchymal stem cell stimulation of cartilage and bone repair. World journal of stem cells. https://doi.org/10.4252/wjsc.v8.i1.1
+<a id="ref-33" name="ref-33"></a>[33] Mei Takano, S. Toda, Hiroshi Watanabe, et al. (2022). Engineering of a Long-Acting Bone Morphogenetic Protein-7 by Fusion with Albumin for the Treatment of Renal Injury. *Pharmaceutics*. [https://doi.org/10.3390/pharmaceutics14071334](https://doi.org/10.3390/pharmaceutics14071334)
 
-[35] Chandrakala Aluganti Narasimhulu, D. Singla. (2020). The Role of Bone Morphogenetic Protein 7 (BMP-7) in Inflammation in Heart Diseases. Cells. https://doi.org/10.3390/cells9020280
+<a id="ref-34" name="ref-34"></a>[34] S. Scarfì. (2016). Use of bone morphogenetic proteins in mesenchymal stem cell stimulation of cartilage and bone repair. *World Journal of Stem Cells*. [https://doi.org/10.4252/wjsc.v8.i1](https://doi.org/10.4252/wjsc.v8.i1)
 
-[36] Heng Wang, Yaling Li, Guoping Zheng. (2026). BMP7 in kidney development and disease: a multilayer regulatory network integrating inflammation, fibrosis, and regeneration. Cell Signaling, Inflammation & Disease. https://doi.org/10.1186/s44505-026-00002-0
+<a id="ref-35" name="ref-35"></a>[35] Chandrakala Aluganti Narasimhulu, D. Singla. (2020). The Role of Bone Morphogenetic Protein 7 (BMP-7) in Inflammation in Heart Diseases. *Cells*. [https://doi.org/10.3390/cells9020280](https://doi.org/10.3390/cells9020280)
 
-[37] Thomas Maurer, G. Zimmermann, Susanne Maurer, et al. (2012). Inhibition of Osteoclast Generation: A Novel Function of the Bone Morphogenetic Protein 7/Osteogenic Protein 1. Mediators of Inflammation. https://doi.org/10.1155/2012/171209
+<a id="ref-36" name="ref-36"></a>[36] Heng Wang, Yaling Li, Guoping Zheng. (2026). BMP7 in kidney development and disease: a multilayer regulatory network integrating inflammation, fibrosis, and disease. *Cell Signaling, Inflammation & Disease*. [https://doi.org/10.1186/s44505-026-00002-0](https://doi.org/10.1186/s44505-026-00002-0)
 
-[38] Kate E. Gregory, Robert N. Ono, Noé L. Charbonneau, et al. (2005). The Prodomain of BMP-7 Targets the BMP-7 Complex to the Extracellular Matrix. Journal of Biological Chemistry. https://doi.org/10.1074/jbc.m504270200
+<a id="ref-37" name="ref-37"></a>[37] Thomas Maurer, G. Zimmermann, Susanne Maurer, et al. (2012). Inhibition of Osteoclast Generation: A Novel Function of the Bone Morphogenetic Protein 7/Osteogenic Protein 1. *Mediators of Inflammation*. [https://doi.org/10.1155/2012/171209](https://doi.org/10.1155/2012/171209)
 
-[39] Scott R. Manson, Paul F. Austin, Qiusha Guo, Katelynn Moore. (2015). BMP-7 Signaling and its Critical Roles in Kidney Development, the Responses to Renal Injury, and Chronic Kidney Disease. Vitamins & Hormones. https://doi.org/10.1016/bs.vh.2015.05.003
+<a id="ref-38" name="ref-38"></a>[38] Kate E. Gregory, Robert N. Ono, Noé L. Charbonneau, et al. (2005). The Prodomain of BMP-7 Targets the BMP-7 Complex to the Extracellular Matrix. *Journal of Biological Chemistry*. [https://doi.org/10.1074/jbc.m504270200](https://doi.org/10.1074/jbc.m504270200)
 
-[41] Zhi Wang, Xing-yuan Liu, Chen-Xi Yang, et al. (2024). Discovery and functional investigation of BMP4 as a new causative gene for human congenital heart disease. American journal of translational research. https://doi.org/10.62347/dgcd4269
+<a id="ref-39" name="ref-39"></a>[39] Scott R. Manson, Paul F. Austin, Qiusha Guo, Katelynn Moore. (2015). BMP-7 Signaling and its Critical Roles in Kidney Development, the Responses to Renal Injury, and Chronic Kidney Disease. *Vitamins & Hormones*. [https://doi.org/10.1016/bs.vh.2015.05.003](https://doi.org/10.1016/bs.vh.2015.05.003)
 
-[42] V. Velecela, A. Torres-Cano, Ana García-Melero, et al. (2019). Epicardial cell shape and maturation are regulated by Wt1 via transcriptional control of Bmp4. Development. https://doi.org/10.1242/dev.178723
+<a id="ref-41" name="ref-41"></a>[41] Zhi Wang, Xing-yuan Liu, Chen-Xi Yang, et al. (2024). Discovery and functional investigation of BMP4 as a new causative gene for human congenital heart disease. *American Journal of Translational Research*. [https://doi.org/10.62347/dgcd4269](https://doi.org/10.62347/dgcd4269)
 
-[43] Yan Bai, Jun Wang, Y. Morikawa, et al. (2013). Bmp signaling represses Vegfa to promote outflow tract cushion development. Development. https://doi.org/10.1242/dev.097360
+<a id="ref-42" name="ref-42"></a>[42] V. Velecela, A. Torres-Cano, Ana García-Melero, et al. (2019). Epicardial cell shape and maturation are regulated by Wt1 via transcriptional control of Bmp4. *Development*. [https://doi.org/1242/dev.178723](https://doi.org/1242/dev.178723)
 
-[44] Pavel Tsaytler, Jinhua Liu, Gaby Blaess, et al. (2023). BMP4 triggers regulatory circuits specifying the cardiac mesoderm lineage. Development. https://doi.org/10.1242/dev.201450
+<a id="ref-43" name="ref-43"></a>[43] Yan Bai, Jun Wang, Y. Morikawa, et al. (2013). Bmp signaling represses Vegfa to promote outflow tract cushion development. *Development*. [https://doi.org/1242/dev.097360](https://doi.org/1242/dev.097360)
 
-[45] Claire R. Weston, Anthony Wong, J. Perry Hall, et al. (2003). JNK initiates a cytokine cascade that causes Pax2 expression and closure of the optic fissure. Genes & Development. https://doi.org/10.1101/gad.1087303
+<a id="ref-44" name="ref-44"></a>[44] Pavel Tsaytler, Jinhua Liu, Gaby Blaess, et al. (2023). BMP4 triggers regulatory circuits specifying the cardiac mesoderm lineage. *Development*. [https://doi.org/1242/dev.201450](https://doi.org/1242/dev.201450)
 
-[46] Brigid L.M. Hogan, Kathleen K. Sulik, Deborah B. Dehart, Takeshi Fujiwara. (2021). Distinct requirements for extra-embryonic and embryonic bone morphogenetic protein 4 in the formation of the node and primitive streak and coordination of left-right asymmetry in the mouse. https://doi.org/10.17615/qmj5-3235
+<a id="ref-45" name="ref-45"></a>[45] Claire R. Weston, Anthony Wong, J. Perry Hall, et al. (2003). JNK initiates a cytokine cascade that causes Pax2 expression and closure of the optic fissure. *Genes & Development*. [https://doi.org/10.1101/gad.1087303](https://doi.org/10.1101/gad.1087303)
 
-[47] Yasuhide Furuta, Brigid L.M. Hogan. (1998). BMP4 is essential for lens induction in the mouse embryo. Genes & Development. https://doi.org/10.1101/gad.12.23.3764
+<a id="ref-46" name="ref-46"></a>[46] Brigid L.M. Hogan, Kathleen K. Sulik, Deborah B. Dehart, Takeshi Fujiwara. (2021). Distinct requirements for extra-embryonic and embryonic bone morphogenetic protein 4 in the formation of the node and primitive streak and coordination of left-right asymmetry in the mouse. [https://doi.org/10.17615/qmj5-3235](https://doi.org/10.17615/qmj5-3235)
 
-[48] Hyungseok Kim, Mary L Sanchez, Joshua Silva, et al. (2025). Mutations that prevent phosphorylation of the BMP4 prodomain impair proteolytic maturation of homodimers leading to lethality in mice. eLife. https://doi.org/10.7554/elife.105018
+<a id="ref-47" name="ref-47"></a>[47] Yasuhide Furuta, Brigid L.M. Hogan. (1998). BMP4 is essential for lens induction in the mouse embryo. *Genes & Development*. [https://doi.org/10.1101/gad.12.23.3764](https://doi.org/10.1101/gad.12.23.3764)
 
-[49] Anup Tilak, Sylvia Nelsen, Hyung-Seok Kim, et al. (2014). Simultaneous rather than ordered cleavage of two sites within the BMP4 prodomain leads to loss of ligand in mice. Development. https://doi.org/10.1242/dev.110130
+<a id="ref-48" name="ref-48"></a>[48] Hyungseok Kim, Mary L Sanchez, Joshua Silva, et al. (2025). Mutations that prevent phosphorylation of the BMP4 prodomain impair proteolytic maturation of homodimers leading to lethality in mice. *eLife*. [https://doi.org/10.7554/elife.105018](https://doi.org/10.7554/elife.105018)
 
-[50] R. Baboota, M. Blüher, U. Smith. (2021). Emerging Role of Bone Morphogenetic Protein 4 in Metabolic Disorders. Diabetes. https://doi.org/10.2337/db20-0884
+<a id="ref-49" name="ref-49"></a>[49] Anup Tilak, Sylvia Nelsen, Hyung-Seok Kim, et al. (2014). Simultaneous rather than ordered cleavage of two sites within the BMP4 prodomain leads to loss of ligand in mice. *Development*. [https://doi.org/1242/dev.110130](https://doi.org/1242/dev.110130)
 
-[51] Xiaoheng Li, Yinghui Fang, Lanlan Chen, et al. (2022). Bone morphogenetic protein 4 inhibits rat stem/progenitor Leydig cell development and regeneration via SMAD-dependent and SMAD-independent signaling. Cell Death & Disease. https://doi.org/10.1038/s41419-022-05471-8
+<a id="ref-50" name="ref-50"></a>[50] R. Baboota, M. Blüher, U. Smith. (2021). Emerging Role of Bone Morphogenetic Protein 4 in Metabolic Disorders. *Diabetes*. [https://doi.org/10.2337/db20-0884](https://doi.org/10.2337/db20-0884)
 
-[52] Yuer Ye, Zhiwei Jiang, Yiqi Pan, et al. (2022). Role and mechanism of BMP4 in bone, craniofacial, and tooth development. Archives of oral biology. https://doi.org/10.1016/j.archoralbio.2022.105465
+<a id="ref-51" name="ref-51"></a>[51] Xiaoheng Li, Yinghui Fang, Lanlan Chen, et al. (2022). Bone morphogenetic protein 4 inhibits rat stem/progenitor Leydig cell development and regeneration via SMAD-dependent and SMAD-independent signaling. *Cell Death & Disease*. [https://doi.org/10.1038/s41419-022-05471-8](https://doi.org/10.1038/s41419-022-05471-8)
 
-[53] Dongyong Yang, Xiao Yang, Fangfang Dai, et al. (2021). The Role of Bone Morphogenetic Protein 4 in Ovarian Function and Diseases. Reproductive Sciences. https://doi.org/10.1007/s43032-021-00600-8
+<a id="ref-52" name="ref-52"></a>[52] Yuer Ye, Zhiwei Jiang, Yiqi Pan, et al. (2022). Role and mechanism of BMP4 in bone, craniofacial, and tooth development. *Archives of Oral Biology*. [https://doi.org/10.1016/j.archoralbio.2022.105465](https://doi.org/10.1016/j.archoralbio.2022.105465)
 
-[54] Takuya Akiyama, L. Raftery, K. A. Wharton. (2023). Bone morphogenetic protein signaling: the pathway and its regulation. Genetics. https://doi.org/10.1093/genetics/iyad200
+<a id="ref-53" name="ref-53"></a>[53] Dongyong Yang, Xiao Yang, Fangfang Dai, et al. (2021). The Role of Bone Morphogenetic Protein 4 in Ovarian Function and Diseases. *Reproductive Sciences*. [https://doi.org/10.1007/s43032-021-00600-8](https://doi.org/10.1007/s43032-021-00600-8)
 
-[55] Ruijuan Guan, Liang Yuan, Jingpei Li, et al. (2022). Bone morphogenetic protein 4 inhibits pulmonary fibrosis by modulating cellular senescence and mitophagy in lung fibroblasts. European Respiratory Journal. https://doi.org/10.1183/13993003.02307-2021
+<a id="ref-54" name="ref-54"></a>[54] Takuya Akiyama, L. Raftery, K. A. Wharton. (2023). Bone morphogenetic protein signaling: the pathway and its regulation. *Genetics*. [https://doi.org/10.1093/genetics/iyad200](https://doi.org/10.1093/genetics/iyad200)
 
-[56] R. Michael Roberts, Toshihiko Ezashi, Jasmine Temple, et al. (2022). The role of BMP4 signaling in trophoblast emergence from pluripotency. Cellular and Molecular Life Sciences. https://doi.org/10.1007/s00018-022-04478-w
+<a id="ref-55" name="ref-55"></a>[55] Ruijuan Guan, Liang Yuan, Jingpei Li, et al. (2022). Bone morphogenetic protein 4 inhibits pulmonary fibrosis by modulating cellular senescence and mitophagy. *European Respiratory Journal*. [https://doi.org/10.1183/13993003.02307-2021](https://doi.org/10.1183/13993003.02307-2021)
 
-[57] B L Hogan. (1996). Bone morphogenetic proteins: multifunctional regulators of vertebrate development. Genes & Development. https://doi.org/10.1101/gad.10.13.1580
+<a id="ref-56" name="ref-56"></a>[56] R. Michael Roberts, Toshihiko Ezashi, Jasmine Temple, et al. (2022). The role of BMP4 signaling in trophoblast emergence from pluripotency. *Cellular and Molecular Life Sciences*. [https://doi.org/10.1007/s00018-022-04478-w](https://doi.org/10.1007/s00018-022-04478-w)
 
-[58] Ron Hadas, Hernan Rubinstein, Markus Mittnenzweig, et al. (2024). Temporal BMP4 effects on mouse embryonic and extraembryonic development. Nature. https://doi.org/10.1038/s41586-024-07937-5
+<a id="ref-57" name="ref-57"></a>[57] B L Hogan. (1996). Bone morphogenetic proteins: multifunctional regulators of vertebrate development. *Genes & Development*. [https://doi.org/10.1101/gad.10.13.1580](https://doi.org/10.1101/gad.10.13.1580)
 
-[59] Yan-Yi Xing, Ying Huang, Tao Cheng, et al. (2025). BMP4 initiates and patterns ventral-caudal structures in zebrafish and human pluripotent stem cell aggregates. The EMBO Journal. https://doi.org/10.1038/s44318-025-00643-6
+<a id="ref-58" name="ref-58"></a>[58] Ron Hadas, Hernan Rubinstein, Markus Mittnenzweig, et al. (2024). Temporal BMP4 effects on mouse embryonic and extraembryonic development. *Nature*. [https://doi.org/10.1038/s41586-024-07937-5](https://doi.org/10.1038/s41586-024-07937-5)
 
-[60] C. Glister, S. L. Regan, Moafaq Samir, et al. (2019). Gremlin, Noggin, Chordin and follistatin differentially modulate BMP induced suppression of androgen secretion by bovine ovarian theca cells. Journal of molecular endocrinology. https://doi.org/10.1530/jme-18-0198
+<a id="ref-59" name="ref-59"></a>[59] Yan-Yi Xing, Ying Huang, Tao Cheng, et al. (2025). BMP4 initiates and patterns ventral-caudal structures in zebrafish and human pluripotent stem cell aggregates. *The EMBO Journal*. [https://doi.org/10.1038/s44318-025-00643-6](https://doi.org/10.1038/s44318-025-00643-6)
 
-[62] Zhuo Xie, Gaoshi Zhou, Mudan Zhang, et al. (2023). Recent developments on BMPs and their antagonists in inflammatory bowel diseases. Cell Death Discovery. https://doi.org/10.1038/s41420-023-01520-z
+<a id="ref-60" name="ref-60"></a>[60] C. Glister, S. L. Regan, Moafaq Samir, et al. (2019). Gremlin, Noggin, Chordin and follistatin differentially modulate BMP induced suppression of androgen secretion by bovine theca cells. *Journal of Molecular Endocrinology*. [https://doi.org/10.1530/jme-18-0198](https://doi.org/10.1530/jme-18-0198)
 
-[64] D. Brazil, Rachel H. Church, Satnam Surae, et al. (2015). BMP signalling: agony and antagony in the family. Trends in cell biology. https://doi.org/10.1016/j.tcb.2014.12.004
+<a id="ref-62" name="ref-62"></a>[62] Zhuo Xie, Gaoshi Zhou, Mudan Zhang, et al. (2023). Recent developments on BMPs and their antagonists in inflammatory bowel diseases. *Cell Death Discovery*. [https://doi.org/10.1038/s41420-023-01520-z](https://doi.org/10.1038/s41420-023-01520-z)
 
-[66] Annkatrin Correns, Laura-Marie A. Zimmermann, Clair Baldock, Gerhard Sengle. (2021). BMP antagonists in tissue development and disease. Matrix Biology Plus. https://doi.org/10.1016/j.mbplus.2021.100071
+<a id="ref-64" name="ref-64"></a>[64] D. Brazil, Rachel H. Church, Satnam Surae, et al. (2015). BMP signalling: agony and antagony in the family. *Trends in Cell Biology*. [https://doi.org/10.1016/j.tcb.2014.12.004](https://doi.org/10.1016/j.tcb.2014.12.004)
 
-[67] Chenbei Chang. (2016). Agonists and Antagonists of TGF-β Family Ligands. Cold Spring Harbor Perspectives in Biology. https://doi.org/10.1101/cshperspect.a021923
+<a id="ref-66" name="ref-66"></a>[66] Annkatrin Correns, Laura-Marie A. Zimmermann, Clair Baldock, Gerhard Sengle. (2021). BMP antagonists in tissue development and disease. *Matrix Biology Plus*. [https://doi.org/10.1016/j.mbplus.2021.100071](https://doi.org/10.1016/j.mbplus.2021.100071)
 
-[68] Charly Robert, Frédéric Kerff, Fabrice Bouillenne, et al. (2023). Structural analysis of the interaction between human cytokine BMP-2 and the antagonist Noggin reveals molecular details of cell chondrogenesis inhibition. Journal of Biological Chemistry. https://doi.org/10.1016/j.jbc.2023.102892
+<a id="ref-67" name="ref-67"></a>[67] Chenbei Chang. (2016). Agonists and Antagonists of TGF-β Family Ligands. *Cold Spring Harbor Perspectives in Biology*. [https://doi.org/10.1101/cshperspect.a021923](https://doi.org/10.1101/cshperspect.a021923)
 
-[69] Edward M. De Robertis, Yuki Moriyama. (2016). The Chordin Morphogenetic Pathway. Current Topics in Developmental Biology. https://doi.org/10.1016/bs.ctdb.2015.10.003
+<a id="ref-68" name="ref-68"></a>[68] Charly Robert, Frédéric Kerff, Fabrice Bouillenne, et al. (2023). Structural analysis of the interaction between human cytokine BMP-2 and the antagonist Noggin reveals molecular details of cell chondrogenesis inhibition. *Journal of Biological Chemistry*. [https://doi.org/10.1016/j.jbc.2023.102892](https://doi.org/10.1016/j.jbc.2023.102892)
 
-[71] E. Williams, A. Bullock. (2017). Structural basis for the potent and selective binding of LDN-212854 to the BMP receptor kinase ALK2. Bone. https://doi.org/10.1016/j.bone.2017.09.004
+<a id="ref-69" name="ref-69"></a>[69] Edward M. De Robertis, Yuki Moriyama. (2016). The Chordin Morphogenetic Pathway. *Current Topics in Developmental Biology*. [https://doi.org/10.1016/bs.ctdb.2015.10.003](https://doi.org/10.1016/bs.ctdb.2015.10.003)
 
-[72] R. Franco, Eamonn McKenna, P. Robey, et al. (2022). Inhibition of BMP signaling with LDN 193189 can influence bone marrow stromal cell fate but does not prevent hypertrophy during chondrogenesis. Stem Cell Reports. https://doi.org/10.1016/j.stemcr.2022.01.016
+<a id="ref-71" name="ref-71"></a>[71] E. Williams, A. Bullock. (2017). Structural basis for the potent and selective binding of LDN-212854 to the BMP receptor kinase ALK2. *Bone*. [https://doi.org/10.1016/j.bone.2017.09.004](https://doi.org/10.1016/j.bone.2017.09.004)
 
-[74] Han Chen, Koki Nio, T. Yamashita, et al. (2020). BMP9-ID1 signaling promotes EpCAM-positive cancer stem cell properties in hepatocellular carcinoma. Molecular Oncology. https://doi.org/10.1002/1878-0261.12963
+<a id="ref-72" name="ref-72"></a>[72] R. Franco, Eamonn McKenna, P. Robey, et al. (2022). Inhibition of BMP signaling with LDN 193189 can influence bone marrow stromal cell fate but does not prevent hypertrophy during chondrogenesis. *Stem Cell Reports*. [https://doi.org/10.1016/j.stemcr.2022.01.016](https://doi.org/10.1016/j.stemcr.2022.01.016)
 
-[75] Julien Vollaire, I. Machuca-Gayet, J. Lavaud, et al. (2019). The Bone Morphogenetic Protein Signaling Inhibitor LDN-193189 Enhances Metastasis Development in Mice. Frontiers in Pharmacology. https://doi.org/10.3389/fphar.2019.00667
+<a id="ref-74" name="ref-74"></a>[74] Han Chen, Koki Nio, T. Yamashita, et al. (2020). BMP9-ID1 signaling promotes EpCAM-positive cancer stem cell properties in hepatocellular carcinoma. *Molecular Oncology*. [https://doi.org/10.1002/1878-0261.12963](https://doi.org/10.1002/1878-0261.12963)
 
-[76] Jonathan W. Lowery, Brice Brookshire, Vicki Rosen. (2016). A Survey of Strategies to Modulate the Bone Morphogenetic Protein Signaling Pathway. Stem Cells International. https://doi.org/10.1155/2016/7290686
+<a id="ref-75" name="ref-75"></a>[75] Julien Vollaire, I. Machuca-Gayet, J. Lavaud, et al. (2019). The Bone Morphogenetic Protein Signaling Inhibitor LDN-193189 Enhances Metastasis Development in Mice. *Frontiers in Pharmacology*. [https://doi.org/10.3389/fphar.2019.00667](https://doi.org/10.3389/fphar.2019.00667)
 
-[77] Abdelaziz Alsamarah, Alecander E. LaCuran, Peter Oelschlaeger, et al. (2015). Uncovering Molecular Bases Underlying Bone Morphogenetic Protein Receptor Inhibitor Selectivity. PLOS ONE. https://doi.org/10.1371/journal.pone.0132221
+<a id="ref-76" name="ref-76"></a>[76] Jonathan W. Lowery, Brice Brookshire, Vicki Rosen. (2016). A Survey of Strategies to Modulate the Bone Morphogenetic Protein Signaling Pathway. *Stem Cells International*. [https://doi.org/10.1155/2016/7290686](https://doi.org/10.1155/2016/7290686)
 
-[78] Imran Ali, Derek P. Brazil. (2014). Bone morphogenetic proteins and their antagonists: current and emerging clinical uses. British Journal of Pharmacology. https://doi.org/10.1111/bph.12724
+## References
+<a id="ref77" name="ref77"></a>[77] Abdelaziz Alsamarah, Alecander E. LaCuran, Peter Oelschlaeger, et al. (2015). Uncovering Molecular Bases Underlying Bone Morphogenetic Protein Receptor Inhibitor Selectivity. *PLOS ONE*. [https://doi.org/10.1371/journal.pone.0132221](https://doi.org/10.1371/journal.pone.0132221)
 
-[79] J. Vogt, Ryan Traynor, Gopal P. Sapkota. (2011). The specificities of small molecule inhibitors of the TGFß and BMP pathways. Cellular Signalling. https://doi.org/10.1016/j.cellsig.2011.06.019
+<a id="ref78" name="ref78"></a>[78] Imran Ali, Derek P. Brazil. (2014). Bone morphogenetic proteins and their antagonists: current and emerging clinical uses. *British Journal of Pharmacology*. [https://doi.org/10.1111/bph.12724](https://doi.org/10.1111/bph.12724)
 
-[80] Daniel Horbelt, Jan H. Boergermann, A. Chaikuad, et al. (2014). Small Molecules Dorsomorphin and LDN-193189 Inhibit Myostatin/GDF8 Signaling and Promote Functional Myoblast Differentiation. Journal of Biological Chemistry. https://doi.org/10.1074/jbc.m114.604397
+<a id="ref79" name="ref79"></a>[79] J. Vogt, Ryan Traynor, Gopal P. Sapkota. (2011). The specificities of small molecule inhibitors of the TGFß and BMP pathways. *Cellular Signalling*. [https://doi.org/10.1016/j.cellsig.2011.06.019](https://doi.org/10.1016/j.cellsig.2011.06.019)
 
-[81] A. Mikryukov, A. Mazine, Bei Wei, et al. (2020). BMP10 Signaling Promotes the Development of Endocardial Cells from Human Pluripotent Stem Cell-Derived Cardiovascular Progenitors. Cell stem cell. https://doi.org/10.1016/j.stem.2020.10.003
+<a id="ref80" name="ref80"></a>[80] Daniel Horbelt, Jan H. Boergermann, A. Chaikuad, et al. (2014). Small Molecules Dorsomorphin and LDN-193189 Inhibit Myostatin/GDF8 Signaling and Promote Functional Myoblast Differentiation. *Journal of Biological Chemistry*. [https://doi.org/10.1074/jbc.m114.604397](https://doi.org/10.1074/jbc.m114.604397)
 
-[82] Xiuxia Qu, Y. Liu, Dayan Cao, et al. (2019). BMP10 preserves cardiac function through its dual activation of SMAD-mediated and STAT3-mediated pathways. Journal of Biological Chemistry. https://doi.org/10.1074/jbc.ra119.010943
+<a id="ref81" name="ref81"></a>[81] A. Mikryukov, A. Mazine, Bei Wei, et al. (2020). BMP10 Signaling Promotes the Development of Endocardial Cells from Human Pluripotent Stem Cell-Derived. *Cell Stem Cell*. [https://doi.org/1016/j.stem.2020.10.003](https://doi.org/1016/j.stem.2020.10.003)
 
-[83] Xueyin Wang, Helin Sun, Haomiao Yu, et al. (2024). Bone morphogenetic protein 10, a rising star in the field of diabetes and cardiovascular disease. Journal of Cellular and Molecular Medicine. https://doi.org/10.1111/jcmm.18324
+<a id="ref82" name="ref82"></a>[82] Xiuxia Qu, Y. Liu, Dayan Cao, et al. (2019). BMP10 preserves cardiac function through its dual activation of SMAD-mediated and STAT3-mediated pathways. *Journal of Biological Chemistry*. [https://doi.org/10.1074/jbc.ra119.010943](https://doi.org/10.1074/jbc.ra119.010943)
 
-[84] Teresa L. Capasso, Bijun Li, Harry J. Volek, et al. (2019). BMP10-mediated ALK1 signaling is continuously required for vascular development and maintenance. Angiogenesis. https://doi.org/10.1007/s10456-019-09701-0
+<a id="ref83" name="ref83"></a>[83] Xueyin Wang, Helin Sun, Haomiao Yu, et al. (2024). Bone morphogenetic protein 10, a rising star in the field of diabetes and cardiovascular disease. *Journal of Cellular and Molecular Medicine*. [https://doi.org/10.1111/jcmm.18324](https://doi.org/10.1111/jcmm.18324)
 
-[85] Milton Packer, J. Butler, J. Ferreira, et al. (2025). Coordinated expression of BMP10/ALK1/endoglin in patients with heart failure: The EMPEROR Program. European Journal of Heart Failure. https://doi.org/10.1002/ejhf.3764
+<a id="ref84" name="ref84"></a>[84] Teresa L. Capasso, Bijun Li, Harry J. Volek, et al. (2019). BMP10-mediated ALK1 signaling is continuously required for vascular development and maintenance. *Angiogenesis*. [https://doi.org/10.1007/s10456-019-09701-0](https://doi.org/10.1007/s10456-019-09701-0)
 
-[86] Xianghu Qu, Cristina Harmelink, H. Baldwin. (2019). Tie2 regulates endocardial sprouting and myocardial trabeculation. JCI insight. https://doi.org/10.1172/jci.insight.96002
+<a id="ref85" name="ref85"></a>[85] Milton Packer, J. Butler, J. Ferreira, et al. (2025). Coordinated expression of BMP10/ALK1/endoglin in patients with heart failure: The EMPEROR Program. *European Journal of Heart Failure*. [https://doi.org/10.1002/ejhf.3764](https://doi.org/10.1002/ejhf.3764)
 
-[87] Hanying Chen, Shu Ping Shi, Lourdes Acosta, et al. (2004). BMP10 is essential for maintaining cardiac growth during murine cardiogenesis. Development. https://doi.org/10.1242/dev.01094
+<a id="ref86" name="ref86"></a>[86] Xianghu Qu, Cristina Harmelink, H. Baldwin. (2019). Tie2 regulates endocardial sprouting and myocardial trabeculation. *JCI Insight*. [https://doi.org/10.1172/jci.insight.96002](https://doi.org/10.1172/jci.insight.96002)
 
-[88] David Gordon, David Cunningham, Gloria Zender, et al. (2022). Exome sequencing in multiplex families with left-sided cardiac defects has high yield for disease gene discovery. PLOS Genetics. https://doi.org/10.1371/journal.pgen.1010236
+<a id="ref87" name="ref87"></a>[87] Hanying Chen, Shu Ping Shi, Lourdes Acosta, et al. (2004). BMP10 is essential for maintaining cardiac growth during murine cardiogenesis. *Development*. [https://doi.org/10.1242/dev.01094](https://doi.org/10.1242/dev.01094)
 
-[89] Xianghu Qu, Cristina Harmelink, H. Scott Baldwin. (2022). Endocardial-Myocardial Interactions During Early Cardiac Differentiation and Trabeculation. Frontiers in Cardiovascular Medicine. https://doi.org/10.3389/fcvm.2022.857581
+<a id="ref88" name="ref88"></a>[88] David Gordon, David Cunningham, Gloria Zender, et al. (2022). Exome sequencing in multiplex families with left-sided cardiac defects has high yield for disease gene discovery. *PLOS Genetics*. [https://doi.org/10.1371/journal.pgen.1010236](https://doi.org/10.1371/journal.pgen.1010236)
 
-[90] Joaquím Grego-Bessa, Luis Luna-Zurita, Gonzalo del Monte-Nieto, et al. (2007). Notch Signaling Is Essential for Ventricular Chamber Development. Developmental Cell. https://doi.org/10.1016/j.devcel.2006.12.011
+<a id="ref89" name="ref89"></a>[89] Xianghu Qu, Cristina Harmelink, H. Scott Baldwin. (2022). Endocardial-Myocardial Interactions During Early Cardiac Differentiation and Trabeculation. *Frontiers in Cardiovascular Medicine*. [https://doi.org/10.3389/fcvm.2022.857581](https://doi.org/10.3389/fcvm.2022.857581)
 
-[92] Dianyuan Zhao, Ziwei Huang, Xiaoyu Li, et al. (2024). GDF2 and BMP10 coordinate liver cellular crosstalk to maintain liver health. eLife. https://doi.org/10.7554/elife.95811
+<a id="ref90" name="ref90"></a>[90] Joaquím Grego-Bessa, Luis Luna-Zurita, Gonzalo del Monte-Nieto, et al. (2007). Notch Signaling Is Essential for Ventricular Chamber Development. *Developmental Cell*. [https://doi.org/10.1016/j.devcel.2006.12.011](https://doi.org/10.1016/j.devcel.2006.12.011)
 
-[93] C. Camaschella, A. Nai, L. Silvestri. (2020). Iron metabolism and iron disorders revisited in the hepcidin era. Haematologica. https://doi.org/10.3324/haematol.2019.232124
+<a id="ref92" name="ref92"></a>[92] Dianyuan Zhao, Ziwei Huang, Xiaoyu Li, et al. (2024). GDF2 and BMP10 coordinate liver cellular crosstalk to maintain liver health. *eLife*. [https://doi.org/10.7554/elife.95811](https://doi.org/10.7554/elife.95811)
 
-[94] Guillaume Courbon, J. J. Thomas, Marta Martinez Calle, et al. (2023). Bone-derived C-terminal FGF23 cleaved peptides increase iron availability in acute inflammation. Blood. https://doi.org/10.1182/blood.2022018475
+<a id="ref93" name="ref93"></a>[93] C. Camaschella, A. Nai, L. Silvestri. (2020). Iron metabolism and iron disorders revisited in the hepcidin era. *Haematologica*. [https://doi.org/10.3324/haematol.2019.232124](https://doi.org/10.3324/haematol.2019.232124)
 
-[95] Chia-Yu Wang, Jodie L Babitt. (2019). Liver iron sensing and body iron homeostasis. Blood. https://doi.org/10.1182/blood-2018-06-815894
+<a id="ref94" name="ref94"></a>[94] Guillaume Courbon, J. J. Thomas, Marta Martinez Calle, et al. (2023). Bone-derived C-terminal FGF23 cleaved peptides increase iron availability in acute inflammation. *Blood*. [https://doi.org/10.1182/blood.2022018475](https://doi.org/10.1182/blood.2022018475)
 
-[96] E. Nemeth, T. Ganz. (2022). Hepcidin and Iron in Health and Disease. Annual review of medicine. https://doi.org/10.1146/annurev-med-043021-032816
+<a id="ref95" name="ref95"></a>[95] Chia-Yu Wang, Jodie L Babitt. (2019). Liver iron sensing and body iron homeostasis. *Blood*. [https://doi.org/10.1182/blood-2018-06-815894](https://doi.org/10.1182/blood-2018-06-815894)
 
-[97] Wei Liu, Z. Deng, Z. Zeng, et al. (2019). Highly expressed BMP9/GDF2 in postnatal mouse liver and lungs. Genes & Diseases. https://doi.org/10.1016/j.gendis.2019.08.003
+<a id="ref96" name="ref96"></a>[96] E. Nemeth, T. Ganz. (2022). Hepcidin and Iron in Health and Disease. *Annual Review of Medicine*. [https://doi.org/10.1146/annurev-med-043021-032816](https://doi.org/10.1146/annurev-med-043021-032816)
 
-[98] Han Chen, Ying-Yi Li, Kouki Nio, Hong Tang. (2024). Unveiling the Impact of BMP9 in Liver Diseases. Biomolecules. https://doi.org/10.3390/biom14081013
+<a id="ref97" name="ref97"></a>[97] Wei Liu, Z. Deng, Z. Zeng, et al. (2019). Highly expressed BMP9/GDF2 in postnatal mouse liver and lungs. *Genes & Diseases*. [https://doi.org/10.1016/j.gendis.2019.08.003](https://doi.org/10.1016/j.gendis.2019.08.003)
 
-[99] Gautam Rishi, Daniel F. Wallace, V. Nathan Subramaniam. (2015). Hepcidin: Regulation of the master iron regulator. https://eprints.qut.edu.au/99753
+<a id="ref98" name="ref98"></a>[98] Han Chen, Ying-Yi Li, Kouki Nio, Hong Tang. (2024). Unveiling the Impact of BMP9 in Liver Diseases. *Biomolecules*. [https://doi.org/10.3390/biom14081013](https://doi.org/10.3390/biom14081013)
 
-[100] Jodie L. Babitt, Franklin W. Huang, Yin Xia, et al. (2007). Modulation of bone morphogenetic protein signaling in vivo regulates systemic iron balance. Journal of Clinical Investigation. https://doi.org/10.1172/jci31342
+<a id="ref99" name="ref99"></a>[99] Gautam Rishi, Daniel F. Wallace, V. Nathan Subramaniam. (2015). Hepcidin: Regulation of the master iron regulator. https://eprints.qut.edu.au/99753
 
-[101] Blanca Herrera, Steven Dooley, Katja Breitkopf-Heinlein. (2014). Potential Roles of Bone Morphogenetic Protein (BMP)-9 in Human Liver Diseases. International Journal of Molecular Sciences. https://doi.org/10.3390/ijms15045199
+<a id="ref100" name="ref100"></a>[100] Jodie L. Babitt, Franklin W. Huang, Yin Xia, et al. (2007). Modulation of bone morphogenetic protein signaling in vivo regulates systemic iron balance. *Journal of Clinical Investigation*. [https://doi.org/10.1172/jci31342](https://doi.org/10.1172/jci31342)
 
-[103] He Jiang, R. Salmon, P. Upton, et al. (2015). The Prodomain-bound Form of Bone Morphogenetic Protein 10 Is Biologically Active on Endothelial Cells. Journal of Biological Chemistry. https://doi.org/10.1074/jbc.m115.683292
+<a id="ref101" name="ref101"></a>[101] Blanca Herrera, Steven Dooley, Katja Breitkopf-Heinlein. (2014). Potential Roles of Bone Morphogenetic Protein (BMP)-9 in Human Liver Diseases. *International Journal of Molecular Sciences*. [https://doi.org/10.3390/ijms15045199](https://doi.org/10.3390/ijms15045199)
 
-[104] Hyunwoo Choi, Bo-Gyeong Kim, Y. H. Kim, et al. (2022). BMP10 functions independently from BMP9 for the development of a proper arteriovenous network. Angiogenesis. https://doi.org/10.1007/s10456-022-09859-0
+<a id="ref103" name="ref103"></a>[103] He Jiang, R. Salmon, P. Upton, et al. (2015). The Prodomain-bound Form of Bone Morphogenetic Protein 10 Is Biologically Active on Endothelial Cells. *Journal of Biological Chemistry*. [https://doi.org/10.1074/jbc.m115.683292](https://doi.org/10.1074/jbc.m115.683292)
 
-[105] Delia Susan-Resiga, Rachid Essalmani, Josée Hamelin, et al. (2011). Furin Is the Major Processing Enzyme of the Cardiac-specific Growth Factor Bone Morphogenetic Protein 10. Journal of Biological Chemistry. https://doi.org/10.1074/jbc.m111.233577
+<a id="ref104" name="ref104"></a>[104] Hyunwoo Choi, Bo-Gyeong Kim, Y. H. Kim, et al. (2022). BMP10 functions independently from BMP9 for the development of a proper arteriovenous network. *Angiogenesis*. [https://doi.org/10.1007/s10456-022-09859-0](https://doi.org/10.1007/s10456-022-09859-0)
 
-[106] Emmanuelle Tillet, Sabine Bailly. (2015). Emerging roles of BMP9 and BMP10 in hereditary hemorrhagic telangiectasia. Frontiers in Genetics. https://doi.org/10.3389/fgene.2014.00456
+<a id="ref105" name="ref105"></a>[105] Delia Susan-Resiga, Rachid Essalmani, Josée Hamelin, et al. (2011). Furin Is the Major Processing Enzyme of the Cardiac-specific Growth Factor Bone Morphogenetic Protein 10. *Journal of Biological Chemistry*. [https://doi.org/10.1074/jbc.m111.233577](https://doi.org/10.1074/jbc.m111.233577)
 
-[108] Jia-Ning Gu, Chenxi Yang, Yuanyuan Ding, et al. (2023). Identification of BMP10 as a Novel Gene Contributing to Dilated Cardiomyopathy. Diagnostics. https://doi.org/10.3390/diagnostics13020242
+<a id="ref106" name="ref106"></a>[106] Emmanuelle Tillet, Sabine Bailly. (2015). Emerging roles of BMP9 and BMP10 in hereditary hemorrhagic telangiectasia. *Frontiers in Genetics*. [https://doi.org/10.3389/fgene.2014.00456](https://doi.org/10.3389/fgene.2014.00456)
 
-[110] S. Levet, D. Ciais, G. Merdzhanova, et al. (2013). Bone morphogenetic protein 9 (BMP9) controls lymphatic vessel maturation and valve formation. Blood. https://doi.org/10.1182/blood-2012-12-472142
+<a id="ref108" name="ref108"></a>[108] Jia-Ning Gu, Chenxi Yang, Yuanyuan Ding, et al. (2023). Identification of BMP10 as a Novel Gene Contributing to Dilated Cardiomyopathy. *Diagnostics*. [https://doi.org/10.3390/diagnostics13020242](https://doi.org/10.3390/diagnostics13020242)
 
-[111] Marie Ouarné, Claire Bouvard, Gabriela Boneva, et al. (2018). BMP9, but not BMP10, acts as a quiescence factor on tumor growth, vessel normalization and metastasis in a mouse model of breast cancer. Journal of Experimental & Clinical Cancer Research. https://doi.org/10.1186/s13046-018-0885-1
+<a id="ref110" name="ref110"></a>[110] S. Levet, D. Ciais, G. Merdzhanova, et al. (2013). Bone morphogenetic protein 9 (BMP9) controls lymphatic vessel maturation and valve formation. *Blood*. [https://doi.org/10.1182/blood-2012-12-472142](https://doi.org/10.1182/blood-2012-12-472142)
 
-[112] Ben Dunmore, Stephen Moore, Rowena J. Jones, et al. (2025). BMP9 knockout impairs pulmonary vessel muscularisation and confers aberrant tamoxifen sensitivity. Angiogenesis. https://doi.org/10.1007/s10456-025-10017-5
+<a id="ref111" name="ref111"></a>[111] Marie Ouarné, Claire Bouvard, Gabriela Boneva, et al. (2018). BMP9, but not BMP10, acts as a quiescence factor on tumor growth, vessel normalization and metastasis in a mouse model of breast cancer. *Journal of Experimental & Clinical Cancer Research*. [https://doi.org/10.1186/s13046-018-0885-1](https://doi.org/10.1186/s13046-018-0885-1)
 
-[114] Mariela Subileau, G. Merdzhanova, D. Ciais, et al. (2018). Bone Morphogenetic Protein 9 Regulates Early Lymphatic-Specified Endothelial Cell Expansion during Mouse Embryonic Stem Cell Differentiation. Stem Cell Reports. https://doi.org/10.1016/j.stemcr.2018.11.024
+<a id="ref112" name="ref112"></a>[112] Ben Dunmore, Stephen Moore, Rowena J. Jones, et al. (2025). BMP9 knockout impairs pulmonary vessel muscularisation and confers aberrant tamoxifen sensitivity. *Angiogenesis*. [https://doi.org/10.1007/s10456-025-10017-5](https://doi.org/10.1007/s10456-025-10017-5)
 
-[115] J. Hodgson, E. Swietlik, R. Salmon, et al. (2020). Characterization of GDF2 Mutations and Levels of BMP9 and BMP10 in Pulmonary Arterial Hypertension. American journal of respiratory and critical care medicine. https://doi.org/10.1164/rccm.201906-1141oc
+<a id="ref114" name="ref114"></a>[114] Mariela Subileau, G. Merdzhanova, D. Ciais, et al. (2018). Bone Morphogenetic Protein 9 Regulates Early Lymphatic-Specified Endothelial Cell Expansion during Mouse Embryonic Stem Cell Differentiation. *Stem Cell Reports*. [https://doi.org/10.1016/j.stemcr.2018.11.024](https://doi.org/10.1016/j.stemcr.2018.11.024)
 
-[116] Sandrine Levet. (2013). BMP9 and BMP10 in perinatal vascular remodeling. http://theses.fr/2013GRENV037/document
+<a id="ref115" name="ref115"></a>[115] J. Hodgson, E. Swietlik, R. Salmon, et al. (2020). Characterization of GDF2 Mutations and Levels of BMP9 and BMP10 in Pulmonary Arterial Hypertension. *American Journal of Respiratory and Critical Care Medicine*. [https://doi.org/10.1164/rccm.201906-1141oc](https://doi.org/10.1164/rccm.201906-1141oc)
 
-[118] Ying Yang, Guillermo Oliver. (2014). Development of the mammalian lymphatic vasculature. Journal of Clinical Investigation. https://doi.org/10.1172/jci71609
+<a id="ref116" name="ref116"></a>[116] Sandrine Levet. (2013). BMP9 and BMP10 in perinatal vascular remodeling. http://theses.fr/2013GRENV037/document
 
-[120] Mariela Subileau, Niyazi Acar, Alison Carret, et al. (2020). Eye lymphatic defects induced by bone morphogenetic protein 9 deficiency have no functional consequences on intraocular pressure. Scientific Reports. https://doi.org/10.1038/s41598-020-71877-z
+<a id="ref118" name="ref118"></a>[118] Ying Yang, Guillermo Oliver. (2014). Development of the mammalian lymphatic vasculature. *Journal of Clinical Investigation*. [https://doi.org/10.1172/jci71609](https://doi.org/10.1172/jci71609)
 
-[121] Seonghun Kim, Cheol-Hee Jeong, Sang Hyun Song, et al. (2020). Micellized Protein Transduction Domain-Bone Morphogenetic Protein-7 Efficiently Blocks Renal Fibrosis. Frontiers in Pharmacology. https://doi.org/10.3389/fphar.2020.591275
+<a id="ref120" name="ref120"></a>[120] Mariela Subileau, Niyazi Acar, Alison Carret, et al. (2020). Eye lymphatic defects induced by bone morphogenetic protein 9 deficiency have no functional consequences on intraocular pressure. *Scientific Reports*. [https://doi.org/10.1038/s41598-020-71877-z](https://doi.org/10.1038/s41598-020-71877-z)
 
-[122] S. Granata, Laura Barberio, Rossana D'Agostino, et al. (2026). Emerging therapeutic pipelines on kidney fibrosis. Journal of Translational Medicine. https://doi.org/10.1186/s12967-026-07796-w
+<a id="ref121" name="ref121"></a>[121] Seonghun Kim, Cheol-Hee Jeong, Sang Hyun Song, et al. (2020). Micellized Protein Transduction Domain-Bone Morphogenetic Protein-7 Efficiently Blocks Renal Fibrosis. *Frontiers in Pharmacology*. [https://doi.org/10.3389/fphar.2020.591275](https://doi.org/10.3389/fphar.2020.591275)
 
-[123] Peiran Yang, L. Troncone, Z. Augur, et al. (2020). The role of bone morphogenetic protein signaling in vascular calcification. Bone. https://doi.org/10.1016/j.bone.2020.115542
+<a id="ref122" name="ref122"></a>[122] S. Granata, Laura Barberio, Rossana D'Agostino, et al. (2026). Emerging therapeutic pipelines on kidney fibrosis. *Journal of Translational Medicine*. [https://doi.org/10.1186/s12967-026-07796-w](https://doi.org/10.1186/s12967-026-07796-w)
 
-[125] Allison B. Reiss, Berlin Jacob, Aarij Zubair, et al. (2024). Fibrosis in Chronic Kidney Disease: Pathophysiology and Therapeutic Targets. Journal of Clinical Medicine. https://doi.org/10.3390/jcm13071881
+<a id="ref123" name="ref123"></a>[123] Peiran Yang, L. Troncone, Z. Augur, et al. (2020). The role of bone morphogenetic protein signaling in vascular calcification. *Bone*. [https://doi.org/10.1016/j.bone.2020.115542](https://doi.org/10.1016/j.bone.2020.115542)
 
-[126] Donghwan Oh, Hyo Jeong Kim, Seok-Hyung Kim, et al. (2026). Rosuvastatin attenuates tubulointerstitial fibrosis by targeting the HOXA13 USAG1 BMP7 pathway. Scientific Reports. https://doi.org/10.1038/s41598-026-43479-8
+<a id="ref125" name="ref125"></a>[125] Allison B. Reiss, Berlin Jacob, Aarij Zubair, et al. (2024). Fibrosis in Chronic Kidney Disease: Pathophysiology and Therapeutic Targets. *Journal of Clinical Medicine*. [https://doi.org/10.3390/jcm13071881](https://doi.org/10.3390/jcm13071881)
 
-[127] Lucas L. Falke, Jan Willem Leeuwis, Karen M. Lyons, et al. (2016). CCN2 reduction mediates protective effects of BMP7 treatment in obstructive nephropathy. Journal of Cell Communication and Signaling. https://doi.org/10.1007/s12079-016-0358-2
+<a id="ref126" name="ref126"></a>[126] Donghwan Oh, Hyo Jeong Kim, Seok-Hyung Kim, et al. (2026). Rosuvastatin attenuates tubulointerstitial fibrosis by targeting the HOXA13 USAG1 BMP7 pathway. *Scientific Reports*. [https://doi.org/10.1038/s41598-026-43479-8](https://doi.org/10.1038/s41598-026-43479-8)
 
-[128] Jawaher Alkhamisy, Jeanette C. Perron, Sabesan Yoganathan. (2026). Novel Benzimidazoles as BMP-7 Receptor Agonists for Chronic Kidney Disease. Journal of Pharmacology and Experimental Therapeutics. https://doi.org/10.1016/j.jpet.2026.103936
+<a id="ref127" name="ref127"></a>[127] Lucas L. Falke, Jan Willem Leeuwis, Karen M. Lyons, et al. (2016). CCN2 reduction mediates protective effects of BMP7 treatment in obstructive nephropathy. *Journal of Cell Communication and Signaling*. [https://doi.org/10.1007/s12079-016-0358-2](https://doi.org/10.1007/s12079-016-0358-2)
 
-[129] R. Pignolo, E. Hsiao, Mona Al Mukaddam, et al. (2022). Reduction of New Heterotopic Ossification (HO) in the Open-Label, Phase 3 MOVE Trial of Palovarotene for FOP. Journal of Bone and Mineral Research. https://doi.org/10.1002/jbmr.4762
+<a id="ref128" name="ref128"></a>[128] Jawaher Alkhamisy, Jeanette C. Perron, Sabesan Yoganathan. (2026). Novel Benzimidazoles as BMP-7 Receptor Agonists for Chronic Kidney Disease. *Journal of Pharmacology and Experimental Therapeutics*. [https://doi.org/10.1016/j.jpet.2026.103936](https://doi.org/10.1016/j.jpet.2026.103936)
 
-[130] R. Pignolo, G. Baujat, E. Hsiao, et al. (2022). Palovarotene for FOP: Results of a Randomized, Placebo-Controlled, Double-Blind Phase 2 Trial. Journal of Bone and Mineral Research. https://doi.org/10.1002/jbmr.4655
+<a id="ref129" name="ref129"></a>[129] R. Pignolo, E. Hsiao, Mona Al Mukaddam, et al. (2022). Reduction of New Heterotopic Ossification (HO) in the Open-Label, Phase 3 MOVE Trial of Palovarotene. *Journal of Bone and Mineral Research*. [https://doi.org/10.1002/jbmr.4762](https://doi.org/10.1002/jbmr.4762)
 
-[131] R. Pignolo, Mona Al Mukaddam, Geneviève Baujat, et al. (2023). Study methodology and insights from the palovarotene clinical development program in FOP. BMC Medical Research Methodology. https://doi.org/10.1186/s12874-023-02080-7
+<a id="ref130" name="ref130"></a>[130] R. Pignolo, G. Baujat, E. Hsiao, et al. (2022). Palovarotene for FOP: Results of a Randomized, Placebo-Controlled, Double-Blind Phase 2 Trial. *Journal of Bone and Mineral Research*. [https://doi.org/10.1002/jbmr.4655](https://doi.org/10.1002/jbmr.4655)
 
-[132] H. Kitoh. (2020). Clinical Aspects and Current Therapeutic Approaches for FOP. Biomedicines. https://doi.org/10.3390/biomedicines8090325
+<a id="ref131" name="ref131"></a>[131] R. Pignolo, Mona Al Mukaddam, Geneviève Baujat, et al. (2023). Study methodology and insights from the palovarotene clinical development program in FOP. *BMC Medical Research Methodology*. [https://doi.org/10.1186/s12874-023-02080-7](https://doi.org/10.1186/s12874-023-02080-7)
 
-[133] Mohammed S. Alharthi. (2025). A Narrative Review of Phase II and III Clinical Trials for the Pharmacological Treatment of FOP. Drug Design, Development and Therapy. https://doi.org/10.2147/dddt.s537454
+<a id="ref132" name="ref132"></a>[132] H. Kitoh. (2020). Clinical Aspects and Current Therapeutic Approaches for FOP. *Biomedicines*. [https://doi.org/10.3390/biomedicines8090325](https://doi.org/10.3390/biomedicines8090325)
 
-[135] Muhammad Talha, Mohammad Haris Ali. (2024). Palovarotene approved as first treatment for fibrodysplasia ossificans progressiva (FOP). Journal of Rare Diseases. https://doi.org/10.1007/s44162-024-00032-3
+<a id="ref133" name="ref133"></a>[133] Mohammed S. Alharthi. (2025). A Narrative Review of Phase II and III Clinical Trials for the Pharmacological Treatment of FOP. *Drug Design, Development and Therapy*. [https://doi.org/10.2147/dddt.s537454](https://doi.org/10.2147/dddt.s537454)
 
-[136] Hoy, Sheridan M. (2022). Palovarotene: First Approval. https://doi.org/10.6084/m9.figshare.19366157
+<a id="ref135" name="ref135"></a>[135] Muhammad Talha, Mohammad Haris Ali. (2024). Palovarotene approved as first treatment for fibrodysplasia ossificans progressiva (FOP). *Journal of Rare Diseases*. [https://doi.org/10.1007/s44162-024-00032-3](https://doi.org/10.1007/s44162-024-00032-3)
 
-[137] Robert J. Pignolo, Maurizio Pacifici. (2021). Retinoid Agonists in the Targeting of Heterotopic Ossification. Cells. https://doi.org/10.3390/cells10113245
+<a id="ref136" name="ref136"></a>[136] Hoy, Sheridan M. (2022). Palovarotene: First Approval. https://doi.org/10.6084/m9.figshare.19366157
 
-[138] Nikola Štoković, Natalia Ivanjko, D. Matičić, et al. (2021). Bone Morphogenetic Proteins, Carriers, and Animal Models in the Development of Novel Bone Regenerative Therapies. Materials. https://doi.org/10.3390/ma14133513
+<a id="ref137" name="ref137"></a>[137] Robert J. Pignolo, Maurizio Pacifici. (2021). Retinoid Agonists in the Targeting of Heterotopic Ossification. *Cells*. [https://doi.org/10.3390/cells10113245](https://doi.org/10.3390/cells10113245)
 
-[139] Zeji Du, Skylar A. Rizzo, Tiffany L. Sarrafian, et al. (2025). Engineered BMP2/BMP7 extracellular vesicles induce autocrine BMP release driving SMAD phosphorylation to promote bone formation. NPJ Regenerative Medicine. https://doi.org/10.1038/s41536-025-00405-2
+<a id="ref138" name="ref138"></a>[138] Nikola Štoković, Natalia Ivanjko, D. Matičić, et al. (2021). Bone Morphogenetic Proteins, Carriers, and Animal Models in the Development of Novel Bone Regenerative Therapies. *Materials*. [https://doi.org/10.3390/ma14133513](https://doi.org/10.3390/ma14133513)
 
-[140] Mingu Kang, Seokwon Lee, Jong-pil Seo, et al. (2024). Cell-permeable bone morphogenetic protein 2 facilitates bone regeneration by promoting osteogenesis. Materials Today Bio. https://doi.org/10.1016/j.mtbio.2024.100983
+<a id="ref139" name="ref139"></a>[139] Zeji Du, Skylar A. Rizzo, Tiffany L. Sarrafian, et al. (2025). Engineered BMP2/BMP7 extracellular vesicles induce autocrine BMP release driving SMAD phosphorylation to promote bone formation. *NPJ Regenerative Medicine*. [https://doi.org/10.1038/s41536-025-00405-2](https://doi.org/10.1038/s41536-025-00405-2)
 
-[141] Daisuke Tateiwa, Masahiro Iwamoto, Joe Kodama, et al. (2023). A synthetic retinoic acid receptor γ antagonist (7C)-loaded nanoparticle enhances BMP-induced bone regeneration in a rat spinal fusion model. The spine journal. https://doi.org/10.1016/j.spinee.2023.11.021
+<a id="ref140" name="ref140"></a>[140] Mingu Kang, Seokwon Lee, Jong-pil Seo, et al. (2024). Cell-permeable bone morphogenetic protein 2 facilitates bone regeneration by promoting osteogenesis. *Materials Today Bio*. [https://doi.org/10.1016/j.mtbio.2024.100983](https://doi.org/10.1016/j.mtbio.2024.100983)
 
-[142] R. E. De la Vega, M. van Griensven, Wen Zhang, et al. (2022). Efficient healing of large osseous segmental defects using optimized chemically modified messenger RNA encoding BMP-2. Science Advances. https://doi.org/10.1126/sciadv.abl6242
+## References
+<a id="ref141" name="ref141"></a>[141] Daisuke Tateiwa, Masahiro Iwamoto, Joe Kodama, et al. (2023). A synthetic retinoic acid receptor γ antagonist (7C)-loaded nanoparticle enhances BMP-induced bone regeneration in a rat spinal fusion. *The Spine Journal*. [https://doi.org/10.1016/j.spinee.2023.11.021](https://doi.org/10.1016/j.spinee.2023.11.021)
 
-[143] Kunal J. Rambhia, Hongli Sun, Kai Feng, et al. (2024). Nanofibrous 3D Scaffolds Capable of Individually Controlled BMP and FGF Release for the Regulation of Bone Regeneration. Acta biomaterialia. https://doi.org/10.1016/j.actbio.2024.10.044
+<a id="ref142" name="ref142"></a>[142] R. E. De la Vega, M. van Griensven, Wen Zhang, et al. (2022). Efficient healing of large osseous segmental defects using optimized chemically modified messenger RNA encoding BMP-2. *Science Advances*. [https://doi.org/10.1126/sciadv.abl6242](https://doi.org/10.1126/sciadv.abl6242)
 
-[144] Joo L. Ong, Stefanie M. Shiels, Joseph J. Pearson, et al. (2022). Spatial Recombinant Human Bone Morphogenetic Protein 2 Delivery from Hydroxyapatite Scaffolds Sustains Bone Regeneration in Rabbit Radius. Tissue Engineering Part C. https://doi.org/10.1089/ten.tec.2022.0102
+<a id="ref143" name="ref143"></a>[143] Kunal J. Rambhia, Hongli Sun, Kai Feng, et al. (2024). Nanofibrous 3D Scaffolds Capable of Individually Controlled BMP and FGF Release for the Regulation of Bone Regeneration. *Acta Biomaterialia*. [https://doi.org/10.1016/j.actbio.2024.10.044](https://doi.org/10.1016/j.actbio.2024.10.044)
 
-[145] Yang Liu, Manoj Puthia, Eamon J. Sheehy, et al. (2023). Sustained delivery of a heterodimer bone morphogenetic protein-2/7 via a collagen hydroxyapatite scaffold accelerates and improves critical femoral defect healing. Acta Biomaterialia. https://doi.org/10.1016/j.actbio.2023.03.028
+<a id="ref144" name="ref144"></a>[144] Joo L. Ong, Stefanie M. Shiels, Joseph J. Pearson, et al. (2022). Spatial Recombinant Human Bone Morphogenetic Protein 2 Delivery from Hydroxyapatite Scaffolds Sustains Bone Regeneration in Rabbit Radius. *Tissue Engineering Part C*. [https://doi.org/10.1089/ten.tec.2022.0102](https://doi.org/10.1089/ten.tec.2022.0102)
 
-[146] (2004). The effect of recombinant human bone morphogenetic protein-4 dose on bone formation in rat calvarial defects. http://ir.ymlib.yonsei.ac.kr/handle/22282913/128660
+<a id="ref145" name="ref145"></a>[145] Yang Liu, Manoj Puthia, Eamon J. Sheehy, et al. (2023). Sustained delivery of a heterodimer bone morphogenetic protein-2/7 via a collagen hydroxyapatite scaffold accelerates and improves critical femoral defect healing. *Acta Biomaterialia*. [https://doi.org/10.1016/j.actbio.2023.03.028](https://doi.org/10.1016/j.actbio.2023.03.028)
 
-[147] Marissa A. Ruehle, Laxminarayanan Krishnan, Casey E. Vantucci, et al. (2019). Effects of BMP-2 dose and delivery of microvascular fragments on healing of bone defects with concomitant volumetric muscle loss. Journal of Orthopaedic Research. https://doi.org/10.1002/jor.24225
+<a id="ref146" name="ref146"></a>[146] (2004). The effect of recombinant human bone morphogenetic protein-4 dose on bone formation in rat calvarial defects. http://ir.ymlib.yonsei.ac.kr/handle/22282913/128660
 
-[148] Solaf Abdulqadir Mustafa, Chenar Anwar Mohammad, Rafal Abdulrazaq Alrawi. (2026). Dose-Dependent Osteoinduction by rhBMP-2-Loaded β-Tricalcium Phosphate Scaffolds in Rabbit Critical-Sized Calvarial Defects. International Journal of Molecular Sciences. https://doi.org/10.3390/ijms27083609
+<a id="ref147" name="ref147"></a>[147] Marissa A. Ruehle, Laxminarayanan Krishnan, Casey E. Vantucci, et al. (2019). Effects of BMP-2 dose and delivery of microvascular fragments on healing of bone defects with concomitant volumetric muscle loss. *Journal of Orthopaedic Research*. [https://doi.org/10.1002/jor.24225](https://doi.org/10.1002/jor.24225)
 
-[149] Naboneeta Sarkar, Mahnoor Shafi, Yicheng Zhang, et al. (2026). Controlled release of rhBMP-2 from nanoparticle-loaded biomimetic graft promotes bone regeneration in a rat spinal fusion model. Biomaterials advances. https://doi.org/10.1016/j.bioadv.2026.214989
+<a id="ref148" name="ref148"></a>[148] Solaf Abdulqadir Mustafa, Chenar Anwar Mohammad, Rafal Abdulrazaq Alrawi. (2026). Dose-Dependent Osteoinduction by rhBMP-2-Loaded β-Tricalcium Phosphate Scaffolds in Rabbit Critical-Sized Calvarial Defects. *International Journal of Molecular Sciences*. [https://doi.org/10.3390/ijms27083609](https://doi.org/10.3390/ijms27083609)
 
-[150] S. Im, Jung-Hee Lee, Ki Young Lee, et al. (2022). Effectiveness and Feasibility of Injectable E. coli-Derived rhBMP-2 for Anterior Lumbar Interbody Fusion. Orthopaedic Surgery. https://doi.org/10.1111/os.13303
+<a id="ref149" name="ref149"></a>[149] Naboneeta Sarkar, Mahnoor Shafi, Yicheng Zhang, et al. (2026). Controlled release of rhBMP-2 from nanoparticle-loaded biomimetic graft promotes bone regeneration in a rat spinal fusion model. *Biomaterials Advances*. [https://doi.org/10.1016/j.bioadv.2026.214989](https://doi.org/10.1016/j.bioadv.2026.214989)
 
-[151] Niki Karipidou, John Paul Muller Gorley, Chrysoula Katrilaka, et al. (2025). A Critical Review of Commercial Collagen-Based Scaffolds in Bone Regeneration. Journal of Functional Biomaterials. https://doi.org/10.3390/jfb16090313
+<a id="ref150" name="ref150"></a>[150] S. Im, Jung-Hee Lee, Ki Young Lee, et al. (2022). Effectiveness and Feasibility of Injectable E. coli-Derived rhBMP-2 for Anterior Lumbar Interbody Fusion. *Orthopaedic Surgery*. [https://doi.org/10.1111/os.13303](https://doi.org/10.1111/os.13303)
 
-[152] Daniel Lee, J. Y. Kim. (2017). A comparison of radiographic and clinical outcomes of anterior lumbar interbody fusion performed with either a cellular bone allograft or rhBMP-2. Journal of Orthopaedic Surgery and Research. https://doi.org/10.1186/s13018-017-0618-8
+<a id="ref151" name="ref151"></a>[151] Niki Karipidou, John Paul Muller Gorley, Chrysoula Katrilaka, et al. (2025). A Critical Review of Commercial Collagen-Based Scaffolds in Bone Regeneration. *Journal of Functional Biomaterials*. [https://doi.org/10.3390/jfb16090313](https://doi.org/10.3390/jfb16090313)
 
-[153] Jason Trang, J. Kos, W. Sears. (2023). Experience With Recombinant Human Bone Morphogenetic Protein-2 in Posterior Lumbar Interbody Fusion. International Journal of Spine Surgery. https://doi.org/10.14444/8394
+<a id="ref152" name="ref152"></a>[152] Daniel Lee, J. Y. Kim. (2017). A comparison of radiographic and clinical outcomes of anterior lumbar interbody fusion performed with either a cellular bone allograft or rhBMP-2. *Journal of Orthopaedic Surgery and Research*. [https://doi.org/10.1186/s13018-017-0618](https://doi.org/10.1186/s13018-017-0618)
 
-[154] Ji-Won Kwon, J. Cho, Jong Beom Lee, et al. (2024). Evaluation of the Fusion Rate and Safety of E. coli-Derived rhBMP-2 in Transforaminal Lumbar Interbody Fusion. Journal of Clinical Medicine. https://doi.org/10.3390/jcm13061733
+<a id="ref153" name="ref153"></a>[153] Jason Trang, J. Kos, W. Sears. (2023). Experience With Recombinant Human Bone Morphogenetic Protein-2 in Posterior Lumbar Interbody Fusion. *International Journal of Spine Surgery*. [https://doi.org/10.14444/8394](https://doi.org/10.14444/8394)
 
-[155] Christoph P. Hofstetter, Anna-Sophie Hofer, Allan D. Levi. (2015). Exploratory meta-analysis on dose-related efficacy and morbidity of bone morphogenetic protein in spinal arthrodesis surgery. Journal of Neurosurgery: Spine. https://doi.org/10.3171/2015.4.spine141086
+<a id="ref154" name="ref154"></a>[154] Ji-Won Kwon, J. Cho, Jong Beom Lee, et al. (2024). Evaluation of the Fusion Rate and Safety of E. coli-Derived rhBMP-2 in Transforaminal Lumbar Interbody Fusion. *Journal of Clinical Medicine*. [https://doi.org/10.3390/jcm13061733](https://doi.org/10.3390/jcm13061733)
 
-[156] Jason W. Savage, Mick P. Kelly, Scott A. Ellison, Paul A. Anderson. (2015). A population-based review of bone morphogenetic protein: associated complication and reoperation rates after lumbar spinal fusion. Neurosurgical Focus. https://doi.org/10.3171/2015.7.focus15240
+<a id="ref155" name="ref155"></a>[155] Christoph P. Hofstetter, Anna-Sophie Hofer, Allan D. Levi. (2015). Exploratory meta-analysis on dose-related efficacy and morbidity of bone morphogenetic protein in spinal arthrodesis surgery. *Journal of Neurosurgery: Spine*. [https://doi.org/10.3171/2015.4.spine141086](https://doi.org/10.3171/2015.4.spine141086)
 
-[157] Raed Alobaidaan, Jeremiah R. Cohen, Elizabeth L. Lord, et al. (2017). Complication Rates in PLIF Surgery With Human BMP 2: Medicare Population. Global Spine Journal. https://doi.org/10.1177/2192568217696695
+<a id="ref156" name="ref156"></a>[156] Jason W. Savage, Mick P. Kelly, Scott A. Ellison, Paul A. Anderson. (2015). A population-based review of bone morphogenetic protein: associated complication and reoperation rates after lumbar spinal fusion. *Neurosurgical Focus*. [https://doi.org/10.3171/2015.7.focus15240](https://doi.org/10.3171/2015.7.focus15240)
 
-[158] Mark C. Simmonds, Ma Jennifer, V. E. Brown, et al. (2015). Safety and Effectiveness of Recombinant Human Bone Morphogenetic Protein-2 for Spinal Fusion. http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.689.2663
+<a id="ref157" name="ref157"></a>[157] Raed Alobaidaan, Jeremiah R. Cohen, Elizabeth L. Lord, et al. (2017). Complication Rates in PLIF Surgery With Human BMP 2: Medicare Population. *Global Spine Journal*. [https://doi.org/10.1177/2192568217696695](https://doi.org/10.1177/2192568217696695)
 
-[159] John P. Von Benecke, Elisa Tarsitano, Laura-Marie A. Zimmermann, et al. (2024). A Narrative Review on Recombinant Human Bone Morphogenetic Protein 2: Where Are We Now? Cureus. https://doi.org/10.7759/cureus.67785
+<a id="ref158" name="ref158"></a>[158] Mark C. Simmonds, Ma Jennifer, V. E. Brown, et al. (2015). Safety and Effectiveness of Recombinant Human Bone Morphogenetic Protein-2. http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.689.2663
 
-[160] Fabrizio Galimberti, Daniel Lubelski, Andrew T. Healy, et al. (2015). A Systematic Review of Lumbar Fusion Rates With and Without the Use of rhBMP-2. Spine. https://doi.org/10.1097/brs.0000000000000971
+<a id="ref159" name="ref159"></a>[159] John P. Von Benecke, Elisa Tarsitano, Laura-Marie A. Zimmermann, et al. (2024). A Narrative Review on Recombinant Human Bone Morphogenetic Protein 2. *Cureus*. [https://doi.org/10.7759/cureus.67785](https://doi.org/10.7759/cureus.67785)
 
-[162] Steven Cecchi, S. Bennet, M. Arora. (2015). Bone morphogenetic protein-7: Review of signalling and efficacy in fracture healing. Journal of Orthopaedic Translation. https://doi.org/10.1016/j.jot.2015.08.001
+<a id="ref160" name="ref160"></a>[160] Fabrizio Galimberti, Daniel Lubelski, Andrew T. Healy, et al. (2015). A Systematic Review of Lumbar Fusion Rates With and Without the Use of rhBMP-2. *Spine*. [https://doi.org/10.1097/brs.0000000000000971](https://doi.org/10.1097/brs.0000000000000971)
 
-[163] Gopal Shankar Krishnakumar, A. Roffi, Davide Reale, et al. (2017). Clinical application of bone morphogenetic proteins for bone healing: a systematic review. International Orthopaedics. https://doi.org/10.1007/s00264-017-3471-9
+<a id="ref162" name="ref162"></a>[162] Steven Cecchi, S. Bennet, M. Arora. (2015). Bone morphogenetic protein-7: Review of signalling and efficacy in fracture healing. *Journal of Orthopaedic Translation*. [https://doi.org/10.1016/j.jot.2015.08.001](https://doi.org/10.1016/j.jot.2015.08.001)
 
-[164] Chengxin Xie, Chenglong Wang, Yu Huang, et al. (2022). Therapeutic effect of autologous bone grafting with adjuvant bone morphogenetic protein on long bone nonunion. Journal of Orthopaedic Surgery and Research. https://doi.org/10.1186/s13018-022-03185-3
+<a id="ref163" name="ref163"></a>[163] Gopal Shankar Krishnakumar, A. Roffi, Davide Reale, et al. (2017). Clinical application of bone morphogenetic proteins for bone healing: a systematic review. *International Orthopaedics*. [https://doi.org/10.1007/s00264-017-3471-9](https://doi.org/10.1007/s00264-017-3471-9)
 
-[167] Thomas A Ratko, Suzanne Belinson, David J Samson, et al. (2010). Bone Morphogenetic Protein: The State of the Evidence of On-Label and Off-Label Use. Spine. http://europepmc.org/abstract/MED/25855840
+<a id="ref164" name="ref164"></a>[164] Chengxin Xie, Chenglong Wang, Yu Huang, et al. (2022). Therapeutic effect of autologous bone grafting with adjuvant bone morphogenetic protein on long bone nonunion. *Journal of Orthopaedic Surgery and Research*. [https://doi.org/10.1186/s13018-022-03185](https://doi.org/10.1186/s13018-022-03185)
 
-[168] D. Casilli, Giulia Rizzuto, S. Salerno, Adriano Venditti. (2018). OP-1 USE IN CLINICAL PRACTICE: AN OBSERVATIONAL, PROSPECTIVE, MULTI-CENTRE, NON-RANDOMISED STUDY. https://doi.org/10.1302/0301-620X.87BSUPP_II.0870176
+<a id="ref167" name="ref167"></a>[167] Thomas A Ratko, Suzanne Belinson, David J Samson, et al. (2010). Bone Morphogenetic Protein: The State of the Evidence of On-Label and Off-Label Use. *Spine*. http://europepmc.org/abstract/MED/25855840
 
-[169] Fred Nicholls, Adeline Ng, Sally Hu, et al. (2014). Can OP-1 stimulate union in a rat model of pathological fracture post treatment for soft tissue sarcoma? Journal of Orthopaedic Research. https://doi.org/10.1002/jor.22661
+<a id="ref168" name="ref168"></a>[168] D. Casilli, Giulia Rizzuto, S. Salerno, Adriano Venditti. (2018). OP-1 USE IN CLINICAL PRACTICE: AN OBSERVATIONAL, PROSPECTIVE, MULTI-CENTRE, NON-RANDOMISED STUDY. [https://doi.org/10.1302/0301-620X.87BSUPP_II.0870176](https://doi.org/10.1302/0301-620X.87BSUPP_II.0870176)
 
-[170] Jetan H. Badhiwala, Michael G. Fehlings. (2016). Use of OP-1 (rhBMP-7) in posterolateral lumbar arthrodesis. Journal of Spine Surgery. https://doi.org/10.21037/jss.2016.12.02
+<a id="ref169" name="ref169"></a>[169] Fred Nicholls, Adeline Ng, Sally Hu, et al. (2014). Can OP-1 stimulate union in a rat model of pathological fracture post treatment for soft tissue sarcoma? *Journal of Orthopaedic Research*. [https://doi.org/10.1002/jor.22661](https://doi.org/10.1002/jor.22661)
 
-[171] Marianthi Papanagiotou, Zoe Dailiana, Theofilos Karachalios, et al. (2015). RhBMP-7 for the treatment of nonunion of fractures of long bones. The Bone & Joint Journal. https://doi.org/10.1302/0301-620x.97b7.35089
+<a id="ref170" name="ref170"></a>[170] Jetan H. Badhiwala, Michael G. Fehlings. (2016). Use of OP-1 (rhBMP-7) in posterolateral lumbar arthrodesis. *Journal of Spine Surgery*. [https://doi.org/10.21037/jss.2016.12.02](https://doi.org/10.21037/jss.2016.12.02)
 
-[172] Simon Hackl, Christian Hierholzer, Jan Friederichs, et al. (2017). Long-term outcome following additional rhBMP-7 application in revision surgery of aseptic humeral, femoral, and tibial shaft nonunion. BMC Musculoskeletal Disorders. https://doi.org/10.1186/s12891-017-1704-0
+<a id="ref171" name="ref171"></a>[171] Marianthi Papanagiotou, Zoe Dailiana, Theofilos Karachalios, et al. (2015). RhBMP-7 for the treatment of nonunion of fractures of long bones. *The Bone & Joint Journal*. [https://doi.org/10.1302/0301-620x.97b7.35089](https://doi.org/10.1302/0301-620x.97b7.35089)
 
-[173] Shreyas Rajesh, G. Gipson, A. Zeghibe, et al. (2024). Combined BMP9 and BMP10 inhibition elicits HHT-like phenotypes in susceptible mice. Circulation. https://doi.org/10.1161/circ.150.suppl_1.4147280
+<a id="ref172" name="ref172"></a>[172] Simon Hackl, Christian Hierholzer, Jan Friederichs, et al. (2017). Long-term outcome following additional rhBMP-7 application in revision surgery of aseptic humeral, femoral, and tibial shaft nonunion. *BMC Musculoskeletal Disorders*. [https://doi.org/10.1186/s12891-017-1704-0](https://doi.org/10.1186/s12891-017-1704-0)
 
-[176] N. Morrell. (2019). Finding the needle in the haystack: BMP9 and 10 emerge from the genome in pulmonary arterial hypertension. European Respiratory Journal. https://doi.org/10.1183/13993003.00078-2019
+<a id="ref173" name="ref173"></a>[173] Shreyas Rajesh, G. Gipson, A. Zeghibe, et al. (2024). Combined BMP9 and BMP10 inhibition elicits HHT-like phenotypes in susceptible mice. *Circulation*. [https://doi.org/1161/circ.150.suppl_1.4147280](https://doi.org/1161/circ.150.suppl_1.4147280)
 
-[177] Julien Grynblat, H. Bogaard, M. Eyries, et al. (2024). Pulmonary vascular phenotype identified in patients with GDF2 (BMP9) or BMP10 variants. European Respiratory Journal. https://doi.org/10.1183/13993003.01634-2023
+<a id="ref176" name="ref176"></a>[176] N. Morrell. (2019). Finding the needle in the haystack: BMP9 and 10 emerge from the genome in pulmonary arterial hypertension. *European Respiratory Journal*. [https://doi.org/10.1183/13993003.00078-2019](https://doi.org/10.1183/13993003.00078-2019)
 
-[179] Agnès Desroches-Castan, Lea Beurier-Soulat, Maud Tusseau, et al. (2026). Functional and Molecular Characterization of Novel GDF2 (BMP9) and BMP10 Variants. Circulation: Genomic and Precision Medicine. https://doi.org/10.1161/circgen.125.005626
+<a id="ref177" name="ref177"></a>[177] Julien Grynblat, H. Bogaard, M. Eyries, et al. (2024). Pulmonary vascular phenotype identified in patients with GDF2 (BMP9) or BMP10 variants. *European Respiratory Journal*. [https://doi.org/10.1183/13993003.01634-2023](https://doi.org/10.1183/13993003.01634-2023)
 
-[180] Rowena Jones, Eckart De Bie, Nina Deliu, et al. (2026). Sotatercept reduces bone morphogenetic protein signaling in patients with pulmonary arterial hypertension. https://doi.org/10.17863/cam.130741
+<a id="ref179" name="ref179"></a>[179] Agnès Desroches-Castan, Lea Beurier-Soulat, Maud Tusseau, et al. (2026). Functional and Molecular Characterization of Novel GDF2 (BMP9) and BMP10 Variants. *Circulation: Genomic and Precision Medicine*. [https://doi.org/10.1161/circgen.125.005626](https://doi.org/10.1161/circgen.125.005626)
 
-[181] Ramakrishnan A, Olitsky S, Saggar R, et al. (2025). Case report: Use of sotatercept to treat PAH in a patient with HHT. https://pubmed.ncbi.nlm.nih.gov/41030324/
+<a id="ref180" name="ref180"></a>[180] Rowena Jones, Eckart De Bie, Nina Deliu, et al. (2026). Sotatercept reduces bone morphogenetic protein signaling in patients with pulmonary arterial hypertension. [https://doi.org/10.17863/cam.130741](https://doi.org/10.17863/cam.130741)
 
-[183] FDA. (2024). Sotatercept-csrk (Winrevair) Integrated Review. https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/761363Orig1s000IntegratedR.pdf
+<a id="ref181" name="ref181"></a>[181] Ramakrishnan A, Olitsky S, Saggar R, et al. (2025). Case report: Use of sotatercept to treat PAH in a patient with HHT. https://pubmed.ncbi.nlm.nih.gov/41030324/
 
-[184] FDA. (2024). WINREVAIR (sotatercept-csrk) Prescribing Information. https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=21693ee2-cd23-4137-ac67-066bb3a4a9b7
+<a id="ref183" name="ref183"></a>[183] FDA. (2024). Sotatercept-csrk (Winrevair) Integrated Review. https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/761363Orig1s000IntegratedR.pdf
 
-[185] FDA. (2024). WINREVAIR Prescribing Information (display). https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=21693ee2-cd23-4137-ac67-066bb3a4a9b7&type=display
+<a id="ref184" name="ref184"></a>[184] FDA. (2024). WINREVAIR (sotatercept-csrk) Prescribing Information. https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=21693ee2-cd23-4137-ac67-066bb3a4a9b7
 
-[186] EMA. (2024). Winrevair (sotatercept) EPAR Product Information. https://www.ema.europa.eu/en/documents/product-information/winrevair-epar-product-information_en.pdf
+<a id="ref185" name="ref185"></a>[185] FDA. (2024). WINREVAIR Prescribing Information (display). https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=21693ee2-cd23-4137-ac67-066bb3a4a9b7&type=display
 
-[187] Phase 3 Trial of Sotatercept for Treatment of Pulmonary Arterial Hypertension. NEJM. https://www.nejm.org/doi/full/10.1056/NEJMoa2213558
+<a id="ref186" name="ref186"></a>[186] EMA. (2024). Winrevair (sotatercept) EPAR Product Information. https://www.ema.europa.eu/en/documents/product-information/winrevair-epar-product-information_en.pdf
 
-[188] Sotatercept. DrugBank. https://go.drugbank.com/drugs/DB12118
+<a id="ref187" name="ref187"></a>[187] Phase 3 Trial of Sotatercept for Treatment of Pulmonary Arterial Hypertension. *New England Journal of Medicine*. [https://www.nejm/doi/full/10.1056/NEJMoa2213558](https://www.nejm/doi/full/10.1056/NEJMoa2213558)
 
-[191] FDA. (2001). OP-1 Implant Summary of Safety and Probable Benefit (HDE H010002). https://www.accessdata.fda.gov/cdrh_docs/pdf/H010002b.pdf
+<a id="ref188" name="ref188"></a>[188] Sotatercept. DrugBank. https://go.drugbank.com/drugs/DB12118
 
-[193] FDA. (2011). OP-1 Implant HDE Supplement S031. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfhde/hde.cfm?id=376062
+<a id="ref191" name="ref191"></a>[191] FDA. (2001). OP-1 Implant Summary of Safety and Probable Benefit (HDE H010002). https://www.accessdata.fda.gov/cdrh_docs/pdf/H010002b.pdf
 
-[194] FDA. (2004). OP-1 Putty HDE H020008. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfhde/hde.cfm?id=375512
+<a id="ref193" name="ref193"></a>[193] FDA. (2011). OP-1 Implant HDE Supplement S031. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfhde/hde.cfm?id=376062
 
-[195] VA Patient Safety Alert AL09-13. (2009). FDA Public Health Notification on rhBMP cervical spine complications. https://www.patientsafety.va.gov/docs/alerts/AL09-13MedtronicInfuse.pdf
+<a id="ref194" name="ref194"></a>[194] FDA. (2004). OP-1 Putty HDE H020008. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfhde/hde.cfm?id=375512
 
-[198] FDA. (2023). Palovarotene (Sohonos) Orphan Drug Designation and Approval. https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=438714
+<a id="ref195" name="ref195"></a>[195] VA Patient Safety Alert AL09-13. (2009). FDA Public Health Notification on rhBMP cervical spine complications. https://www.patientsafety.va.gov/docs/alerts/AL09-13MedtronicInfuse.pdf
 
-[199] FDA. (2023). Palovarotene (Sohonos) Integrated Review (NDA 215559). https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215559Orig1s000IntegratedR.pdf
+<a id="ref198" name="ref198"></a>[198] FDA. (2023). Palovarotene (Sohonos) Orphan Drug Designation and Approval. https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=438714
 
-[200] Ipsen. (2023). US FDA approves Ipsen's Sohonos (palovarotene) capsules. https://www.ipsen.com/press-release/us-fda-approves-ipsens-sohonostm-palovarotene-capsules-the-first-and-only-treatment-for-people-with-fibrodysplasia-ossificans-progressiva/
+<a id="ref199" name="ref199"></a>[199] FDA. (2023). Palovarotene (Sohonos) Integrated Review (NDA 215559). https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215559Orig1s000IntegratedR.pdf
 
-[202] BioPharma Dive. (2023). FDA clears Ipsen bone drug despite questions about its benefits. https://www.biopharmadive.com/news/ipsen-fda-sohonos-fibrodysplasia-ossificans-progressiva/691151/
+<a id="ref200" name="ref200"></a>[200] Ipsen. (2023). US FDA approves Ipsen's Sohonos (palovarotene) capsules. https://www.ipsen.com/press-release/us-fda-approves-ipsens-sohonostm-palovarotene-capsules-the-first-and-only-treatment-for-people-with-fibrodysplasia-ossificans-progressiva/
 
-[203] EMA. (2023). Refusal of the marketing authorisation for Sohonos (palovarotene). https://www.ema.europa.eu/en/medicines/human/EPAR/sohonos
+<a id="ref202" name="ref202"></a>[202] BioPharma Dive. (2023). FDA clears Ipsen bone drug despite questions about its benefits. https://www.biopharmadive.com/news/ipsen-fda-sohonos-fibrodysplasia-ossificans-progressiva/691151/
 
-[206] Medtronic. INFUSE Bone Graft - Indications, Safety, and Warnings. https://www.medtronic.com/en-us/l/isw/infuse-bone-graft-indications-safety-warnings.html
+<a id="ref203" name="ref203"></a>[203] EMA. (2023). Refusal of the marketing authorisation for Sohonos (palovarotene). https://www.ema.europa.eu/en/medicines/human/EPAR/sohonos
 
-[207] FDA. INFUSE BONE GRAFT/LT-CAGE PMA P000058. https://www.accessdata.fda.gov/SCRIPTS/cdrh/devicesatfda/index.cfm?db=pma&id=349122
+<a id="ref206" name="ref206"></a>[206] Medtronic. INFUSE Bone Graft - Indications, Safety, and Warnings. https://www.medtronic.com/en-us/l/isw/infuse-bone-graft-indications-safety-warnings.html
 
-[208] FDA. INFUSE Bone Graft Prescribing Information (P000054). https://www.accessdata.fda.gov/cdrh_docs/pdf/p000054c.pdf
+<a id="ref207" name="ref207"></a>[207] FDA. (2024). INFUSE BONE GRAFT/LT-CAGE PMA P000058. https://accessdata.fda.gov/SCRIPTS/cdrh/devicesatfda/index.cfm?db=pma&id=349122
 
-[209] Medtronic. Infuse Bone Graft product page. https://www.medtronic.com/en-us/healthcare-professionals/products/bone-grafting/autograft-replacements-growth-factors/infuse-bone-graft.html
+<a id="ref208" name="ref208"></a>[208] FDA. (2024). INFUSE Bone Graft Prescribing Information (P000054). https://accessdata.fda.gov/cdrh_docs/pdf/p000054c.pdf
 
-[212] Blue Cross NC. Bone Morphogenetic Protein policy. https://www.bluecrossnc.com/providers/policies-guidelines-codes/commercial/surgery/updates/bone-morphogenetic-protein
+<a id="ref209" name="ref209"></a>[209] Medtronic. Infuse Bone Graft product page. https://www.medtronic.com/en-us/healthcare-professionals/products/bone-grafting/autograft-replacements-growth-factors/
 
-[222] Hyung-Seok Kim, Judith M. Neugebauer, Autumn M. McKnite, et al. (2019). BMP7 functions predominantly as a heterodimer with BMP2 or BMP4 during mammalian embryogenesis. eLife. https://doi.org/10.7554/elife.48872
+<a id="ref212" name="ref212"></a>[212] Blue Cross NC. Bone Morphogenetic Protein policy. https://www.bluecrossnc.com/providers/policies-guidelines-codes/commercial/surgery/updates/bone-morphogenetic-protein
 
-[223] T. Katagiri, Shruti Boorla, J. Frendo, et al. (1998). Skeletal abnormalities in doubly heterozygous Bmp4 and Bmp7 mice. Developmental Genetics. https://doi.org/10.1002/(sici)1520-6408(1998)22:4<340::aid-dvg4>3.0.co;2-6
+<a id="ref222" name="ref222"></a>[222] Hyung-Seok Kim, Judith M. Neugebauer, Autumn M. McKnite, et al. (2019). BMP7 functions predominantly as a heterodimer with BMP2 or BMP4 during mammalian embryogenesis. *eLife*. [https://doi.org/10.7554/elife.48872](https://doi.org/10.7554/elife.48872)
 
-[224] Devorah C. Goldman, Nathan Donley, Jan L. Christian. (2008). Genetic interaction between Bmp2 and Bmp4 reveals shared functions during multiple aspects of mouse organogenesis. Mechanisms of Development. https://doi.org/10.1016/j.mod.2008.11.008
+<a id="ref223" name="ref223"></a>[223] T. Katagiri, Shruti Boorla, J. Frendo, et al. (1998). Skeletal abnormalities in doubly heterozygous Bmp4 and Bmp7 mice. *Developmental Genetics*. [https://doi.org/10.1002/(sici)1520-6408(1998)22:4<340::aid-dvg4>3.0.co;2-6](https://doi.org/10.1002/(sici)1520-6408(1998)22:4<340::aid-dvg4>3.0.co;2-6)
 
-[227] Kentaro Suzuki, Yasuha Adachi, Tomokazu Numata, et al. (2012). Reduced BMP Signaling Results in Hindlimb Fusion with Lethal Pelvic/Urogenital Organ Aplasia: A New Mouse Model of Sirenomelia. PLoS ONE. https://doi.org/10.1371/journal.pone.0043453
+<a id="ref224" name="ref224"></a>[224] Devorah C. Goldman, Nathan Donley, Jan L. Christian. (2008). Genetic interaction between Bmp2 and Bmp4 reveals shared functions during multiple aspects of mouse organogenesis. *Mechanisms of Development*. [https://doi.org/10.1016/j.mod.2008.11.008](https://doi.org/10.1016/j.mod.2008.11.008)
 
-[229] Claire Bouvard, Ly Tu, Martina Rossi, et al. (2021). Different cardiovascular and pulmonary phenotypes for single- and double-knock-out mice deficient in BMP9 and BMP10. Cardiovascular Research. https://doi.org/10.1093/cvr/cvab187
+<a id="ref227" name="ref227"></a>[227] Kentaro Suzuki, Yasuha Adachi, Tomokazu Numata, et al. (2012). Reduced BMP Signaling Results in Hindlimb Fusion with Lethal Pelvic/Urogenital Organ Aplasia: A New Mouse Model of Sirenomelia. *PLOS ONE*. [https://doi.org/10.1371/journal.pone.0043453](https://doi.org/10.1371/journal.pone.0043453)
 
-[232] Hyunwoo Choi, Bo-Gyeong Kim, Y. H. Kim, et al. (2022). BMP10 functions independently from BMP9 for the development of a proper arteriovenous network. Angiogenesis. https://doi.org/10.1007/s10456-022-09859-0
+<a id="ref229" name="ref229"></a>[229] Claire Bouvard, Ly Tu, Martina Rossi, et al. (2021). Different cardiovascular and pulmonary phenotypes for single- and double-knock-out mice deficient in BMP9 and BMP10. *Cardiovascular Research*. [https://doi.org/10.1093/cvr/cvab187](https://doi.org/10.1093/cvr/cvab187)
 
-[237] Takashi Uchimura, Yoshihiro Komatsu, Momo Tanaka, et al. (2009). Bmp2 and Bmp4 Genetically Interact to Support Multiple Aspects of Mouse Development Including Functional Heart Development. Genesis. https://doi.org/10.1002/dvg.20511
+<a id="ref232" name="ref232"></a>[232] Hyunwoo Choi, Bo-Gyeong Kim, Y. H. Kim, et al. (2022). BMP10 functions independently from BMP9 for the development of a proper arteriovenous network. *Angiogenesis*. [https://doi.org/10.1007/s10456-022-09859-0](https://doi.org/10.1007/s10456-022-09859-0)
 
-[241] Amitabha Bandyopadhyay, Kunikazu Tsuji, Karen Cox, et al. (2006). Genetic Analysis of the Roles of BMP2, BMP4, and BMP7 in Limb Patterning and Skeletogenesis. PLoS Genetics. https://doi.org/10.1371/journal.pgen.0020216
+<a id="ref237" name="ref237"></a>[237] Takashi Uchimura, Yoshihiro Komatsu, Momo Tanaka, et al. (2009). Bmp2 and Bmp4 Genetically Interact to Support Multiple Aspects of Mouse Development Including Functional Heart Development. *Genesis*. [https://doi.org/10.1002/dvg.20511](https://doi.org/10.1002/dvg.20511)
 
-[245] Judith M. Neugebauer, Sunjong Kwon, Hyung-Seok Kim, et al. (2015). The prodomain of BMP4 is necessary and sufficient to generate stable BMP4/7 heterodimers with enhanced bioactivity in vivo. PNAS. https://doi.org/10.1073/pnas.1501449112
+<a id="ref241" name="ref241"></a>[241] Amitabha Bandyopadhyay, Kunikazu Tsuji, Karen Cox, et al. (2006). Genetic Analysis of the Roles of BMP2, BMP4, and BMP7 in Limb Patterning and Skeletogenesis. *PLOS Genetics*. [https://doi.org/10.1371/journal.pgen.0020216](https://doi.org/10.1371/journal.pgen.0020216)
 
-[248] Shreyas Rajesh, G. Gipson, A. Zeghibe, et al. (2024). Combined BMP9 and BMP10 inhibition elicits HHT-like phenotypes in susceptible mice. Circulation. https://doi.org/10.1161/circ.150.suppl_1.4147280
+<a id="ref245" name="ref245"></a>[245] Judith M. Neugebauer, Sunjong Kwon, Hyung-Seok Kim, et al. (2015). The prodomain of BMP4 is necessary and sufficient to generate stable BMP4/7 heterodimers with enhanced bioactivity in vivo. *PNAS*. [https://doi.org/10.1073/pnas.1501449112](https://doi.org/10.1073/pnas.1501449112)
 
-[251] Ricard N, Ciais D, Levet S, et al. (2012). BMP9 and BMP10 are critical for postnatal retinal vascular remodeling. Blood. https://pmc.ncbi.nlm.nih.gov/articles/PMC3383024/
+<a id="ref248" name="ref248"></a>[248] Shreyas Rajesh, G. Gipson, A. Zeghibe, et al. (2024). Combined BMP9 and BMP10 inhibition elicits HHT-like phenotypes in susceptible mice. *Circulation*. [https://doi.org/10.1161/circ.150.suppl_1.4147280](https://doi.org/1161/circ.150.suppl_1.4147280)
 
-[252] Santiago Ruiz, Haitian Zhao, Pallavi Chandakkar, et al. (2016). A mouse model of hereditary hemorrhagic telangiectasia generated by transmammary-delivered immunoblocking of BMP9 and BMP10. Scientific Reports. https://doi.org/10.1038/srep37366
+<a id="ref251" name="ref251"></a>[251] Ricard N, Ciais D, Levet S, et al. (2012). BMP9 and BMP10 are critical for postnatal retinal vascular remodeling. https://pmc.ncbi.nlm.nih.gov/articles/PMC3383024/
 
-[253] Mark J. Solloway, Elizabeth J. Robertson. (1999). Early embryonic lethality in Bmp5;Bmp7 double mutant mice suggests functional redundancy within the 60A subgroup. Development. https://doi.org/10.1242/dev.126.8.1753
+<a id="ref252" name="ref252"></a>[252] Santiago Ruiz, Haitian Zhao, Pallavi Chandakkar, et al. (2016). A mouse model of hereditary hemorrhagic telangiectasia generated by transmammary-delivered immunoblocking of BMP9 and BMP10. *Scientific Reports*. [https://doi.org/10.1038/srep37366](https://doi.org/10.1038/srep37366)
+
+<a id="ref253" name="ref253"></a>[253] Mark J. Solloway, Elizabeth J. Robertson. (1999). Early embryonic lethality in Bmp5;Bmp7 double mutant mice suggests functional redundancy within the 60A subgroup. *Development*. [https://doi.org/10.1242/dev.126.8.1753](https://doi.org/10.1242/dev.126.8.1753)
