@@ -37,7 +37,7 @@ Nunn 等（2024, Mol Metab）在 DIO 小鼠中证明 bimagrumab + semaglutide �
 | Semaglutide 单药 | ~50% | -10% |
 | **联合治疗** | **~70%** | **保留** |
 
-BELIEVE Phase 2 试验（Heymsfield 等, 2026, Nat Med）在 507 例肥胖成人中证实 [67]<a href="#ref-67">[67]</a>：
+BELIEVE Phase 2 试验（Heymsfield 等, 2026, Nat Med）在 507 例肥胖成人中证实 <a href="#ref-67">[67]</a>：
 
 | 治疗组 | 体重变化（48 周） |
 |--------|-------------------|
@@ -98,15 +98,15 @@ BELIEVE Phase 2 试验（Heymsfield 等, 2026, Nat Med）在 507 例肥胖成人
 
 #### 应阻断：Activin A
 
-- **Activin A 是比 GDF8 更重要的肌肉负调节因子（在灵长类中）**：Latres 等（2017, Nat Commun）证明在灵长类中 Activin A 对肌肉质量的负向调节作用比 GDF8 更显著；同时抑制 Activin A 和 GDF8 产生的肌肉肥大和力量增强显著优于单独抑制任一配体 [64]<a href="#ref-64">[64]</a>。
-- **Activin A 通过 p38β MAPK 诱导肌肉分解**：Ding 等（2016, J Cachexia Sarcopenia Muscle）证明 Activin A 通过 p38β MAPK 激活肌肉蛋白水解，阻断 p38β MAPK 可防止 ActRIIB 介导的分解代谢 [41]<a href="#ref-41">[41]</a>。
-- **联合阻断 Activin A + GDF8 可增加肌肉量高达 150%**：Chen 等（2017, PNAS）证明联合抑制 activins 和 myostatin 可使肌肉量增加约 150%，在肌营养不良和癌症恶病质模型中具有治疗潜力 [29]<a href="#ref-29">[29]</a>。
-- **受体层面的双重重要性**：Morvan 等（2017, PNAS）证明同时阻断 ActRIIA 和 ActRIIB（bimagrumab）才能完全中和 myostatin/activin A 的 Smad2/3 信号，单独阻断任一受体仅减少 30-50% 信号 [32]<a href="#ref-32">[32]</a>。配体层面同理——需同时中和 Activin A 和 GDF8。
+- **Activin A 是比 GDF8 更重要的肌肉负调节因子（在灵长类中）**：Latres 等（2017, Nat Commun）证明在灵长类中 Activin A 对肌肉质量的负向调节作用比 GDF8 更显著；同时抑制 Activin A 和 GDF8 产生的肌肉肥大和力量增强显著优于单独抑制任一配体<a href="#ref-64">[64]</a>。
+- **Activin A 通过 p38β MAPK 诱导肌肉分解**：Ding 等（2016, J Cachexia Sarcopenia Muscle）证明 Activin A 通过 p38β MAPK 激活肌肉蛋白水解，阻断 p38β MAPK 可防止 ActRIIB 介导的分解代谢<a href="#ref-41">[41]</a>。
+- **联合阻断 Activin A + GDF8 可增加肌肉量高达 150%**：Chen 等（2017, PNAS）证明联合抑制 activins 和 myostatin 可使肌肉量增加约 150%，在肌营养不良和癌症恶病质模型中具有治疗潜力<a href="#ref-29">[29]</a>。
+- **受体层面的双重重要性**：Morvan 等（2017, PNAS）证明同时阻断 ActRIIA 和 ActRIIB（bimagrumab）才能完全中和 myostatin/activin A 的 Smad2/3 信号，单独阻断任一受体仅减少 30-50% 信号<a href="#ref-32">[32]</a>。配体层面同理——需同时中和 Activin A 和 GDF8。
 
 #### 应阻断：Activin B
 
-- **Activin B 通过 ActRII → Smad2/3 信号诱导肌肉萎缩**：与 Activin A 共享下游信号通路，在肌肉中具有冗余的负调节功能 [39, 41]<a href="#ref-39,41">[49,41]</a>。
-- **Activin B 促进肝纤维化**：Wang 等（2022, Hepatol Commun）证明 Activin B 水平与肝损伤程度相关，中和 Activin B 在 CCl4 诱导的纤维化模型中可显著预防和改善纤维化，通过抑制 JNK/iNOS/PARP1 信号和减少肝星状细胞活化 [63]<a href="#ref-63">[63]</a>。
+- **Activin B 通过 ActRII → Smad2/3 信号诱导肌肉萎缩**：与 Activin A 共享下游信号通路，在肌肉中具有冗余的负调节功能<a href="#ref-39,41">[49,41]</a>。
+- **Activin B 促进肝纤维化**：Wang 等（2022, Hepatol Commun）证明 Activin B 水平与肝损伤程度相关，中和 Activin B 在 CCl4 诱导的纤维化模型中可显著预防和改善纤维化，通过抑制 JNK/iNOS/PARP1 信号和减少肝星状细胞活化<a href="#ref-63">[63]</a>。
 
 #### 应阻断：pro/latent GDF8
 
@@ -135,23 +135,23 @@ BELIEVE Phase 2 试验（Heymsfield 等, 2026, Nat Med）在 507 例肥胖成人
 
 #### 应阻断：Activin A + GDF8
 
-- **Bima 临床试验证明 ActRII 阻断显著减脂**：Heymsfield 等（2021, JAMA Netw Open）在 T2D+肥胖患者中，bimagrumab 48 周治疗使体脂减少 21%（vs 安慰剂 0.5%），同时瘦体重增加 3.6% [65, 70]<a href="#ref-65,70">[65,70]</a>。
-- **GDF8 抑制改善脂肪组织和胰岛素敏感性**：Dong 等（2015, Int J Obes）证明抑制小鼠 myostatin 可通过 irisin 介导的肌肉-脂肪串扰改善胰岛素敏感性并促进白色脂肪棕色化 [44]<a href="#ref-44">[44]</a>。
-- **Myostatin 与肥胖和代谢综合征相关**：Myostatin 水平升高与脂肪量增加、葡萄糖耐量受损和胰岛素抵抗相关；抑制 myostatin 可减少脂肪量并改善胰岛素敏感性 [51, 52, 53, 54]<a href="#ref-51, 52, 53, 54">[51, 52, 53, 54]</a>。
-- **ActRII 阻断 + GLP-1 联合显著增强减脂**：Nunn 等（2024, Mol Metab）在 DIO 小鼠中证明 bimagrumab 单独使脂肪减少约 30%，semaglutide 单独约 50%，联合治疗达 70% 脂肪减少——优于任一单药 [35]<a href="#ref-35">[35]</a>。
+- **Bima 临床试验证明 ActRII 阻断显著减脂**：Heymsfield 等（2021, JAMA Netw Open）在 T2D+肥胖患者中，bimagrumab 48 周治疗使体脂减少 21%（vs 安慰剂 0.5%），同时瘦体重增加 3.6%<a href="#ref-65,70">[65,70]</a>。
+- **GDF8 抑制改善脂肪组织和胰岛素敏感性**：Dong 等（2015, Int J Obes）证明抑制小鼠 myostatin 可通过 irisin 介导的肌肉-脂肪串扰改善胰岛素敏感性并促进白色脂肪棕色化 <a href="#ref-44">[44]</a>。
+- **Myostatin 与肥胖和代谢综合征相关**：Myostatin 水平升高与脂肪量增加、葡萄糖耐量受损和胰岛素抵抗相关；抑制 myostatin 可减少脂肪量并改善胰岛素敏感性 <a href="#ref-51, 52, 53, 54">[51, 52, 53, 54]</a>。
+- **ActRII 阻断 + GLP-1 联合显著增强减脂**：Nunn 等（2024, Mol Metab）在 DIO 小鼠中证明 bimagrumab 单独使脂肪减少约 30%，semaglutide 单独约 50%，联合治疗达 70% 脂肪减少——优于任一单药 <a href="#ref-35">[35]</a>。
 
 #### 不应阻断：GDF11
 
-- **GDF11 抑制脂肪生成并改善脂肪细胞代谢**：Frohlich 等（2022, Cell Prolif）证明 GDF11 通过 WNT/β-catenin 和 ALK5/SMAD2/3 通路抑制脂肪生成并改善成熟脂肪细胞的葡萄糖代谢 [98]<a href="#ref-98">[98]</a>。Lin 等（2023, Heliyon）证明 GDF11 通过 ALK5/KLF15/β-catenin/PPARγ 级联抑制人脂肪基质细胞的脂肪分化 [100]<a href="#ref-100">[100]</a>。
-- **GDF11 基因转移防止高脂饮食诱导的肥胖**：Lu 等（2019, J Transl Med）证明 GDF11 基因转移可防止高脂饮食诱导的肥胖并改善代谢稳态 [96]<a href="#ref-96">[96]</a>。
-- **外源 GDF11 减少体重并改善葡萄糖稳态**：Walker 等（2020, Sci Rep）证明外源 rGDF11（而非 rGDF8）减少体重并改善葡萄糖耐量 [99]<a href="#ref-99">[99]</a>。
-- **GDF11 促进脂肪棕色化**：Sagliocchi 等（2026, J Basic Clin Physiol Pharmacol）证明 GDF11 通过 Smad2/3 信号促进冷诱导的脂肪棕色化和代谢激活 [101]<a href="#ref-101">[101]</a>。
-- **GDF11 刺激脂联素分泌**：Katsimpardi 等（2019, Aging Cell）证明全身性 GDF11 刺激脂联素分泌并在老年小鼠中诱导类似热量限制的表型 [97]<a href="#ref-97">[97]</a>。
+- **GDF11 抑制脂肪生成并改善脂肪细胞代谢**：Frohlich 等（2022, Cell Prolif）证明 GDF11 通过 WNT/β-catenin 和 ALK5/SMAD2/3 通路抑制脂肪生成并改善成熟脂肪细胞的葡萄糖代谢 <a href="#ref-98">[98]</a>。Lin 等（2023, Heliyon）证明 GDF11 通过 ALK5/KLF15/β-catenin/PPARγ 级联抑制人脂肪基质细胞的脂肪分化 <a href="#ref-100">[100]</a>。
+- **GDF11 基因转移防止高脂饮食诱导的肥胖**：Lu 等（2019, J Transl Med）证明 GDF11 基因转移可防止高脂饮食诱导的肥胖并改善代谢稳态 <a href="#ref-96">[96]</a>。
+- **外源 GDF11 减少体重并改善葡萄糖稳态**：Walker 等（2020, Sci Rep）证明外源 rGDF11（而非 rGDF8）减少体重并改善葡萄糖耐量 <a href="#ref-99">[99]</a>。
+- **GDF11 促进脂肪棕色化**：Sagliocchi 等（2026, J Basic Clin Physiol Pharmacol）证明 GDF11 通过 Smad2/3 信号促进冷诱导的脂肪棕色化和代谢激活 <a href="#ref-101">[101]</a>。
+- **GDF11 刺激脂联素分泌**：Katsimpardi 等（2019, Aging Cell）证明全身性 GDF11 刺激脂联素分泌并在老年小鼠中诱导类似热量限制的表型 <a href="#ref-97">[97]</a>。
 
 #### 不应阻断：BMP9/BMP10
 
-- **BMP9 影响脂肪生成和胰岛素信号**：Chen 等（2021, J Diabetes Res）综述指出 BMP9 与胰岛素抵抗、脂肪量和肝脏葡萄糖处理相关 [83]<a href="#ref-83">[83]</a>。
-- **BMP9/10 协调肝脏细胞间通讯**：Zhao 等（2024, eLife）证明肝星状细胞通过产生 GDF2（BMP9）和 BMP10 维持肝脏健康和器官身份 [79]<a href="#ref-79">[79]</a>。
+- **BMP9 影响脂肪生成和胰岛素信号**：Chen 等（2021, J Diabetes Res）综述指出 BMP9 与胰岛素抵抗、脂肪量和肝脏葡萄糖处理相关<a href="#ref-83">[83]</a>。
+- **BMP9/10 协调肝脏细胞间通讯**：Zhao 等（2024, eLife）证明肝星状细胞通过产生 GDF2（BMP9）和 BMP10 维持肝脏健康和器官身份<a href="#ref-79">[79]</a>。
 
 ---
 
@@ -159,24 +159,24 @@ BELIEVE Phase 2 试验（Heymsfield 等, 2026, Nat Med）在 507 例肥胖成人
 
 #### 应阻断：GDF8
 
-- **GDF8 抑制改善胰岛素敏感性**：Dong 等（2015）证明 myostatin 抑制通过 irisin 介导的肌肉-脂肪串扰改善胰岛素敏感性 [44]<a href="#ref-44">[44]</a>。Myostatin 水平与胰岛素抵抗正相关 [52]<a href="#ref-52">[52]</a>。
-- **Bima 改善 HbA1c**：在 T2D 患者中，bimagrumab 48 周治疗使 HbA1c 额外降低约 0.76 个百分点 [65, 70]<a href="#ref-65,70">[65,70]</a>。
+- **GDF8 抑制改善胰岛素敏感性**：Dong 等（2015）证明 myostatin 抑制通过 irisin 介导的肌肉-脂肪串扰改善胰岛素敏感性 [44]<a href="#ref-44">[44]</a>。Myostatin 水平与胰岛素抵抗正相关 <a href="#ref-52">[52]</a>。
+- **Bima 改善 HbA1c**：在 T2D 患者中，bimagrumab 48 周治疗使 HbA1c 额外降低约 0.76 个百分点 <a href="#ref-65,70">[65,70]</a>。
 
 #### 应阻断：Activin A
 
-- **Activin A 与代谢功能障碍相关**：Activin A 水平在 MASLD 患者中升高并与纤维化程度相关 [92]<a href="#ref-92">[92]</a>。
-- **联合阻断 Activin A + GDF8 对葡萄糖稳态的改善**：Nunn 等（2024）证明 bimagrumab + semaglutide 联合治疗显著降低血糖和胰岛素水平，增加脂联素，降低瘦素 [35]<a href="#ref-35">[35]</a>。
+- **Activin A 与代谢功能障碍相关**：Activin A 水平在 MASLD 患者中升高并与纤维化程度相关<a href="#ref-92">[92]</a>。
+- **联合阻断 Activin A + GDF8 对葡萄糖稳态的改善**：Nunn 等（2024）证明 bimagrumab + semaglutide 联合治疗显著降低血糖和胰岛素水平，增加脂联素，降低瘦素 <a href="#ref-35">[35]</a>。
 
 #### 应阻断：Activin B（含重要注意事项）
 
-- **理由**：Activin B 通过 ActRII → Smad2/3 信号在肌肉中与 Activin A 冗余；Activin B 促进肝纤维化 [63]<a href="#ref-63">[63]</a>。
-- **重要注意事项**：Kobayashi 等（2025, Nat Commun）发现 Activin B 在葡萄糖代谢中具有**有益作用**——通过诱导 FGF21 改善胰岛素敏感性，通过上调 PDE4B 抑制肝脏胰高血糖素作用（肝脏胰高血糖素抵抗），并通过高胰高血糖素血症增强葡萄糖刺激的胰岛素分泌（GSIS）[60]<a href="#ref-60">[60]</a>。
-- **GLP-1 组分的补偿作用**：双抗中的 GLP-1R 激动组分可补偿 Activin B 阻断后丧失的降糖效应——GLP-1 本身即改善胰岛素敏感性、抑制肝糖输出、增强 GSIS。此外，肥胖状态下 FSTL3（Activin B 内源性抑制剂）在脂肪组织中已升高 [60]<a href="#ref-60">[60]</a>，Activin B 的有益代谢效应在肥胖中本已被部分抑制。
+- **理由**：Activin B 通过 ActRII → Smad2/3 信号在肌肉中与 Activin A 冗余；Activin B 促进肝纤维化 <a href="#ref-63">[63]</a>。
+- **重要注意事项**：Kobayashi 等（2025, Nat Commun）发现 Activin B 在葡萄糖代谢中具有**有益作用**——通过诱导 FGF21 改善胰岛素敏感性，通过上调 PDE4B 抑制肝脏胰高血糖素作用（肝脏胰高血糖素抵抗），并通过高胰高血糖素血症增强葡萄糖刺激的胰岛素分泌（GSIS）<a href="#ref-60">[60]</a>。
+- **GLP-1 组分的补偿作用**：双抗中的 GLP-1R 激动组分可补偿 Activin B 阻断后丧失的降糖效应——GLP-1 本身即改善胰岛素敏感性、抑制肝糖输出、增强 GSIS。此外，肥胖状态下 FSTL3（Activin B 内源性抑制剂）在脂肪组织中已升高 <a href="#ref-60">[60]</a>，Activin B 的有益代谢效应在肥胖中本已被部分抑制。
 - **需监测的指标**：FGF21 水平、胰高血糖素水平、GSIS 反应。
 
 #### 不应阻断：GDF11
 
-- **GDF11 改善葡萄糖稳态**：外源 rGDF11 改善葡萄糖耐量 [99]<a href="#ref-99">[99]</a>；GDF11 基因转移改善代谢稳态 [96]<a href="#ref-96">[96]</a>；GDF11 改善脂肪细胞葡萄糖摄取和胰岛素信号 [98]<a href="#ref-98">[98]</a>。
+- **GDF11 改善葡萄糖稳态**：外源 rGDF11 改善葡萄糖耐量 <a href="#ref-99">[99]</a>；GDF11 基因转移改善代谢稳态 [96]<a href="#ref-96">[96]</a>；GDF11 改善脂肪细胞葡萄糖摄取和胰岛素信号 <a href="#ref-98">[98]</a>。
 - **GDF11 刺激脂联素分泌**：脂联素是改善胰岛素敏感性的关键脂肪因子 [97]<a href="#ref-97">[97]</a>。
 
 #### 不应阻断：BMP9/BMP10
@@ -190,20 +190,20 @@ BELIEVE Phase 2 试验（Heymsfield 等, 2026, Nat Med）在 507 例肥胖成人
 
 #### 应阻断：Activin A
 
-- **Activin A 促进肝纤维化**：Hamang 等（2023, Biochem Pharmacol）综述指出 Activin A 信号与肝纤维化和肝细胞损伤相关，促进细胞外基质产生和肝细胞凋亡；抑制 activins 在小鼠模型中可减轻肝纤维化并支持再生 [93]<a href="#ref-93">[93]</a>。
-- **Activin A 拮抗剂减轻肝纤维化**：Mekala 等（2024, Cells）证明 Activin A 拮抗剂 NUCC-555 可抑制 Activin A 诱导的基因表达和肝星状细胞活化标志物 [94]<a href="#ref-94">[94]</a>。
-- **情境依赖性注意**：Liu 等（2023, Diabetes）报告在 MASLD 模型中过表达 Activin A 反而减轻了肝脏脂肪变性和炎症 [91]<a href="#ref-91">[91]</a>，提示 Activin A 在肝脏中的角色可能具有情境依赖性。但该研究使用的是过表达而非中和，且在疾病模型中 Activin A 的净效应可能不同于生理水平。临床数据（Activin A 水平与肝纤维化正相关 [92]<a href="#ref-92">[92]</a>）支持阻断策略。
+- **Activin A 促进肝纤维化**：Hamang 等（2023, Biochem Pharmacol）综述指出 Activin A 信号与肝纤维化和肝细胞损伤相关，促进细胞外基质产生和肝细胞凋亡；抑制 activins 在小鼠模型中可减轻肝纤维化并支持再生 <a href="#ref-93">[93]</a>。
+- **Activin A 拮抗剂减轻肝纤维化**：Mekala 等（2024, Cells）证明 Activin A 拮抗剂 NUCC-555 可抑制 Activin A 诱导的基因表达和肝星状细胞活化标志物 <a href="#ref-94">[94]</a>。
+- **情境依赖性注意**：Liu 等（2023, Diabetes）报告在 MASLD 模型中过表达 Activin A 反而减轻了肝脏脂肪变性和炎症 <a href="#ref-91">[91]</a>，提示 Activin A 在肝脏中的角色可能具有情境依赖性。但该研究使用的是过表达而非中和，且在疾病模型中 Activin A 的净效应可能不同于生理水平。临床数据（Activin A 水平与肝纤维化正相关 <a href="#ref-92">[92]</a>）支持阻断策略。
 
 #### 应阻断：Activin B
 
-- **Activin B 促进肝纤维化启动和进展**：Wang 等（2022, Hepatol Commun）证明 Activin B 水平与肝损伤相关，中和 Activin B 在 CCl4 模型中可显著预防和改善纤维化 [63]<a href="#ref-63">[63]</a>。
-- **Activin B 诱导铁调素**：Canali 等（2016, Endocrinology）证明 Activin B（而非 Activin A）在肝细胞中通过非经典 Smad1/5/8 信号（经 BMP I 型受体 ALK2/ALK3）诱导铁调素表达，参与炎症性贫血 [61]<a href="#ref-61">[61]</a>。Kanamori 等（2016, Sci Rep）证实 Activin B 通过 ALK2/ActRIIA 信号和 BR-Smad 激活直接增加铁调素转录 [62]<a href="#ref-62">[62]</a>。
+- **Activin B 促进肝纤维化启动和进展**：Wang 等（2022, Hepatol Commun）证明 Activin B 水平与肝损伤相关，中和 Activin B 在 CCl4 模型中可显著预防和改善纤维化 <a href="#ref-63">[63]</a>。
+- **Activin B 诱导铁调素**：Canali 等（2016, Endocrinology）证明 Activin B（而非 Activin A）在肝细胞中通过非经典 Smad1/5/8 信号（经 BMP I 型受体 ALK2/ALK3）诱导铁调素表达，参与炎症性贫血 <a href="#ref-61">[61]</a>。Kanamori 等（2016, Sci Rep）证实 Activin B 通过 ALK2/ActRIIA 信号和 BR-Smad 激活直接增加铁调素转录 <a href="#ref-62">[62]</a>。
 - **阻断 Activin B 对铁代谢的影响需评估**：阻断 Activin B 可能降低铁调素水平，理论上可改善炎症性贫血，但也需监测铁稳态。
 
 #### 不应阻断：BMP9/BMP10
 
-- **BMP9 是肝脏铁调素的核心调节因子**：BMP9 信号通过 SMAD 通路调节肝铁调素表达，控制系统铁代谢 [85, 82]<a href="#ref-85，82">[85，82]</a>。阻断 BMP9 可导致铁过载。
-- **BMP9/10 维持肝脏健康**：Zhao 等（2024, eLife）证明肝星状细胞通过产生 GDF2（BMP9）和 BMP10 促进分化和维持器官身份 [79]<a href="#ref-79">[79]</a>。Chen 等（2024, Biomolecules）综述了 BMP9 在肝脏疾病中的作用 [85]<a href="#ref-85">[85]</a>。
+- **BMP9 是肝脏铁调素的核心调节因子**：BMP9 信号通过 SMAD 通路调节肝铁调素表达，控制系统铁代谢 <a href="#ref-85，82">[85，82]</a>。阻断 BMP9 可导致铁过载。
+- **BMP9/10 维持肝脏健康**：Zhao 等（2024, eLife）证明肝星状细胞通过产生 GDF2（BMP9）和 BMP10 促进分化和维持器官身份 <a href="#ref-79">[79]</a>。Chen 等（2024, Biomolecules）综述了 BMP9 在肝脏疾病中的作用 <a href="#ref-85">[85]</a>。
 - **Sotatercept 耗竭循环 BMP9/BMP10 的教训**：sotatercept 作为 ActRIIA-Fc 配体陷阱可能通过耗竭循环 BMP9 和 BMP10 导致 BMP 信号减少。
 
 #### 不应阻断：GDF11
@@ -217,11 +217,11 @@ BELIEVE Phase 2 试验（Heymsfield 等, 2026, Nat Med）在 507 例肥胖成人
 
 | 配体 | 增肌 | 减脂 | 糖代谢 | 肝脏 | **决策** |
 |------|------|------|--------|------|----------|
-| **Activin A** | 灵长类首要负调因子 [64]；联合阻断增肌 150% [29]<a href="#ref-29">[29]</a> | ActRII 阻断减脂 21% [65]<a href="#ref-65">[65]</a> | 与纤维化正相关 [92]<a href="#ref-92">[92]</a> | 促进纤维化 [93, 94]<a href="#ref-93，94">[93，94]</a> | **阻断** |
-| **Activin B** | 与 ActA 冗余 [39, 41]<a href="#ref-39.41">[39，41]</a> | — | 有益（FGF21/GSIS）[60]<a href="#ref-60">[60]</a>；GLP-1 补偿 | 促进纤维化 [63]<a href="#ref-63">[63]</a>；诱导铁调素 [61, 62]<a href="#ref-61，62">[61，62]</a> | **阻断**（监测糖代谢） |
-| **pro/latent GDF8** | 首要负调因子 [37, 42]；prodomain 靶向避 GDF11 [120] | 改善胰岛素敏感性 [44, 51] | 改善胰岛素敏感性 [44, 52]<a href="#ref-44，52">[44，52]</a> | — | **阻断** |
-| **GDF11** | 对力量有益；肌肉 KO 无影响 | 抑制脂肪生成 [98, 100]<a href="#ref-98，100">[98，100]</a>；防肥胖 [96] | 改善葡萄糖稳态 [99]<a href="#ref-99">[99]</a> | 抗衰老/抗氧化 | **不阻断** |
-| **BMP9** | — | 影响胰岛素信号 [83]<a href="#ref-83">[83]</a> | 调节铁调素/铁代谢 [85] | 铁调素核心调节 [85]<a href="#ref-85">[85]</a>；维持肝脏健康 [79]<a href="#ref-79">[79]</a> | **不阻断** |
+| **Activin A** | 灵长类首要负调因子<a href="#ref-64">[64]</a>；联合阻断增肌 150% <a href="#ref-29">[29]</a> | ActRII 阻断减脂 21% <a href="#ref-65">[65]</a> | 与纤维化正相关 <a href="#ref-92">[92]</a> | 促进纤维化 <a href="#ref-93，94">[93，94]</a> | **阻断** |
+| **Activin B** | 与 ActA 冗余<a href="#ref-39.41">[39，41]</a> | — | 有益（FGF21/GSIS）<a href="#ref-60">[60]</a>；GLP-1 补偿 | 促进纤维化 <a href="#ref-63">[63]</a>；诱导铁调素 <a href="#ref-61，62">[61，62]</a> | **阻断**（监测糖代谢） |
+| **pro/latent GDF8** | 首要负调因子<a href="#ref-37,42">[37，42]</a>；prodomain 靶向避 GDF11<a href="#ref-120">[120]</a> | 改善胰岛素敏感性<a href="#ref-44,51">[44,51]</a> | 改善胰岛素敏感性 <a href="#ref-44，52">[44，52]</a> | — | **阻断** |
+| **GDF11** | 对力量有益；肌肉 KO 无影响 | 抑制脂肪生成 [98, 100]<a href="#ref-98，100">[98，100]</a>；防肥胖 [96] | 改善葡萄糖稳态 <a href="#ref-99">[99]</a> | 抗衰老/抗氧化 | **不阻断** |
+| **BMP9** | — | 影响胰岛素信号<a href="#ref-83">[83]</a> | 调节铁调素/铁代谢 [85] | 铁调素核心调节 [85]<a href="#ref-85">[85]</a>；维持肝脏健康 <a href="#ref-79">[79]</a> | **不阻断** |
 | **BMP10** | — | — | — | 心脏发育必需；KO 致死 | **不阻断** |
 
 ---
@@ -234,17 +234,17 @@ BELIEVE Phase 2 试验（Heymsfield 等, 2026, Nat Med）在 507 例肥胖成人
 
 | 要素 | 详情 | 来源 |
 |------|------|------|
-| **细胞系** | HEK293T/17（ATCC），稳定转染 (CAGA)12-luciferase 报告基因 | Morvan 等, 2017, PNAS [32]<a href="#ref-32">[32]</a> |
-| **报告基因构建** | (CAGA)12-luciferase，源自 PAI-1 启动子，克隆至 pGL3 载体（Promega） | Morvan 等, 2017 [32]<a href="#ref-32">[32]</a> |
-| **检测系统** | Britelite Plus（Perkin-Elmer），Spectramax M5 读数 | Morvan 等, 2017 [32]<a href="#ref-32">[32]</a> |
-| **刺激配体** | 重组 Activin A（R&D Systems）→ 测量 Smad2/3 信号激活 | Morvan 等, 2017 [32]<a href="#ref-32">[32]</a> |
+| **细胞系** | HEK293T/17（ATCC），稳定转染 (CAGA)12-luciferase 报告基因 | Morvan 等, 2017, PNAS <a href="#ref-32">[32]</a> |
+| **报告基因构建** | (CAGA)12-luciferase，源自 PAI-1 启动子，克隆至 pGL3 载体（Promega） | Morvan 等, 2017 <a href="#ref-32">[32]</a> |
+| **检测系统** | Britelite Plus（Perkin-Elmer），Spectramax M5 读数 | Morvan 等, 2017 <a href="#ref-32">[32]</a> |
+| **刺激配体** | 重组 Activin A（R&D Systems）→ 测量 Smad2/3 信号激活 | Morvan 等, 2017<a href="#ref-32">[32]</a> |
 | **筛选流程** | 抗体库 + Activin A → CAGA12-Luc 活性下降 = 阳性命中 | — |
 | **二次确认** | 阳性命中再用 Activin B 刺激 → 确认交叉反应性 | — |
 
-**CAGA12 报告基因原理**：(CAGA)12 是 12 个重复的 Smad 结合元件（CAGAC 序列），来自 PAI-1 启动子。当 Activin A/B 或 GDF8/GDF11 结合 ActRII → 磷酸化 Smad2/3 → Smad2/3-Smad4 复合物入核结合 CAGA 元件 → 驱动 luciferase 表达。抗体中和配体后 → Smad2/3 信号降低 → luciferase 信号降低 [25, 26, 32]<a href="#ref-25，26，32">[25，26，32]</a>。
+**CAGA12 报告基因原理**：(CAGA)12 是 12 个重复的 Smad 结合元件（CAGAC 序列），来自 PAI-1 启动子。当 Activin A/B 或 GDF8/GDF11 结合 ActRII → 磷酸化 Smad2/3 → Smad2/3-Smad4 复合物入核结合 CAGA 元件 → 驱动 luciferase 表达。抗体中和配体后 → Smad2/3 信号降低 → luciferase 信号降低 <a href="#ref-25，26，32">[25，26，32]</a>。
 
 **备选/补充报告系统**：
-- **Ad-CAGA12-Luc 腺病毒报告系统**：Chen 等（2018, JoVE）开发的腺病毒载体（Ad-CAGA12-Luc），可在多种靶细胞中实现 >90-100% 感染效率，支持活细胞实时成像和体内 IVIS 成像 [25]<a href="#ref-25">[25]</a>。
+- **Ad-CAGA12-Luc 腺病毒报告系统**：Chen 等（2018, JoVE）开发的腺病毒载体（Ad-CAGA12-Luc），可在多种靶细胞中实现 >90-100% 感染效率，支持活细胞实时成像和体内 IVIS 成像 <a href="#ref-25">[25]</a>。
 - **CAGA12-Td-Tomato 荧光报告**：用于活细胞单细胞水平 Smad3 信号动态可视化 [26]<a href="#ref-26">[26]</a>。
 
 #### 4.1.2 正向筛选 2：pro/latent GDF8 结合与激活抑制筛选
@@ -255,7 +255,7 @@ pro/latent GDF8 不直接信号传导（无活性前体），因此筛选策略�
 
 | 要素 | 详情 | 来源 |
 |------|------|------|
-| **抗原** | 重组 pro/latent GDF8（含 prodomain + 成熟域，未切割形式） | Scholar Rock 方法学 [120, 121]<a href="#ref-120，121">[120，121]</a> |
+| **抗原** | 重组 pro/latent GDF8（含 prodomain + 成熟域，未切割形式） | Scholar Rock 方法学 <a href="#ref-120，121">[120，121]</a> |
 | **筛选方法** | 噬菌体展示/酵母展示库 → 固相 ELISA（pro/latent GDF8 包被）→ 结合阳性克隆 | — |
 | **反筛** | 同时用成熟 GDF8、GDF11 pro/latent 形式进行反筛 → 去除交叉反应克隆 | — |
 
@@ -263,12 +263,12 @@ pro/latent GDF8 不直接信号传导（无活性前体），因此筛选策略�
 
 | 要素 | 详情 | 来源 |
 |------|------|------|
-| **原理** | pro/latent GDF8 经 TLL2（tolloid-like 2）蛋白酶切割释放成熟 GDF8 → 成熟 GDF8 激活 ActRII → Smad2/3 信号 | Dagbay 等, 2020, JBC [120]<a href="#ref-120">[120]</a> |
-| **检测系统** | CAGA12-Luc HEK293T/17 细胞 + pro/latent GDF8 + TLL2 蛋白酶 → 测量 luciferase 信号。加入候选抗体后信号降低 = 抑制激活 | SRK-015 方法学 [120, 121]<a href="#ref-120，121">[120，121]</a> |
-| **确认** | Western blot 检测 pro/latent GDF8 切割产物（成熟 GDF8 条带减少） | Dagbay 等, 2020 [120]<a href="#ref-120">[120]</a> |
-| **血清生物标志物** | Cote 等（2019, SLAS Discovery）开发了血清 latent myostatin 定量免疫分析方法，可用于体内靶点结合验证 [121]<a href="#ref-121">[121]</a> | — |
+| **原理** | pro/latent GDF8 经 TLL2（tolloid-like 2）蛋白酶切割释放成熟 GDF8 → 成熟 GDF8 激活 ActRII → Smad2/3 信号 | Dagbay 等, 2020, JBC <a href="#ref-120">[120]</a> |
+| **检测系统** | CAGA12-Luc HEK293T/17 细胞 + pro/latent GDF8 + TLL2 蛋白酶 → 测量 luciferase 信号。加入候选抗体后信号降低 = 抑制激活 | SRK-015 方法学 <a href="#ref-120，121">[120，121]</a> |
+| **确认** | Western blot 检测 pro/latent GDF8 切割产物（成熟 GDF8 条带减少） | Dagbay 等, 2020 <a href="#ref-120">[120]</a> |
+| **血清生物标志物** | Cote 等（2019, SLAS Discovery）开发了血清 latent myostatin 定量免疫分析方法，可用于体内靶点结合验证 <a href="#ref-121">[121]</a> | — |
 
-**SRK-015 结构参考**：Dagbay 等（2020, JBC）解析了 SRK-015 Fab 与 pro/latent myostatin 的复合物结构（PDB 6UMX, 2.79 A），显示 SRK-015 结合 prodomain 的"臂"区域，稳定潜伏构象并限制 TLL2 切割位点的可及性 [120]<a href="#ref-120">[120]</a>。
+**SRK-015 结构参考**：Dagbay 等（2020, JBC）解析了 SRK-015 Fab 与 pro/latent myostatin 的复合物结构（PDB 6UMX, 2.79 A），显示 SRK-015 结合 prodomain 的"臂"区域，稳定潜伏构象并限制 TLL2 切割位点的可及性 <a href="#ref-120">[120]</a>。
 
 #### 4.1.3 反向筛选（Counter-screen）：确保不阻断 GDF11、BMP9、BMP10
 
@@ -284,22 +284,22 @@ pro/latent GDF8 不直接信号传导（无活性前体），因此筛选策略�
 
 | 要素 | 详情 | 来源 |
 |------|------|------|
-| **检测系统** | BRE-Luc 报告基因（BMP 响应元件，检测 Smad1/5/8 信号） | David 等, 2007, Blood [127]；Canali 等, 2016 [61]<a href="#ref-61">[61]</a> |
-| **细胞系** | Hep3B 细胞（人肝癌细胞系，表达内源性 RGM/HJV，支持 BMP 信号）或人内皮细胞（如 HUVEC/ECFC，表达 ALK1） | Canali 等, 2016 [61]<a href="#ref-61">[61]</a>；David 等, 2007 [127]<a href="#ref-127">[127]</a> |
+| **检测系统** | BRE-Luc 报告基因（BMP 响应元件，检测 Smad1/5/8 信号） | David 等, 2007, Blood [127]；Canali 等, 2016 <a href="#ref-61">[61]</a> |
+| **细胞系** | Hep3B 细胞（人肝癌细胞系，表达内源性 RGM/HJV，支持 BMP 信号）或人内皮细胞（如 HUVEC/ECFC，表达 ALK1） | Canali 等, 2016 <a href="#ref-61">[61]</a>；David 等, 2007 <a href="#ref-127">[127]</a> |
 | **刺激配体** | 重组 BMP9 + BMP10（R&D Systems） | — |
 | **预期结果** | 候选抗体不降低 BMP9/BMP10 诱导的 BRE-Luc 信号 | — |
-| **BRE-Luc 原理** | BRE（BMP Responsive Element）含 Smad1/5/8 结合位点，BMP9/BMP10 通过 ALK1/ALK2/ALK3 → Smad1/5/8 → 驱动 luciferase 表达 [127, 132]<a href="#ref-127，132">[127，132]</a> | — |
+| **BRE-Luc 原理** | BRE（BMP Responsive Element）含 Smad1/5/8 结合位点，BMP9/BMP10 通过 ALK1/ALK2/ALK3 → Smad1/5/8 → 驱动 luciferase 表达 <a href="#ref-127，132">[127，132]</a> | — |
 
-**BMP9/10 检测灵敏度参考**：David 等（2007, Blood）报告 BMP9 在 BRE-Luc 系统中 EC50 约 45-27 pg/mL，BMP9 在循环中以 2-12 ng/mL 浓度存在 [127, 130]<a href="#ref-127，130">[127，130]</a>。Tillet 等（2018, JBC）证明循环中 BMP9-BMP10 异源二聚体是血浆中 BMP 生物活性的主要形式 [132]<a href="#ref-132">[132]</a>。
+**BMP9/10 检测灵敏度参考**：David 等（2007, Blood）报告 BMP9 在 BRE-Luc 系统中 EC50 约 45-27 pg/mL，BMP9 在循环中以 2-12 ng/mL 浓度存在<a href="#ref-127，130">[127，130]</a>。Tillet 等（2018, JBC）证明循环中 BMP9-BMP10 异源二聚体是血浆中 BMP 生物活性的主要形式 <a href="#ref-132">[132]</a>。
 
 #### 4.1.4 二级功能筛选
 
 | 筛选项目 | 细胞系/模型 | 检测指标 | 来源 |
 |----------|------------|----------|------|
 | **肌肉萎缩/肥大** | C2C12 小鼠肌母细胞分化为肌管 | 肌管直径、Atrogin-1/MAFbx 表达、MyHC 表达 | 多项肌营养不良研究 |
-| **肝脏铁调素** | 原代小鼠肝细胞 / Hep3B | HAMP mRNA（qPCR）、铁调素蛋白（ELISA） | Canali 等, 2016 [61]<a href="#ref-61">[61]</a> |
-| **肝脏葡萄糖生成** | 原代小鼠肝细胞 | Pck1/G6pc 表达、葡萄糖生成量（加 pyruvate/glucagon 刺激） | Kobayashi 等, 2025 [60]<a href="#ref-60">[60]</a> |
-| **结合动力学** | SPR（Biacore）或 BLI（Octet） | KD、kon、koff 对各配体 | Morvan 等, 2017 [32]<a href="#ref-32">[32]</a> |
+| **肝脏铁调素** | 原代小鼠肝细胞 / Hep3B | HAMP mRNA（qPCR）、铁调素蛋白（ELISA） | Canali 等, 2016 <a href="#ref-61">[61]</a> |
+| **肝脏葡萄糖生成** | 原代小鼠肝细胞 | Pck1/G6pc 表达、葡萄糖生成量（加 pyruvate/glucagon 刺激） | Kobayashi 等, 2025 <a href="#ref-60">[60]</a> |
+| **结合动力学** | SPR（Biacore）或 BLI（Octet） | KD、kon、koff 对各配体 | Morvan 等, 2017 <a href="#ref-32">[32]</a> |
 | **GLP-1R 激动** | GLP-1R 表达细胞 + cAMP 检测 | cAMP 水平、EC50 | GLP-1R 激动剂标准筛选 |
 
 ### 4.2 体内验证模型
@@ -308,28 +308,28 @@ pro/latent GDF8 不直接信号传导（无活性前体），因此筛选策略�
 
 | 要素 | 详情 | 来源 |
 |------|------|------|
-| **动物** | 雄性 C57BL/6J DIO 小鼠（Jackson #380050），24-25 周龄，高脂饮食（60% kcal fat, Research Diets D12492） | Nunn 等, 2024 [35]<a href="#ref-35">[35]</a> |
-| **给药方案** | 抗体：20 mg/kg SC 每周；Semaglutide（或融合分子的 GLP-1 部分）：120 ug/kg SC 每日；疗程 14 天（急性）或 4-8 周（慢性） | Nunn 等, 2024 [35]<a href="#ref-35">[35]</a> |
+| **动物** | 雄性 C57BL/6J DIO 小鼠（Jackson #380050），24-25 周龄，高脂饮食（60% kcal fat, Research Diets D12492） | Nunn 等, 2024 <a href="#ref-35">[35]</a> |
+| **给药方案** | 抗体：20 mg/kg SC 每周；Semaglutide（或融合分子的 GLP-1 部分）：120 ug/kg SC 每日；疗程 14 天（急性）或 4-8 周（慢性） | Nunn 等, 2024 <a href="#ref-35">[35]</a> |
 | **分组** | (1) 载体对照 (2) 抗体单药 (3) GLP-1 单药 (4) 联合/双抗 (5) Bima 阳性对照 | — |
 
 **主要读出指标**：
 
 | 类别 | 指标 | 方法 | 来源 |
 |------|------|------|------|
-| **体成分** | 瘦体重、脂肪量 | EchoMRI 体成分分析仪 | Nunn 等, 2024 [35]<a href="#ref-35">[35]</a> |
-| **肌肉重量** | TA、soleus、EDL、gastrocnemius | 解剖称重 | Morvan 等, 2017 [32]；Nunn 等, 2024 [35]<a href="#ref-35">[35]</a> |
-| **肌纤维横截面积** | CSA | H&E 染色 + ImageJ 定量 | Nunn 等, 2024 [35]<a href="#ref-35">[35]</a> |
-| **脂肪组织形态** | 脂肪细胞大小 | eWAT/iWAT H&E + Adiposoft (ImageJ) | Nunn 等, 2024 [35]<a href="#ref-35">[35]</a> |
-| **血糖** | 非空腹血糖 | 血糖仪 | Nunn 等, 2024 [35]<a href="#ref-35">[35]</a> |
-| **胰岛素** | 血浆胰岛素 | 超敏小鼠胰岛素 ELISA（Crystal Chem 90080） | Nunn 等, 2024 [35]<a href="#ref-35">[35]</a> |
-| **葡萄糖耐量** | GTT | 腹腔注射葡萄糖后血糖曲线 | Kobayashi 等, 2025 [60]<a href="#ref-60">[60]</a> |
-| **胰岛素敏感性** | ITT | 腹腔注射胰岛素后血糖曲线 | Kobayashi 等, 2025 [60]<a href="#ref-60">[60]</a> |
-| **肝糖生成** | PTT | 腹腔注射丙酮酸钠后血糖曲线 | Kobayashi 等, 2025 [60]<a href="#ref-60">[60]</a> |
-| **脂联素** | 血浆脂联素 | 夹心 ELISA（EMD Millipore） | Nunn 等, 2024 [35]<a href="#ref-35">[35]</a> |
-| **瘦素/IL-6/MCP-1** | 血浆细胞因子 | Luminex 多重检测（MAGPIX） | Nunn 等, 2024 [35]<a href="#ref-35">[35]</a> |
-| **游离脂肪酸/甘油** | 血浆 NEFA、甘油 | Wako HR Series NEFA-HR(2)；Sigma Free Glycerol Reagent | Nunn 等, 2024 [35]<a href="#ref-35">[35]</a> |
-| **运动耐力** | VO2 max、力竭时间 | treadmill VO2 max 协议 | Nunn 等, 2024 [35]<a href="#ref-35">[35]</a> |
-| **肌肉力量** | 原位收缩功能 | gastrocnemius 电刺激收缩力测定 | Morvan 等, 2017 [32]<a href="#ref-32">[32]</a> |
+| **体成分** | 瘦体重、脂肪量 | EchoMRI 体成分分析仪 | Nunn 等, 2024 <a href="#ref-35">[35]</a> |
+| **肌肉重量** | TA、soleus、EDL、gastrocnemius | 解剖称重 | Morvan 等, 2017 [32]；Nunn 等, 2024 <a href="#ref-35">[35]</a> |
+| **肌纤维横截面积** | CSA | H&E 染色 + ImageJ 定量 | Nunn 等, 2024 <a href="#ref-35">[35]</a> |
+| **脂肪组织形态** | 脂肪细胞大小 | eWAT/iWAT H&E + Adiposoft (ImageJ) | Nunn 等, 2024 <a href="#ref-35">[35]</a> |
+| **血糖** | 非空腹血糖 | 血糖仪 | Nunn 等, 2024 <a href="#ref-35">[35]</a> |
+| **胰岛素** | 血浆胰岛素 | 超敏小鼠胰岛素 ELISA（Crystal Chem 90080） | Nunn 等, 2024 <a href="#ref-35">[35]</a> |
+| **葡萄糖耐量** | GTT | 腹腔注射葡萄糖后血糖曲线 | Kobayashi 等, 2025 <a href="#ref-60">[60]</a> |
+| **胰岛素敏感性** | ITT | 腹腔注射胰岛素后血糖曲线 | Kobayashi 等, 2025 <a href="#ref-60">[60]</a> |
+| **肝糖生成** | PTT | 腹腔注射丙酮酸钠后血糖曲线 | Kobayashi 等, 2025 <a href="#ref-60">[60]</a> |
+| **脂联素** | 血浆脂联素 | 夹心 ELISA（EMD Millipore） | Nunn 等, 2024 <a href="#ref-35">[35]</a> |
+| **瘦素/IL-6/MCP-1** | 血浆细胞因子 | Luminex 多重检测（MAGPIX） | Nunn 等, 2024 <a href="#ref-35">[35]</a> |
+| **游离脂肪酸/甘油** | 血浆 NEFA、甘油 | Wako HR Series NEFA-HR(2)；Sigma Free Glycerol Reagent | Nunn 等, 2024 <a href="#ref-35">[35]</a> |
+| **运动耐力** | VO2 max、力竭时间 | treadmill VO2 max 协议 | Nunn 等, 2024 <a href="#ref-35">[35]</a> |
+| **肌肉力量** | 原位收缩功能 | gastrocnemius 电刺激收缩力测定 | Morvan 等, 2017 <a href="#ref-32">[32]</a> |
 
 #### 4.2.2 选择性验证模型（确保不阻断 GDF11/BMP9/BMP10）
 
@@ -337,16 +337,16 @@ pro/latent GDF8 不直接信号传导（无活性前体），因此筛选策略�
 |----------|----------|----------|------|
 | **骨量保护** | uCT 分析股骨骨密度（BMD）/骨小梁微结构 | 双抗不应降低 BMD（vs Bima 可能降低） | GDF11/BMP 促骨生成文献 |
 | **血管完整性** | 观察出血事件、视网膜血管造影 | 双抗不应诱发出血或 AVM | ACE-031 教训；BMP9/10 血管文献 |
-| **铁代谢** | 血清铁调素（ELISA）、血清铁、TIBC | 双抗不应显著改变铁调素/铁水平 | BMP9 铁代谢文献 [85]<a href="#ref-85">[85]</a> |
+| **铁代谢** | 血清铁调素（ELISA）、血清铁、TIBC | 双抗不应显著改变铁调素/铁水平 | BMP9 铁代谢文献 <a href="#ref-85">[85]</a> |
 | **心脏功能** | 超声心动图（LVEF、LV mass） | 双抗不应诱发心脏肥大 | GDF11 心脏保护文献 |
-| **循环配体水平** | Activin A ELISA（血清）、latent myostatin 免疫分析 | 验证靶点结合（配体蓄积） | Morvan 等, 2017 [32]；Cote 等, 2019 [121]<a href="#ref-121">[121]</a> |
+| **循环配体水平** | Activin A ELISA（血清）、latent myostatin 免疫分析 | 验证靶点结合（配体蓄积） | Morvan 等, 2017 <a href="#ref-32">[32]</a>；Cote 等, 2019 <a href="#ref-121">[121]</a> |
 
 #### 4.2.3 临床转化参考
 
 | 试验 | 设计 | 关键结果 | 来源 |
 |------|------|----------|------|
-| **BELIEVE（Bima+Sema Phase 2）** | 507 例肥胖成人，9 臂（安慰剂/Bima 10或30 mg/kg/Sema 1.0或2.4 mg/组合），48 周 | Bima 30: -9.3 kg；Sema 2.4: -14.2 kg；组合: -17.8 kg（均 P<0.001 vs 安慰剂 -3.3 kg） | Heymsfield 等, 2026, Nat Med [67]<a href="#ref-67">[67]</a> |
-| **Bima 单药 Phase 2（T2D+肥胖）** | 75 例 T2D+超重/肥胖，48 周 | 体脂 -21%，瘦体重 +3.6%，HbA1c 额外降 0.76 pp，体重 -6.5% | Heymsfield 等, 2021, JAMA Netw Open [65, 70]<a href="#ref-65，70">[65，70]</a>|
+| **BELIEVE（Bima+Sema Phase 2）** | 507 例肥胖成人，9 臂（安慰剂/Bima 10或30 mg/kg/Sema 1.0或2.4 mg/组合），48 周 | Bima 30: -9.3 kg；Sema 2.4: -14.2 kg；组合: -17.8 kg（均 P<0.001 vs 安慰剂 -3.3 kg） | Heymsfield 等, 2026, Nat Med <a href="#ref-67">[67]</a> |
+| **Bima 单药 Phase 2（T2D+肥胖）** | 75 例 T2D+超重/肥胖，48 周 | 体脂 -21%，瘦体重 +3.6%，HbA1c 额外降 0.76 pp，体重 -6.5% | Heymsfield 等, 2021, JAMA Netw Open <a href="#ref-65，70">[65，70]</a>|
 
 ---
 
@@ -356,52 +356,52 @@ pro/latent GDF8 不直接信号传导（无活性前体），因此筛选策略�
 
 | 编号 | 作者（年份） | 期刊 | 核心内容 |
 |------|-------------|------|----------|
-| [29]<a href="#ref-29">[29]</a> | Chen JL et al. (2017) | PNAS | 联合抑制 activins 和 myostatin 增加肌肉量 150% |
-| [32]<a href="#ref-32">[32]</a> | Morvan F et al. (2017) | PNAS | Bimagrumab 双抗 ActRIIA/IIB 机制及 CAGA12-Luc 筛选系统 |
-| [35]<a href="#ref-35">[35]</a> | Nunn E et al. (2024) | Mol Metab | ActRII 阻断 + GLP-1 联合用药在 DIO 小鼠中的药效 |
-| [41]<a href="#ref-41">[41]</a> | Ding H et al. (2016) | J Cachexia Sarcopenia Muscle | Activin A 通过 p38β MAPK 诱导肌肉分解 |
-| [44]<a href="#ref-44">[44]</a> | Dong J et al. (2015) | Int J Obes | Myostatin 抑制通过 irisin 改善胰岛素敏感性 |
-| [51]<a href="#ref-51">[51]</a> | Deng B et al. (2017) | Nutr Metab | Myostatin 在脂肪量调节中的功能 |
-| [52]<a href="#ref-52">[52]</a> | Yang M et al. (2023) | Front Endocrinol | Myostatin 作为代谢综合征治疗靶点 |
-| [60]<a href="#ref-60">[60]</a> | Kobayashi N et al. (2025) | Nat Commun | Activin B 通过 FGF21 和肝脏胰高血糖素抵抗改善糖代谢 |
-| [61]<a href="#ref-61">[61]</a> | Canali S et al. (2016) | Endocrinology | Activin B 非经典 Smad1/5/8 信号诱导铁调素 |
-| [62]<a href="#ref-62">[62]</a> | Kanamori Y et al. (2016) | Sci Rep | 炎症诱导的 Activin B 调节铁调素表达 |
-| [63]<a href="#ref-63">[63]</a>  | Wang Y et al. (2022) | Hepatol Commun | Activin B 促进肝纤维化 |
-| [64]<a href="#ref-64">[64]</a>  | Latres E et al. (2017) | Nat Commun | Activin A 在灵长类中比 GDF8 更重要地调节肌肉量 |
-| [65]<a href="#ref-65">[65]</a>  | Heymsfield SB et al. (2021) | JAMA Netw Open | Bimagrumab 在 T2D+肥胖中的体脂减少 |
-| [67]<a href="#ref-67">[67]</a>  | Heymsfield SB et al. (2026) | Nat Med | Bimagrumab + Semaglutide 联合 Phase 2 试验 |
-| [91]<a href="#ref-91">[91]</a>  | Liu H et al. (2023) | Diabetes | Activin A 在 MASLD 模型中的保护作用 |
-| [93]<a href="#ref-93">[93]</a>  | Hamang M et al. (2023) | Biochem Pharmacol | Activins 在肝脏健康和疾病中的作用 |
-| [94]<a href="#ref-94">[94]</a>  | Mekala S et al. (2024) | Cells | Activin A 拮抗剂作为肝病治疗策略 |
-| [96]<a href="#ref-96">[96]</a>  | Lu B et al. (2019) | J Transl Med | GDF11 基因转移防止高脂饮食诱导肥胖 |
-| [97]<a href="#ref-97">[97]</a>  | Katsimpardi L et al. (2019) | Aging Cell | GDF11 刺激脂联素分泌和热量限制样表型 |
-| [98]<a href="#ref-98">[98]</a>  | Frohlich J et al. (2022) | Cell Prolif | GDF11 抑制脂肪生成并改善脂肪细胞代谢 |
-| [99]<a href="#ref-99">[99]</a>  | Walker R et al. (2020) | Sci Rep | 外源 GDF11 减少体重并改善葡萄糖稳态 |
-| [100]<a href="#ref-100">[100]</a>  | Lin S et al. (2023) | Heliyon | GDF11 通过 ALK5/KLF15/beta-catenin/PPARgamma 抑制脂肪分化 |
-| [101]<a href="#ref-101">[101]</a> | Sagliocchi S et al. (2026) | J Basic Clin Physiol Pharmacol | GDF11 促进脂肪棕色化 |
+|<a href="#ref-29">[29]</a> | Chen JL et al. (2017) | PNAS | 联合抑制 activins 和 myostatin 增加肌肉量 150% |
+|<a href="#ref-32">[32]</a> | Morvan F et al. (2017) | PNAS | Bimagrumab 双抗 ActRIIA/IIB 机制及 CAGA12-Luc 筛选系统 |
+|<a href="#ref-35">[35]</a> | Nunn E et al. (2024) | Mol Metab | ActRII 阻断 + GLP-1 联合用药在 DIO 小鼠中的药效 |
+|<a href="#ref-41">[41]</a> | Ding H et al. (2016) | J Cachexia Sarcopenia Muscle | Activin A 通过 p38β MAPK 诱导肌肉分解 |
+|<a href="#ref-44">[44]</a> | Dong J et al. (2015) | Int J Obes | Myostatin 抑制通过 irisin 改善胰岛素敏感性 |
+|<a href="#ref-51">[51]</a> | Deng B et al. (2017) | Nutr Metab | Myostatin 在脂肪量调节中的功能 |
+|<a href="#ref-52">[52]</a> | Yang M et al. (2023) | Front Endocrinol | Myostatin 作为代谢综合征治疗靶点 |
+|<a href="#ref-60">[60]</a> | Kobayashi N et al. (2025) | Nat Commun | Activin B 通过 FGF21 和肝脏胰高血糖素抵抗改善糖代谢 |
+|<a href="#ref-61">[61]</a> | Canali S et al. (2016) | Endocrinology | Activin B 非经典 Smad1/5/8 信号诱导铁调素 |
+|<a href="#ref-62">[62]</a> | Kanamori Y et al. (2016) | Sci Rep | 炎症诱导的 Activin B 调节铁调素表达 |
+|<a href="#ref-63">[63]</a>  | Wang Y et al. (2022) | Hepatol Commun | Activin B 促进肝纤维化 |
+|<a href="#ref-64">[64]</a>  | Latres E et al. (2017) | Nat Commun | Activin A 在灵长类中比 GDF8 更重要地调节肌肉量 |
+|<a href="#ref-65">[65]</a>  | Heymsfield SB et al. (2021) | JAMA Netw Open | Bimagrumab 在 T2D+肥胖中的体脂减少 |
+|<a href="#ref-67">[67]</a>  | Heymsfield SB et al. (2026) | Nat Med | Bimagrumab + Semaglutide 联合 Phase 2 试验 |
+|<a href="#ref-91">[91]</a>  | Liu H et al. (2023) | Diabetes | Activin A 在 MASLD 模型中的保护作用 |
+|<a href="#ref-93">[93]</a>  | Hamang M et al. (2023) | Biochem Pharmacol | Activins 在肝脏健康和疾病中的作用 |
+|<a href="#ref-94">[94]</a>  | Mekala S et al. (2024) | Cells | Activin A 拮抗剂作为肝病治疗策略 |
+|<a href="#ref-96">[96]</a>  | Lu B et al. (2019) | J Transl Med | GDF11 基因转移防止高脂饮食诱导肥胖 |
+|<a href="#ref-97">[97]</a>  | Katsimpardi L et al. (2019) | Aging Cell | GDF11 刺激脂联素分泌和热量限制样表型 |
+|<a href="#ref-98">[98]</a>  | Frohlich J et al. (2022) | Cell Prolif | GDF11 抑制脂肪生成并改善脂肪细胞代谢 |
+|<a href="#ref-99">[99]</a>  | Walker R et al. (2020) | Sci Rep | 外源 GDF11 减少体重并改善葡萄糖稳态 |
+|<a href="#ref-100">[100]</a>  | Lin S et al. (2023) | Heliyon | GDF11 通过 ALK5/KLF15/beta-catenin/PPARgamma 抑制脂肪分化 |
+|<a href="#ref-101">[101]</a> | Sagliocchi S et al. (2026) | J Basic Clin Physiol Pharmacol | GDF11 促进脂肪棕色化 |
 
 ### 筛选模型文献
 
 | 编号 | 作者（年份） | 期刊 | 核心内容 |
 |------|-------------|------|----------|
-| [25]<a href="#ref-25">[25]</a>  | Chen H et al. (2018) | JoVE | 腺病毒 CAGA12-Luc 报告系统用于 TGF-beta/Smad3 信号活细胞成像 |
-| [26]<a href="#ref-26">[26]</a>  | Marvin DL et al. (2022) | Cancers | CAGA 报告基因用于单细胞 Smad3 信号动态可视化 |
-| [32]<a href="#ref-32">[32]</a>  | Morvan F et al. (2017) | PNAS | HEK293T/17 稳定转染 CAGA12-Luc，Bimagrumab 筛选和功能验证 |
-| [61]<a href="#ref-61">[61]</a>  | Canali S et al. (2016) | Endocrinology | BRE-Luc 和 CAGA-Luc 在 Hep3B 细胞中用于 Activin/BMP 信号区分 |
-| [120]<a href="#ref-120">[120]</a>  | Dagbay K et al. (2020) | JBC | SRK-015 与 pro/latent myostatin 复合物结构及激活抑制机制 |
-| [121]<a href="#ref-121">[121]</a>  | Cote S et al. (2019) | SLAS Discovery | 血清 latent myostatin 定量免疫分析方法 |
-| [125]<a href="#ref-125">[125]</a>  | Welsh BT et al. (2021) | Int J Toxicol | Apitegromab 临床前安全性评估 |
-| [127]<a href="#ref-127">[127]</a>  | David L et al. (2007) | Blood | BMP9/BMP10 作为 ALK1 功能性激活体的鉴定 |
-| [130]<a href="#ref-130">[130]</a>  | David L et al. (2008) | Circ Res | BMP9 作为循环血管静息因子 |
-| [132]<a href="#ref-132">[132]</a> | Tillet E et al. (2018) | JBC | BMP9-BMP10 异源二聚体是血浆中主要 BMP 活性形式 |
+|<a href="#ref-25">[25]</a>  | Chen H et al. (2018) | JoVE | 腺病毒 CAGA12-Luc 报告系统用于 TGF-beta/Smad3 信号活细胞成像 |
+|<a href="#ref-26">[26]</a>  | Marvin DL et al. (2022) | Cancers | CAGA 报告基因用于单细胞 Smad3 信号动态可视化 |
+|<a href="#ref-32">[32]</a>  | Morvan F et al. (2017) | PNAS | HEK293T/17 稳定转染 CAGA12-Luc，Bimagrumab 筛选和功能验证 |
+|<a href="#ref-61">[61]</a>  | Canali S et al. (2016) | Endocrinology | BRE-Luc 和 CAGA-Luc 在 Hep3B 细胞中用于 Activin/BMP 信号区分 |
+|<a href="#ref-120">[120]</a>  | Dagbay K et al. (2020) | JBC | SRK-015 与 pro/latent myostatin 复合物结构及激活抑制机制 |
+|<a href="#ref-121">[121]</a>  | Cote S et al. (2019) | SLAS Discovery | 血清 latent myostatin 定量免疫分析方法 |
+|<a href="#ref-125">[125]</a>  | Welsh BT et al. (2021) | Int J Toxicol | Apitegromab 临床前安全性评估 |
+|<a href="#ref-127">[127]</a>  | David L et al. (2007) | Blood | BMP9/BMP10 作为 ALK1 功能性激活体的鉴定 |
+|<a href="#ref-130">[130]</a>  | David L et al. (2008) | Circ Res | BMP9 作为循环血管静息因子 |
+|<a href="#ref-132">[132]</a> | Tillet E et al. (2018) | JBC | BMP9-BMP10 异源二聚体是血浆中主要 BMP 活性形式 |
 
 ---
 
 ## 六、假设与注意事项
 
-1. **Activin B 阻断的代谢权衡**：Activin B 对葡萄糖代谢有益（FGF21 诱导、肝脏胰高血糖素抵抗、增强 GSIS）[60]<a href="#ref-60">[60]</a>。GLP-1 组分预期可补偿这些效应，但需在体内模型中监测 FGF21、胰高血糖素、GSIS 等指标。肥胖状态下 FSTL3（Activin B 内源性抑制剂）已升高，Activin B 的有益代谢效应在肥胖中本已被部分抑制。
+1. **Activin B 阻断的代谢权衡**：Activin B 对葡萄糖代谢有益（FGF21 诱导、肝脏胰高血糖素抵抗、增强 GSIS）<a href="#ref-60">[60]</a>。GLP-1 组分预期可补偿这些效应，但需在体内模型中监测 FGF21、胰高血糖素、GSIS 等指标。肥胖状态下 FSTL3（Activin B 内源性抑制剂）已升高，Activin B 的有益代谢效应在肥胖中本已被部分抑制。
 
-2. **Activin A 在肝脏中的情境依赖性**：Liu 等（2023）报告在 MASLD 模型中过表达 Activin A 反而减轻了肝脏脂肪变性 [91]<a href="#ref-91">[91]</a>，提示 Activin A 在肝脏中的角色可能具有复杂性。但该研究使用过表达而非中和，且疾病模型中的净效应可能不同于生理状态。临床数据（Activin A 水平与肝纤维化正相关 [92]<a href="#ref-92">[92]</a>）支持阻断策略。
+2. **Activin A 在肝脏中的情境依赖性**：Liu 等（2023）报告在 MASLD 模型中过表达 Activin A 反而减轻了肝脏脂肪变性<a href="#ref-91">[91]</a>，提示 Activin A 在肝脏中的角色可能具有复杂性。但该研究使用过表达而非中和，且疾病模型中的净效应可能不同于生理状态。临床数据（Activin A 水平与肝纤维化正相关 <a href="#ref-92">[92]</a>）支持阻断策略。
 
 3. **双特异性格式的 CMC 挑战**：双臂双特异性 + 肽段融合的三功能分子在 CMC 层面具有挑战性（正确组装率、肽段融合稳定性、异质性）。建议采用成熟的双特异性平台（如 Knob-in-Hole、CrossMab、COMMON light chain 等）。
 
@@ -409,7 +409,7 @@ pro/latent GDF8 不直接信号传导（无活性前体），因此筛选策略�
 
 5. **筛选顺序建议**：先完成两个抗体臂的独立筛选和优化 → 组装为双特异性 → 融合 GLP-1 肽段 → 整体分子功能验证。这降低了筛选复杂度并允许并行推进。
 
-6. **Bima 单药血糖升高的安全性提示**：Nunn 等（2024）报告 bimagrumab 单药在 DIO 小鼠中轻度升高血糖 [35]<a href="#ref-35">[35]</a>。双抗中 GLP-1 组分预期可补偿这一效应，但需在体内实验中重点监测血糖动态。
+6. **Bima 单药血糖升高的安全性提示**：Nunn 等（2024）报告 bimagrumab 单药在 DIO 小鼠中轻度升高血糖<a href="#ref-35">[35]</a>。双抗中 GLP-1 组分预期可补偿这一效应，但需在体内实验中重点监测血糖动态。
 
 ---
 
