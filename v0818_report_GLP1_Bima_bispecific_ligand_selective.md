@@ -615,7 +615,6 @@ Phase 4: 组装与体内验证
 > **说明**：[S1]-[S15] 为结构生物学文献（新增），[25]-[132] 为生物学功能文献（保留自原报告）。
 
 ## References
-## References
 
 <span id="ref-S1">[S1]</span> Thompson TB, Woodruff TK, Jardetzky TS. (2003). Structures of an ActRIIB:activin A complex reveal a novel binding mode for TGF‑β ligand:receptor interactions. *The EMBO Journal*, 22(7):1555–1566. [https://doi.org/10.1093/emboj/cdg156](https://doi.org/10.1093/emboj/cdg156). PDB: 1NYS
 
