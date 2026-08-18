@@ -615,103 +615,106 @@ Phase 4: 组装与体内验证
 > **说明**：[S1]-[S15] 为结构生物学文献（新增），[25]-[132] 为生物学功能文献（保留自原报告）。
 
 ## References
-<a id="ref-S1"></a>[S1] Thompson TB, Woodruff TK, Jardetzky TS. (2003). Structures of an ActRIIB:activin A complex reveal a novel binding mode for TGF‑β ligand:receptor interactions. *The EMBO Journal*, 22(7):1555–1566. [https://doi.org/10.1093/emboj/cdg156](https://doi.org/10.1093/emboj/cdg156). PDB: 1NYS
+## References
 
-<a id="ref-S2"></a>[S2] Greenwald J, Vega ME, Allendorph GP, Fischer WH, Vale W, Choe S. (2004). A flexible activin explains the membrane‑dependent cooperative assembly of TGF‑β family receptors. *Molecular Cell*, 15(3):485–489. [https://doi.org/10.1016/j.molcel.2004.07.011](https://doi.org/10.1016/j.molcel.2004.07.011). PDB: 1S4Y
+<span id="ref-S1">[S1]</span> Thompson TB, Woodruff TK, Jardetzky TS. (2003). Structures of an ActRIIB:activin A complex reveal a novel binding mode for TGF‑β ligand:receptor interactions. *The EMBO Journal*, 22(7):1555–1566. [https://doi.org/10.1093/emboj/cdg156](https://doi.org/10.1093/emboj/cdg156). PDB: 1NYS
 
-<a id="ref-S3"></a>[S3] Morvan F, Rondeau JM, Zou C, et al. (2017). Blockade of activin type II receptors with a dual anti‑ActRIIA/IIB antibody is critical to promote maximal skeletal muscle hypertrophy. *Proceedings of the National Academy of Sciences*, 114(47):12478–12483. [https://doi.org/10.1073/pnas.1707925114](https://doi.org/10.1073/pnas.1707925114). PDB: 5NGV, 5NHR
+<span id="ref-S2">[S2]</span> Greenwald J, Vega ME, Allendorph GP, Fischer WH, Vale W, Choe S. (2004). A flexible activin explains the membrane‑dependent cooperative assembly of TGF‑β family receptors. *Molecular Cell*, 15(3):485–489. [https://doi.org/10.1016/j.molcel.2004.07.011](https://doi.org/10.1016/j.molcel.2004.07.011). PDB: 1S4Y
 
-<a id="ref-S4"></a>[S4] Goebel EJ, Corpina RA, Hinck CS, et al. (2019). Structural characterization of an activin class ternary receptor complex reveals a third paradigm for receptor specificity. *Proceedings of the National Academy of Sciences*, 116(31):15505–15513. [https://doi.org/10.1073/pnas.1906253116](https://doi.org/10.1073/pnas.1906253116). PDB: 6MAC
+<span id="ref-S3">[S3]</span> Morvan F, Rondeau JM, Zou C, et al. (2017). Blockade of activin type II receptors with a dual anti‑ActRIIA/IIB antibody is critical to promote maximal skeletal muscle hypertrophy. *Proceedings of the National Academy of Sciences*, 114(47):12478–12483. [https://doi.org/10.1073/pnas.1707925114](https://doi.org/10.1073/pnas.1707925114). PDB: 5NGV, 5NHR
 
-<a id="ref-S5"></a>[S5] PDB entry 5E4G. (2016). Crystal structure of human growth differentiation factor 11 (GDF‑11). *Acta Crystallographica Section F*, 72:160–164. PDB: 5E4G
+<span id="ref-S4">[S4]</span> Goebel EJ, Corpina RA, Hinck CS, et al. (2019). Structural characterization of an activin class ternary receptor complex reveals a third paradigm for receptor specificity. *Proceedings of the National Academy of Sciences*, 116(31):15505–15513. [https://doi.org/10.1073/pnas.1906253116](https://doi.org/10.1073/pnas.1906253116). PDB: 6MAC
 
-<a id="ref-S6"></a>[S6] Cotton TR, Fischer G, Wang X, et al. (2018). Structure of the human myostatin precursor and determinants of growth factor latency. *The EMBO Journal*, 37(3):367–383. [https://doi.org/10.15252/embj.201797883](https://doi.org/10.15252/embj.201797883). PDB: 5NTU, 5NXS
+<span id="ref-S5">[S5]</span> PDB entry 5E4G. (2016). Crystal structure of human growth differentiation factor 11 (GDF‑11). *Acta Crystallographica Section F*, 72:160–164. PDB: 5E4G
 
-<a id="ref-S7"></a>[S7] Dagbay K, Hill SE, Saldana M, et al. (2020). Structural basis of pro‑myostatin latency and activation by SRK‑015. *Journal of Biological Chemistry*, 295(25):8497–8508. [https://doi.org/10.1074/jbc.RA119.012293](https://doi.org/10.1074/jbc.RA119.012293). PDB: 6UMX
+<span id="ref-S6">[S6]</span> Cotton TR, Fischer G, Wang X, et al. (2018). Structure of the human myostatin precursor and determinants of growth factor latency. *The EMBO Journal*, 37(3):367–383. [https://doi.org/10.15252/embj.201797883](https://doi.org/10.15252/embj.201797883). PDB: 5NTU, 5NXS
 
-<a id="ref-S9"></a>[S9] Sako T, Hata K, Tanabe H, et al. (2010). A novel mechanism of activin‑induced Smad2/3 signaling in ActRIIB‑expressing cells. *Journal of Biological Chemistry*, 285(31):24102–24112. [https://doi.org/10.1074/jbc.M109.093249](https://doi.org/10.1074/jbc.M109.093249)
+<span id="ref-S7">[S7]</span> Dagbay K, Hill SE, Saldana M, et al. (2020). Structural basis of pro‑myostatin latency and activation by SRK‑015. *Journal of Biological Chemistry*, 295(25):8497–8508. [https://doi.org/10.1074/jbc.RA119.012293](https://doi.org/10.1074/jbc.RA119.012293). PDB: 6UMX
 
-<a id="ref-S13"></a>[S13] Chu J, Wang Y, Bhatt S, et al. (2022). Molecular basis of ALK1‑mediated signalling by BMP9/BMP10. *Nature Communications*, 13(1):2373. [https://doi.org/10.1038/s41467‑022‑30111‑2](https://doi.org/10.1038/s41467-022-30111-2). PDB: 7PPC
+<span id="ref-S9">[S9]</span> Sako T, Hata K, Tanabe H, et al. (2010). A novel mechanism of activin‑induced Smad2/3 signaling in ActRIIB‑expressing cells. *Journal of Biological Chemistry*, 285(31):24102–24112. [https://doi.org/10.1074/jbc.M109.093249](https://doi.org/10.1074/jbc.M109.093249)
 
-<a id="ref-S14"></a>[S14] Kumar R, et al. (2021). Heterodimeric traps enhance selective ligand blockade. *Scientific Reports*. [https://doi.org/10.1038/s41598‑021‑03635‑2](https://doi.org/10.1038/s41598-021-03635-2)
+<span id="ref-S13">[S13]</span> Chu J, Wang Y, Bhatt S, et al. (2022). Molecular basis of ALK1‑mediated signalling by BMP9/BMP10. *Nature Communications*, 13(1):2373. [https://doi.org/10.1038/s41467-022-30111-2](https://doi.org/10.1038/s41467-022-30111-2). PDB: 7PPC
 
-<a id="ref-S15"></a>[S15] PDB entry 4FAO. (2012). Specificity and structure of a high affinity Activin receptor‑like kinase 1 (ALK1) signaling complex. PDB: 4FAO
+<span id="ref-S14">[S14]</span> Kumar R, et al. (2021). Heterodimeric traps enhance selective ligand blockade. *Scientific Reports*. [https://doi.org/10.1038/s41598-021-03635-2](https://doi.org/10.1038/s41598-021-03635-2)
 
-<a id="ref-25"></a>[25] Chen H, Tian T, Miao C, et al. (2018). Adenoviral Delivery of CAGA(12)‑Luciferase Reporter for Live Cell and In Vivo Imaging of TGF‑β/Smad3 Signaling. *Journal of Visualized Experiments*. [https://doi.org/10.3791/57926](https://doi.org/10.3791/57926)
+<span id="ref-S15">[S15]</span> PDB entry 4FAO. (2012). Specificity and structure of a high affinity Activin receptor‑like kinase 1 (ALK1) signaling complex. PDB: 4FAO
 
-<a id="ref-29"></a>[29] Chen JL, Walton KL, Colgan TD, et al. (2017). Specific targeting of TGF‑β family ligands demonstrates that activin and myostatin cooperate to repress muscle mass. *Proceedings of the National Academy of Sciences*, 114(24):E4779–E4788. [https://doi.org/10.1073/pnas.1620013114](https://doi.org/10.1073/pnas.1620013114)
+<span id="ref-25">[25]</span> Chen H, Tian T, Miao C, et al. (2018). Adenoviral Delivery of CAGA(12)‑Luciferase Reporter for Live Cell and In Vivo Imaging of TGF‑β/Smad3 Signaling. *Journal of Visualized Experiments*. [https://doi.org/10.3791/57926](https://doi.org/10.3791/57926)
 
-<a id="ref-32"></a>[32] Morvan F, Rondeau JM, Zou C, et al. (2017). Blockade of activin type II receptors with a dual anti‑ActRIIA/IIB antibody is critical to promote maximal skeletal muscle hypertrophy. *Proceedings of the National Academy of Sciences*, 114(47):12478–12483. [https://doi.org/10.1073/pnas.1707925114](https://doi.org/10.1073/pnas.1707925114)
+<span id="ref-29">[29]</span> Chen JL, Walton KL, Colgan TD, et al. (2017). Specific targeting of TGF‑β family ligands demonstrates that activin and myostatin cooperate to repress muscle mass. *Proceedings of the National Academy of Sciences*, 114(24):E4779–E4788. [https://doi.org/10.1073/pnas.1620013114](https://doi.org/10.1073/pnas.1620013114)
 
-<a id="ref-35"></a>[35] Nunn E, et al. (2024). ActRII blockade and GLP‑1 receptor agonism synergistically preserve lean mass and enhance fat loss in diet‑induced obese mice. *Molecular Metabolism*. [https://doi.org/10.1016/j.molmet.2024.101880](https://doi.org/10.1016/j.molmet.2024.101880)
+<span id="ref-32">[32]</span> Morvan F, Rondeau JM, Zou C, et al. (2017). Blockade of activin type II receptors with a dual anti‑ActRIIA/IIB antibody is critical to promote maximal skeletal muscle hypertrophy. *Proceedings of the National Academy of Sciences*, 114(47):12478–12483. [https://doi.org/10.1073/pnas.1707925114](https://doi.org/10.1073/pnas.1707925114)
 
-<a id="ref-37"></a>[37] McPherron AC, Lawler AM, Lee SJ. (1997). Regulation of skeletal muscle mass in mice by a new TGF‑β superfamily member. *Nature*, 387(6628):83–90. [https://doi.org/10.1038/387083a0](https://doi.org/10.1038/387083a0)
+<span id="ref-35">[35]</span> Nunn E, et al. (2024). ActRII blockade and GLP‑1 receptor agonism synergistically preserve lean mass and enhance fat loss in diet‑induced obese mice. *Molecular Metabolism*. [https://doi.org/10.1016/j.molmet.2024.101880](https://doi.org/10.1016/j.molmet.2024.101880)
 
-<a id="ref-39"></a>[39] Chen JL, Walton KL, Winbanks CE, Murphy KT, Thomson RE, Makanji Y, Qian H, Lynch GS, Harrison CA, Gregorevic P. (2014). Elevated expression of activins promotes muscle wasting and cachexia. *FASEB Journal*, 28(4):1711–1723. [https://doi.org/10.1096/fj.13‑245894](https://doi.org/10.1096/fj.13-245894)
+<span id="ref-37">[37]</span> McPherron AC, Lawler AM, Lee SJ. (1997). Regulation of skeletal muscle mass in mice by a new TGF‑β superfamily member. *Nature*, 387(6628):83–90. [https://doi.org/10.1038/387083a0](https://doi.org/10.1038/387083a0)
 
-<a id="ref-41"></a>[41] Ding H, Zhang G, Sin KWT, Liu Z, Lin RK, Li M, et al. (2016). Activin A induces skeletal muscle catabolism via p38β mitogen‑activated protein kinase. *Journal of Cachexia, Sarcopenia and Muscle*, 8(2):202–212. [https://doi.org/10.1002/jcsm.12145](https://doi.org/10.1002/jcsm.12145)
+<span id="ref-39">[39]</span> Chen JL, Walton KL, Winbanks CE, Murphy KT, Thomson RE, Makanji Y, Qian H, Lynch GS, Harrison CA, Gregorevic P. (2014). Elevated expression of activins promotes muscle wasting and cachexia. *FASEB Journal*, 28(4):1711–1723. [https://doi.org/10.1096/fj.13-245894](https://doi.org/10.1096/fj.13-245894)
 
-<a id="ref-42"></a>[42] Lee SJ, Bhasin S, Klickstein L, et al. (2023). Challenges and Future Prospects of Targeting Myostatin/Activin A Signaling. *Journals of Gerontology: Series A*, 78(Suppl 1):32–37. [https://doi.org/10.1093/gerona/glad033](https://doi.org/10.1093/gerona/glad033)
+<span id="ref-41">[41]</span> Ding H, Zhang G, Sin KWT, Liu Z, Lin RK, Li M, et al. (2016). Activin A induces skeletal muscle catabolism via p38β mitogen‑activated protein kinase. *Journal of Cachexia, Sarcopenia and Muscle*, 8(2):202–212. [https://doi.org/10.1002/jcsm.12145](https://doi.org/10.1002/jcsm.12145)
 
-<a id="ref-44"></a>[44] Dong J, Dong Y, Dong Y, et al. (2016). Inhibition of myostatin improves insulin sensitivity through irisin‑mediated cross‑talk between muscle and adipose tissues. *International Journal of Obesity*, 40(3):439–446. [https://doi.org/10.1038/ijo.2015.200](https://doi.org/10.1038/ijo.2015.200)
+<span id="ref-42">[42]</span> Lee SJ, Bhasin S, Klickstein L, et al. (2023). Challenges and Future Prospects of Targeting Myostatin/Activin A Signaling. *Journals of Gerontology: Series A*, 78(Suppl 1):32–37. [https://doi.org/10.1093/gerona/glad033](https://doi.org/10.1093/gerona/glad033)
 
-<a id="ref-51"></a>[51] Deng B, Zhang F, Wen J, Ye S, Wang L, Yu Y, et al. (2017). The function of myostatin in the regulation of fat mass. *Nutrition & Metabolism*, 14:29. [https://doi.org/10.1186/s12986‑017‑0179‑1](https://doi.org/10.1186/s12986-017-0179-1)
+<span id="ref-44">[44]</span> Dong J, Dong Y, Dong Y, et al. (2016). Inhibition of myostatin improves insulin sensitivity through irisin‑mediated cross‑talk between muscle and adipose tissues. *International Journal of Obesity*, 40(3):439–446. [https://doi.org/10.1038/ijo.2015.200](https://doi.org/10.1038/ijo.2015.200)
 
-<a id="ref-52"></a>[52] Yang M, Liu C, Jiang N, Liu Y, Luo S, Li C, et al. (2023). Myostatin: a potential therapeutic target for metabolic syndrome. *Frontiers in Endocrinology*, 14:1181913. [https://doi.org/10.3389/fendo.2023.1181913](https://doi.org/10.3389/fendo.2023.1181913)
+<span id="ref-51">[51]</span> Deng B, Zhang F, Wen J, Ye S, Wang L, Yu Y, et al. (2017). The function of myostatin in the regulation of fat mass. *Nutrition & Metabolism*, 14:29. [https://doi.org/10.1186/s12986-017-0179-1](https://doi.org/10.1186/s12986-017-0179-1)
 
-<a id="ref-60"></a>[60] Kobayashi N, et al. (2025). Activin B improves glucose metabolism by inducing FGF21 and hepatic glucagon resistance. *Nature Communications*. [https://doi.org/10.1038/s41467‑025‑58836‑w](https://doi.org/10.1038/s41467-025-58836-w)
+<span id="ref-52">[52]</span> Yang M, Liu C, Jiang N, Liu Y, Luo S, Li C, et al. (2023). Myostatin: a potential therapeutic target for metabolic syndrome. *Frontiers in Endocrinology*, 14:1181913. [https://doi.org/10.3389/fendo.2023.1181913](https://doi.org/10.3389/fendo.2023.1181913)
 
-<a id="ref-61"></a>[61] Canali S, Core AB, Zumbrennen‑Bullough KB, et al. (2016). Activin B induces hepcidin via non‑canonical Smad1/5/8 signaling. *Endocrinology*, 157(6):2467–2479. [https://doi.org/10.1210/en.2015‑1747](https://doi.org/10.1210/en.2015-1747)
+<span id="ref-60">[60]</span> Kobayashi N, et al. (2025). Activin B improves glucose metabolism by inducing FGF21 and hepatic glucagon resistance. *Nature Communications*. [https://doi.org/10.1038/s41467-025-58836-w](https://doi.org/10.1038/s41467-025-58836-w)
 
-<a id="ref-62"></a>[62] Kanamori Y, Murakami M, Sugiyama M, et al. (2016). Inflammation‑induced activin B regulates hepcidin through ALK2/ActRIIA. *Scientific Reports*, 6:38702. [https://doi.org/10.1038/srep38702](https://doi.org/10.1038/srep38702)
+<span id="ref-61">[61]</span> Canali S, Core AB, Zumbrennen‑Bullough KB, et al. (2016). Activin B induces hepcidin via non‑canonical Smad1/5/8 signaling. *Endocrinology*, 157(6):2467–2479. [https://doi.org/10.1210/en.2015-1747](https://doi.org/10.1210/en.2015-1747)
 
-<a id="ref-63"></a>[63] Wang Y, et al. (2022). Activin B promotes liver fibrosis via JNK/iNOS/PARP1 signaling. *Hepatology Communications*, 6(11):3145–3161. [https://doi.org/10.1002/hep4.2037](https://doi.org/10.1002/hep4.2037)
+<span id="ref-62">[62]</span> Kanamori Y, Murakami M, Sugiyama M, et al. (2016). Inflammation‑induced activin B regulates hepcidin through ALK2/ActRIIA. *Scientific Reports*, 6:38702. [https://doi.org/10.1038/srep38702](https://doi.org/10.1038/srep38702)
 
-<a id="ref-64"></a>[64] Latres E, Mastaitis J, Fury W, et al. (2017). Activin A more prominently regulates muscle mass in primates than does GDF8. *Nature Communications*, 8:15153. [https://doi.org/10.1038/ncomms15153](https://doi.org/10.1038/ncomms15153)
+<span id="ref-63">[63]</span> Wang Y, et al. (2022). Activin B promotes liver fibrosis via JNK/iNOS/PARP1 signaling. *Hepatology Communications*, 6(11):3145–3161. [https://doi.org/10.1002/hep4.2037](https://doi.org/10.1002/hep4.2037)
 
-<a id="ref-65"></a>[65] Heymsfield SB, Coleman LA, Miller R, Rooks DS, Laurent D, Petricoul O, Praestgaard J, Swan T, Wade T, Perry RG, Goodpaster BH, Roubenoff R. (2021). Effect of Bimagrumab vs Placebo on Body Fat Mass Among Adults With T2D and Obesity. *JAMA Network Open*, 4(1):e2033457. [https://doi.org/10.1001/jamanetworkopen.2020.33457](https://doi.org/10.1001/jamanetworkopen.2020.33457)
+<span id="ref-64">[64]</span> Latres E, Mastaitis J, Fury W, et al. (2017). Activin A more prominently regulates muscle mass in primates than does GDF8. *Nature Communications*, 8:15153. [https://doi.org/10.1038/ncomms15153](https://doi.org/10.1038/ncomms15153)
 
-<a id="ref-67"></a>[67] Heymsfield SB, et al. (2026). Bimagrumab and Semaglutide Combination Therapy in Obesity: BELIEVE Phase 2. *Nature Medicine*. [https://doi.org/10.1038/s41591‑026‑04204‑0](https://doi.org/10.1038/s41591-026-04204-0)
+<span id="ref-65">[65]</span> Heymsfield SB, Coleman LA, Miller R, Rooks DS, Laurent D, Petricoul O, Praestgaard J, Swan T, Wade T, Perry RG, Goodpaster BH, Roubenoff R. (2021). Effect of Bimagrumab vs Placebo on Body Fat Mass Among Adults With T2D and Obesity. *JAMA Network Open*, 4(1):e2033457. [https://doi.org/10.1001/jamanetworkopen.2020.33457](https://doi.org/10.1001/jamanetworkopen.2020.33457)
 
-<a id="ref-79"></a>[79] Zhao D, Huang Z, Li X, et al. (2024). BMP9 and BMP10 coordinate liver cellular crosstalk. *eLife*, 13:e95811. [https://doi.org/10.7554/eLife.95811](https://doi.org/10.7554/eLife.95811)
+<span id="ref-67">[67]</span> Heymsfield SB, et al. (2026). Bimagrumab and Semaglutide Combination Therapy in Obesity: BELIEVE Phase 2. *Nature Medicine*. [https://doi.org/10.1038/s41591-026-04204-0](https://doi.org/10.1038/s41591-026-04204-0)
 
-<a id="ref-82"></a>[82] Babitt JL, Huang FW, Xia Y, Sidis Y, Andrews NC, Lin HY. (2007). Modulation of bone morphogenetic protein signaling in vivo regulates systemic iron balance. *Journal of Clinical Investigation*, 117(7):1933–1939. [https://doi.org/10.1172/JCI31342](https://doi.org/10.1172/JCI31342)
+<span id="ref-79">[79]</span> Zhao D, Huang Z, Li X, et al. (2024). BMP9 and BMP10 coordinate liver cellular crosstalk. *eLife*, 13:e95811. [https://doi.org/10.7554/eLife.95811](https://doi.org/10.7554/eLife.95811)
 
-<a id="ref-83"></a>[83] Chen C, et al. (2021). Potential Functions of the BMP Family in Bone, Obesity, and Glucose Metabolism. *Journal of Diabetes Research*, 2021:6707464. [https://doi.org/10.1155/2021/6707464](https://doi.org/10.1155/2021/6707464)
+<span id="ref-82">[82]</span> Babitt JL, Huang FW, Xia Y, Sidis Y, Andrews NC, Lin HY. (2007). Modulation of BMP signaling in vivo regulates systemic iron balance. *Journal of Clinical Investigation*, 117(7):1933–1939. [https://doi.org/10.1172/JCI31342](https://doi.org/10.1172/JCI31342)
 
-<a id="ref-85"></a>[85] Chen C, et al. (2024). BMP9 in liver diseases. *Biomolecules*, 14(8):1013. [https://doi.org/10.3390/biom14081013](https://doi.org/10.3390/biom14081013)
+<span id="ref-83">[83]</span> Chen C, et al. (2021). Potential Functions of the BMP Family in Bone, Obesity, and Glucose Metabolism. *Journal of Diabetes Research*, 2021:6707464. [https://doi.org/10.1155/2021/6707464](https://doi.org/10.1155/2021/6707464)
 
-<a id="ref-91"></a>[91] Liu H, et al. (2023). Roles of Activin A and Gpnmb in MASLD. *Diabetes*, 72(12):1855–1868. [https://doi.org/10.2337/db23‑0357](https://doi.org/10.2337/db23-0357)
+<span id="ref-85">[85]</span> Chen C, et al. (2024). BMP9 in liver diseases. *Biomolecules*, 14(8):1013. [https://doi.org/10.3390/biom14081013](https://doi.org/10.3390/biom14081013)
 
-<a id="ref-92"></a>[92] Jönsson C, Bergram M, Kechagias S, Nasr P, Ekstedt M. (2024). Activin A levels in MASLD associates with fibrosis and the PNPLA3 I148M variant. *Scandinavian Journal of Gastroenterology*, 59(6):737–741. [https://doi.org/10.1080/00365521.2024.2334804](https://doi.org/10.1080/00365521.2024.2334804)
+<span id="ref-91">[91]</span> Liu H, et al. (2023). Roles of Activin A and Gpnmb in MASLD. *Diabetes*, 72(12):1855–1868. [https://doi.org/10.2337/db23-0357](https://doi.org/10.2337/db23-0357)
 
-<a id="ref-93"></a>[93] Hamang M, et al. (2023). The role of activins in liver health and disease. *Biochemical Pharmacology*, 213:115668. [https://doi.org/10.1016/j.bcp.2023.115668](https://doi.org/10.1016/j.bcp.2023.115668)
+<span id="ref-92">[92]</span> Jönsson C, Bergram M, Kechagias S, Nasr P, Ekstedt M. (2024). Activin A levels in MASLD associates with fibrosis. *Scandinavian Journal of Gastroenterology*, 59(6):737–741. [https://doi.org/10.1080/00365521.2024.2334804](https://doi.org/10.1080/00365521.2024.2334804)
 
-<a id="ref-94"></a>[94] Mekala S, et al. (2024). Activin A antagonist NUCC‑555 as liver disease therapy. *Cells*, 13(7):649. [https://doi.org/10.3390/cells13070649](https://doi.org/10.3390/cells13070649)
+<span id="ref-93">[93]</span> Hamang M, et al. (2023). The role of activins in liver health and disease. *Biochemical Pharmacology*, 213:115668. [https://doi.org/10.1016/j.bcp.2023.115668](https://doi.org/10.1016/j.bcp.2023.115668)
 
-<a id="ref-96"></a>[96] Lu B, et al. (2019). GDF11 gene transfer prevents HFD‑induced obesity. *Journal of Translational Medicine*, 17:425. [https://doi.org/10.1186/s12967‑019‑02166‑1](https://doi.org/10.1186/s12967-019-02166-1)
+<span id="ref-94">[94]</span> Mekala S, et al. (2024). Activin A antagonist NUCC‑555 as liver disease therapy. *Cells*, 13(7):649. [https://doi.org/10.3390/cells13070649](https://doi.org/10.3390/cells13070649)
 
-<a id="ref-97"></a>[97] Katsimpardi L, et al. (2019). Systemic GDF11 stimulates adiponectin and mimics caloric restriction. *Aging Cell*, 18(4):e13038. [https://doi.org/10.1111/acel.13038](https://doi.org/10.1111/acel.13038)
+<span id="ref-96">[96]</span> Lu B, et al. (2019). GDF11 gene transfer prevents HFD‑induced obesity. *Journal of Translational Medicine*, 17:425. [https://doi.org/10.1186/s12967-019-02166-1](https://doi.org/10.1186/s12967-019-02166-1)
 
-<a id="ref-98"></a>[98] Frohlich J, et al. (2022). GDF11 inhibits adipogenesis and improves adipocyte glucose metabolism. *Cell Proliferation*, 55(8):e13310. [https://doi.org/10.1111/cpr.13310](https://doi.org/10.1111/cpr.13310)
+<span id="ref-97">[97]</span> Katsimpardi L, et al. (2019). Systemic GDF11 stimulates adiponectin and mimics caloric restriction. *Aging Cell*, 18(4):e13038. [https://doi.org/10.1111/acel.13038](https://doi.org/10.1111/acel.13038)
 
-<a id="ref-99"></a>[99] Walker RG, et al. (2020). Exogenous rGDF11 reduces body weight and improves glucose homeostasis. *Scientific Reports*, 10:4965. [https://doi.org/10.1038/s41598‑020‑61443‑y](https://doi.org/10.1038/s41598-020-61443-y)
+<span id="ref-98">[98]</span> Frohlich J, et al. (2022). GDF11 inhibits adipogenesis and improves adipocyte glucose metabolism. *Cell Proliferation*, 55(8):e13310. [https://doi.org/10.1111/cpr.13310](https://doi.org/10.1111/cpr.13310)
 
-<a id="ref-100"></a>[100] Lin S, et al. (2023). GDF11 inhibits human adipose stromal cell adipogenesis via ALK5/KLF15/β‑catenin/PPARγ cascade. *Heliyon*, 9(9):e13088. [https://doi.org/10.1016/j.heliyon.2023.e13088](https://doi.org/10.1016/j.heliyon.2023.e13088)
+<span id="ref-99">[99]</span> Walker RG, et al. (2020). Exogenous rGDF11 reduces body weight and improves glucose homeostasis. *Scientific Reports*, 10:4965. [https://doi.org/10.1038/s41598-020-61443-y](https://doi.org/10.1038/s41598-020-61443-y)
 
-<a id="ref-101"></a>[101] Sagliocchi S, et al. (2026). GDF11 promotes cold‑induced adipose browning via Smad2/3 signaling. *Journal of Basic and Clinical Physiology and Pharmacology*. [https://doi.org/10.1515/jbcpp‑2026‑0087](https://doi.org/10.1515/jbcpp-2026-0087)
+<span id="ref-100">[100]</span> Lin S, et al. (2023). GDF11 inhibits human adipose stromal cell adipogenesis via ALK5/KLF15/β‑catenin/PPARγ. *Heliyon*, 9(9):e13088. [https://doi.org/10.1016/j.heliyon.2023.e13088](https://doi.org/10.1016/j.heliyon.2023.e13088)
 
-<a id="ref-120"></a>[120] Dagbay K, Hill SE, Saldana M, et al. (2020). Structural basis of pro‑myostatin latency and activation by SRK‑015. *Journal of Biological Chemistry*, 295(25):8497–8508. [https://doi.org/10.1074/jbc.RA119.012293](https://doi.org/10.1074/jbc.RA119.012293)
+<span id="ref-101">[101]</span> Sagliocchi S, et al. (2026). GDF11 promotes cold‑induced adipose browning via Smad2/3. *Journal of Basic and Clinical Physiology and Pharmacology*. [https://doi.org/10.1515/jbcpp-2026-0087](https://doi.org/10.1515/jbcpp-2026-0087)
 
-<a id="ref-121"></a>[121] Cote S, et al. (2019). Development of a quantitative immunoassay for serum latent myostatin. *SLAS Discovery*, 24(2):175–183. [https://doi.org/10.1177/2472555219860779](https://doi.org/10.1177/2472555219860779)
+<span id="ref-120">[120]</span> Dagbay K, Hill SE, Saldana M, et al. (2020). Structural basis of pro‑myostatin latency and activation by SRK‑015. *Journal of Biological Chemistry*, 295(25):8497–8508. [https://doi.org/10.1074/jbc.RA119.012293](https://doi.org/10.1074/jbc.RA119.012293)
 
-<a id="ref-125"></a>[125] Welsh BT, et al. (2021). Preclinical safety assessment of apitegromab. *International Journal of Toxicology*, 40(5):411–419. [https://doi.org/10.1177/10915818211025477](https://doi.org/10.1177/10915818211025477)
+<span id="ref-121">[121]</span> Cote S, et al. (2019). Development of a quantitative immunoassay for serum latent myostatin. *SLAS Discovery*, 24(2):175–183. [https://doi.org/10.1177/2472555219860779](https://doi.org/10.1177/2472555219860779)
 
-<a id="ref-127"></a>[127] David L, Mallet C, Mazerbourg S, Feige JJ, Bailly S. (2007). Identification of BMP9 and BMP10 as functional activators of ALK1. *Blood*, 109(5):1953–1961. [https://doi.org/10.1182/blood‑2006‑07‑034124](https://doi.org/10.1182/blood-2006-07-034124)
+<span id="ref-125">[125]</span> Welsh BT, et al. (2021). Preclinical safety assessment of apitegromab. *International Journal of Toxicology*, 40(5):411–419. [https://doi.org/10.1177/10915818211025477](https://doi.org/10.1177/10915818211025477)
 
-<a id="ref-130"></a>[130] David L, Mallet C, Vailhe B, Lamouille S, Feige JJ, Bailly S. (2008). ALK1/endoglin pathway: a new regulator of vascular quiescence. *Circulation Research*, 102(8):960–968. [https://doi.org/10.1161/CIRCRESAHA.107.165530](https://doi.org/10.1161/CIRCRESAHA.107.165530)
+<span id="ref-127">[127]</span> David L, Mallet C, Mazerbourg S, Feige JJ, Bailly S. (2007). Identification of BMP9 and BMP10 as functional activators of ALK1. *Blood*, 109(5):1953–1961. [https://doi.org/10.1182/blood-2006-07-034124](https://doi.org/10.1182/blood-2006-07-034124)
 
-<a id="ref-132"></a>[132] Tillet E, et al. (2018). BMP9‑BMP10 heterodimer is the major BMP active form in human plasma. *Journal of Biological Chemistry*, 293(20):7654–7665. [https://doi.org/10.1074/jbc.RA118.002968](https://doi.org/10.1074/jbc.RA118.002968)
+<span id="ref-130">[130]</span> David L, Mallet C, Vailhe B, Lamouille S, Feige JJ, Bailly S. (2008). ALK1/endoglin pathway: regulator of vascular quiescence. *Circulation Research*, 102(8):960–968. [https://doi.org/10.1161/CIRCRESAHA.107.165530](https://doi.org/10.1161/CIRCRESAHA.107.165530)
+
+<span id="ref-132">[132]</span> Tillet E, et al. (2018). BMP9‑BMP10 heterodimer is the major BMP active form in human plasma. *Journal of Biological Chemistry*, 293(20):7654–7665. [https://doi.org/10.1074/jbc.RA118.002968](https://doi.org/10.1074/jbc.RA118.002968)
+
 
 ---
 
